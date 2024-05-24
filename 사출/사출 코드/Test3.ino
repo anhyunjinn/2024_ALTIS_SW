@@ -1,4 +1,4 @@
-짐벌 각도 추정코드 : 시작 5초 후 통신 + 고도 측정
+// 짐벌 각도 추정코드 : 시작 5초 후 통신 + 고도 측정
 
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
