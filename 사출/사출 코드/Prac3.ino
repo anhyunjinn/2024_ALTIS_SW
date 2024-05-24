@@ -1,5 +1,5 @@
-Prac4 - 수동 버튼 추가
-버튼에는 10kΩ 저항 추가할것
+// Prac4 - 수동 버튼 추가
+// 버튼에는 10kΩ 저항 추가할것
 
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
