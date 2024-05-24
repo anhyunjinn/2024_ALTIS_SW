@@ -1,4 +1,4 @@
-AS5600 예제 코드
+// AS5600 예제 코드
 
 #include <Wire.h>
 
