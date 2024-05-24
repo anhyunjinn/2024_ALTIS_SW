@@ -1,4 +1,4 @@
-짐벌 코드 : 실시간 고도 출력, 로켓 각도 45도 일시 문구 출력
+// 짐벌 코드 : 실시간 고도 출력, 로켓 각도 45도 일시 문구 출력
 
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
