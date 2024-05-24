@@ -18,8 +18,8 @@ mystruct mydata;
 
 void setup() {
   // put your setup code here, to run once:
-  Serial.begin(9600); //PCíê³  ìëì´ë¸íê³ ì íµì ë¼ì¸!
-  lora.begin(9600); //ìëì´ë¸íê³  ë¡ë¼ëª¨ëíê³ ì íµì ë¼ì¸!
+  Serial.begin(9600); //PC와 아두이노의 통신 라인
+  lora.begin(9600); //아두이노와 LoRa 모듈의 통신 라인
 }
 
 void loop() {
