@@ -1,0 +1,91 @@
+IMU, MPU6050, 칼만필터 수식 및 raw 데이터 적용 코드
+
+#include <Wire.h>
+#include <MPU6050.h>
+
+MPU6050 mpu;
+
+// 칼만 필터 변수 및 상수
+float angleX, angleY; // 추정된 각도
+float biasX = 0, biasY = 0;
+float P[2][2] = {0}, K[2];
+
+const float Q_angle = 0.001;
+const float Q_bias = 0.003;
+const float R_measure = 0.03;
+
+float dt;
+uint32_t timer;
+
+void setup() {
+  Serial.begin(115200);
+  Wire.begin();
+  mpu.initialize();
+  timer = micros();
+}
+
+void loop() {
+  // 센서에서 데이터 읽기
+  mpu.update();
+  
+  float accX = mpu.getAccX();
+  float accY = mpu.getAccY();
+  float accZ = mpu.getAccZ();
+  float gyroX = mpu.getGyroX() - biasX;
+  float gyroY = mpu.getGyroY() - biasY;
+
+  float accAngleX = atan2(accY, accZ + PI) * RAD_TO_DEG;
+  float accAngleY = atan2(accX, accZ + PI) * RAD_TO_DEG;
+
+  dt = (micros() - timer) / 1000000.0f; // 시간차 계산
+  timer = micros();
+
+  // 자이로스코프 데이터를 각도로 변환
+  angleX += dt * gyroX;
+  angleY += dt * gyroY;
+
+  // 칼만 필터
+  // X축 칼만 필터 적용
+  P[0][0] += dt * (dt * P[1][1] + P[0][1] + P[1][0] + Q_angle);
+  P[0][1] -= dt * P[1][1];
+  P[1][0] -= dt * P[1][1];
+  P[1][1] += Q_bias * dt;
+
+  K[0] = P[0][0] / (P[0][0] + R_measure);
+  K[1] = P[1][0] / (P[0][0] + R_measure);
+
+  float y = accAngleX - angleX;
+  angleX += K[0] * y;
+  biasX += K[1] * y;
+
+  P[0][0] -= K[0] * P[0][0];
+  P[0][1] -= K[0] * P[0][1];
+  P[1][0] -= K[1] * P[0][0];
+  P[1][1] -= K[1] * P[0][1];
+
+  // Y축 칼만 필터 적용
+  P[0][0] += dt * (dt * P[1][1] + P[0][1] + P[1][0] + Q_angle);
+  P[0][1] -= dt * P[1][1];
+  P[1][0] -= dt * P[1][1];
+  P[1][1] += Q_bias * dt;
+
+  K[0] = P[0][0] / (P[0][0] + R_measure);
+  K[1] = P[1][0] / (P[0][0] + R_measure);
+
+  y = accAngleY - angleY;
+  angleY += K[0] * y;
+  biasY += K[1] * y;
+
+  P[0][0] -= K[0] * P[0][0];
+  P[0][1] -= K[0] * P[0][1];
+  P[1][0] -= K[1] * P[0][0];
+  P[1][1] -= K[1] * P[0][1];
+
+  // 값 출력
+  Serial.print("Kalman Angle X: ");
+  Serial.print(angleX);
+  Serial.print(" | Kalman Angle Y: ");
+  Serial.println(angleY);
+
+  delay(50);
+}

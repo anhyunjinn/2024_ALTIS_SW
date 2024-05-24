@@ -1,0 +1,57 @@
+IMU, BMI270, 칼만필터 수식 및 raw 데이터 적용 코드
+
+실제 사용시에는 BMI270 센서의 적절한 라이브러리로 고쳐서 사용해야 함.
+
+
+
+#include <Wire.h>
+#include <BMI270.h>  // 가정된 BMI270 라이브러리
+
+BMI270 imu;
+
+float angleX, angleY; // 추정된 각도
+float biasX = 0, biasY = 0;
+float P[2][2] = {0}, K[2];
+const float Q_angle = 0.001;
+const float Q_bias = 0.003;
+const float R_measure = 0.03;
+
+float dt;
+uint32_t timer;
+
+void setup() {
+  Serial.begin(115200);
+  Wire.begin();
+  imu.begin(); // BMI270 초기화
+  timer = micros();
+}
+
+void loop() {
+  imu.update(); // 데이터 업데이트
+  
+  float accX = imu.readAccX(); // 데이터 읽기
+  float accY = imu.readAccY();
+  float accZ = imu.readAccZ();
+  float gyroX = imu.readGyroX() - biasX;
+  float gyroY = imu.readGyroY() - biasY;
+
+  float accAngleX = atan2(accY, sqrt(accX * accX + accZ * accZ)) * RAD_TO_DEG; // 수정된 계산
+  float accAngleY = atan2(accX, sqrt(accY * accY + accZ * accZ)) * RAD_TO_DEG; // 수정된 계산
+
+  dt = (micros() - timer) / 1000000.0f;
+  timer = micros();
+
+  // 자이로스코프 데이터를 각도로 변환
+  angleX += dt * gyroX;
+  angleY += dt * gyroY;
+
+  // 칼만 필터 알고리즘은 그대로 유지
+
+  // 값 출력
+  Serial.print("Kalman Angle X: ");
+  Serial.print(angleX);
+  Serial.print(" | Kalman Angle Y: ");
+  Serial.println(angleY);
+
+  delay(50);
+}

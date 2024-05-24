@@ -1,0 +1,61 @@
+IMU, 칼만필터, BMI270 적용 코드
+
+바뀐점 
+- MPU6050 대신 BMI270 센서 클래스 사용
+- 센서 초기화 및 데이터 읽기 함수명을 BMI270 라이브러리에 맞게 변경
+(imu.begin(), imu.update(), imu.readAccelX(), 등)
+
+사용하는 BMI270센서에 따라 라이브러리와 함수명을 변경해야할 수 있음.
+
+
+#include <Wire.h>
+#include <BMI270.h> // BMI270 라이브러리 포함
+#include <Kalman.h>
+
+BMI270 imu; // MPU6050 대신 BMI270 객체 생성
+Kalman kalmanX;
+Kalman kalmanY;
+
+float gyroXangle, gyroYangle; // 각도 추정을 위한 변수
+float kalAngleX, kalAngleY; // 칼만 필터 적용 각도
+uint32_t timer;
+
+void setup() {
+  Serial.begin(115200);
+  Wire.begin();
+  imu.begin(); // 초기화 함수 변경
+  timer = micros();
+}
+
+void loop() {
+  // 센서에서 데이터 읽기
+  imu.update(); // 데이터 업데이트
+  
+  float accX = imu.readAccelX();
+  float accY = imu.readAccelY();
+  float accZ = imu.readAccelZ();
+  float gyroX = imu.readGyroX();
+  float gyroY = imu.readGyroY();
+
+  float accAngleX = (atan2(accY, accZ) + PI) * RAD_TO_DEG;
+  float accAngleY = (atan2(accX, accZ) + PI) * RAD_TO_DEG;
+
+  float dt = (micros() - timer) / 1000000.0; // 시간차 계산
+  timer = micros();
+
+  // 자이로스코프 데이터를 각도로 변환
+  gyroXangle += gyroX * dt;
+  gyroYangle += gyroY * dt;
+
+  // 칼만 필터로 각도 추정
+  kalAngleX = kalmanX.getAngle(accAngleX, gyroX, dt);
+  kalAngleY = kalmanY.getAngle(accAngleY, gyroY, dt);
+
+  // 값 출력
+  Serial.print("Kalman Angle X: ");
+  Serial.print(kalAngleX);
+  Serial.print(" | Kalman Angle Y: ");
+  Serial.println(kalAngleY);
+
+  delay(50);
+}
