@@ -1,0 +1,56 @@
+// 무빙 에버리지 필터는 고주파에 유리해서 굳이 bmp에 적용 안하겠음
+// 버퍼 크기 10으로 해놨는데 bmp고도데이터가 저주파라 버퍼 크기 높을수록 좋을 건 없는데 실험 한 번 해보고 늘릴지 줄일지 정하겠음
+// 센싱팀에서 로우데이터받아서 할 예정이므로 아래 필터부분이 제외한 실행코드는 실험 때만 쓰고, 시험발사 때는 필요없는 부분 지우고 센싱팀한테 받은 로우데이터 변수를 그대로 쓰겠음
+// 가중치는 고도데이터는 현재시점 기준 최근 데이터가 더 중요하긴 한데 그렇다고 alpha값을 너무 크게 하면 데이터가 필터써도 튀는 부분이 있을 거고,
+너무 낮추면 그래프는 부드러워지긴할텐데 최고점데이터찍는 시간이 지연되니까 일단 0.2로 두고 실험해서 바꿔보겠음
+
+#include <Wire.h>
+#include "i2c.h"
+#include "i2c_BMP280.h"
+BMP280 bmp280;
+
+#define BUFFER_SIZE 10 // 버퍼 크기 10
+float altitudeBuffer[BUFFER_SIZE]; // 고도 데이터를 저장할 버퍼
+int bufferIndex = 0; // 버퍼 인덱스 초깃값
+
+void setup() {
+    Serial.begin(115200);
+
+    Serial.print("Probe BMP280: ");
+    if (bmp280.initialize()) Serial.println("Sensor found");
+    else {
+        Serial.println("Sensor missing");
+        while (1) {}
+    }
+
+    // BMP280 설정
+    bmp280.setPressureOversampleRatio(2);
+    bmp280.setTemperatureOversampleRatio(1);
+    bmp280.setFilterRatio(4);
+    bmp280.setStandby(0);
+
+    // BMP280 측정 시작
+    bmp280.setEnabled(0);
+    bmp280.triggerMeasurement();
+}
+
+void loop() {
+    bmp280.awaitMeasurement();
+
+    float altitude;
+    bmp280.getAltitude(altitude);
+
+    // 저주파 통과 필터 적용
+    float alpha = 0.2; // 가중치
+    altitudeBuffer[bufferIndex] = alpha * altitude + (1 - alpha) * altitudeBuffer[(bufferIndex + BUFFER_SIZE - 1) % BUFFER_SIZE]; //2번째항은 현재인덱스에 음수방지용으로 10더하고 1빼걸 10으로 나눠서 이전시점데이터 인덱스를 표현
+    bufferIndex = (bufferIndex + 1) % BUFFER_SIZE;  //데이터 담을 다음 버퍼로 바꾸기
+
+    // BMP280 다음 측정 트리거
+    bmp280.triggerMeasurement();
+
+    // 필터링된 고도 출력
+    Serial.print("Filtered Altitude: ");
+    Serial.println(altitudeBuffer[bufferIndex]);
+
+    delay(1000); // 1초 대기
+}
