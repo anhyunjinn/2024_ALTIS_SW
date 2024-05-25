@@ -1,0 +1,113 @@
+사출조건 코드1
+
+사용 센서
+ - BMP280 : 고도 측정, 칼만 필터 적용되어 증가하는 추세를 보이다가 감소로 바뀌면 사출 조건
+ - MPU6050 : 각도 측정, 지면 90도 기준 45도가 되면 사출 조건
+ - 타이머 : 코드 시작후 15초 후에 loop문 시작, loop문 시작 후 15초가 지나면 사출 조건
+ - 버튼 : 10번 핀에 연결, 10kΩ 저항 추가할 필요 있음, 강제 사출 조건
+ - LED : BMP가 데이터를 못받을 경우 깜빡임 표시
+ - 모터 : 모터 핀 1,2 가 각각 2,3번 핀에 연결, ENA핀은 9번, 사용할 모터에 따라 수정, 사출 조건 만족 시 200RPM으로 시계방향 회전
+
+ - x,y축 각도, 90도 기준 편차 각도, 실시간 고도는 시리얼 모니터로 출력됨
+ - 칼만 필터의 Q와 R 값은 실험을 기반으로 조율하여, 센서 특유의 노이즈와 환경에 가장 적합하게 만들어야 함
+
+
+#include <Wire.h>
+#include <Adafruit_Sensor.h>
+#include <Adafruit_BMP280.h>
+#include <MPU6050.h>
+
+#define MOTOR_PIN1 2
+#define MOTOR_PIN2 3
+#define MOTOR_ENA 9
+#define BUTTON_PIN 10
+#define ERROR_LED_PIN 4
+#define SEA_LEVEL_PRESSURE 1013.25
+
+const int START_DELAY = 30000; // 시작 후 딜레이(ms)
+const float CRITICAL_TILT_ANGLE = 45.0; // 위험 기울기 각도
+
+Adafruit_BMP280 bmp;
+MPU6050 mpu;
+unsigned long startTime;
+
+// 칼만 필터 변수
+float Q_altitude = 0.1;
+float R_altitude = 0.5;
+float P = 1.0;
+float altitudeEstimate = 0.0;
+float previousAltitudeEstimate = 0.0; // 이전 고도 추정값
+bool increasing = true; // 고도가 증가 중인지 여부
+
+void setup() {
+  Serial.begin(9600);
+  Wire.begin();
+  mpu.initialize();
+  startTime = millis();
+
+if (!bmp.begin()) {
+    Serial.println(F("Could not find a valid BMP280 sensor, check wiring or try resetting your board."));
+    pinMode(ERROR_LED_PIN, OUTPUT);
+    while(true) {
+      digitalWrite(ERROR_LED_PIN, HIGH); // 오류 시 LED 켜기
+      delay(500);
+      digitalWrite(ERROR_LED_PIN, LOW); // 오류 표시 LED 깜박임
+      delay(500);
+    }
+
+  bmp.setSampling(Adafruit_BMP280::MODE_NORMAL, Adafruit_BMP280::FILTER_OFF);
+  pinMode(MOTOR_PIN1, OUTPUT);
+  pinMode(MOTOR_PIN2, OUTPUT);
+  pinMode(MOTOR_ENA, OUTPUT);
+  pinMode(BUTTON_PIN, INPUT);
+}
+
+void loop() {
+  float altitude = bmp.readAltitude(SEA_LEVEL_PRESSURE); // 상수 사용
+  mpu.update(); // 데이터 업데이트
+  updateKalmanAltitude(altitude); // 칼만 필터를 사용한 고도 업데이트
+
+  float angleX = mpu.getAngleX();
+  float angleY = mpu.getAngleY();
+  float tiltAngle = sqrt(angleX * angleX + angleY * angleY);
+  float deviationAngle = abs(90 - tiltAngle); // 수직에서의 편차
+
+  // 고도가 감소하기 시작하는지 감지
+  if (increasing && (previousAltitudeEstimate > altitudeEstimate)) {
+    increasing = false;
+  }
+  
+  // 출력
+  Serial.print("X Axis Angle: ");
+  Serial.print(angleX);
+  Serial.print(" degrees, Y Axis Angle: ");
+  Serial.print(angleY);
+  Serial.print(" degrees, Deviation from Vertical: ");
+  Serial.print(deviationAngle);
+  Serial.print(" degrees, Kalman Filtered Altitude: ");
+  Serial.print(altitudeEstimate);
+  Serial.println(" meters");
+
+  if ((millis() - startTime > START_DELAY) || (deviationAngle >= CRITICAL_TILT_ANGLE) || digitalRead(BUTTON_PIN) || !increasing) {
+    rotateMotor(200); // 모터를 200 RPM으로 회전
+    Serial.println("Condition met. Motor rotated.");
+  }
+
+  previousAltitudeEstimate = altitudeEstimate; // 이전 고도 추정값 업데이트
+  delay(500);
+}
+
+void rotateMotor(int rpm) {
+  digitalWrite(MOTOR_PIN1, HIGH);
+  digitalWrite(MOTOR_PIN2, LOW);
+  analogWrite(MOTOR_ENA, map(rpm, 0, 255, 0, 200));
+  long rotationDuration = 60000 / rpm;
+  delay(rotationDuration);
+  digitalWrite(MOTOR_ENA, LOW); // 모터 정지
+}
+
+void updateKalmanAltitude(float altitude) {
+  float K = P / (P + R_altitude);
+  altitudeEstimate = altitudeEstimate + K * (altitude - altitudeEstimate);
+  P = (1 - K) * P + Q_altitude;  // 오차 공분산 업데이트
+}
