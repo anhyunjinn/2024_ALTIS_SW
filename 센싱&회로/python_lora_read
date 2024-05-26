@@ -1,0 +1,20 @@
+import serial
+import time
+
+# Arduino가 연결된 시리얼 포트 설정 (예: COM3, /dev/ttyUSB0 등)
+arduino_port = 'COM8'  # 이 부분은 시스템에 맞게 변경
+baud_rate = 9600  # Arduino의 baud rate와 일치해야 함
+
+# 시리얼 포트 열기
+ser = serial.Serial(arduino_port, baud_rate, timeout=1)
+time.sleep(2)  # 시리얼 포트 안정화 대기
+
+try:
+    while True:
+        if ser.in_waiting > 0:
+            line = ser.readline().decode('utf-8').rstrip()
+            print(line)
+except KeyboardInterrupt:
+    print("Serial communication stopped")
+finally:
+    ser.close()
