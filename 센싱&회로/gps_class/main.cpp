@@ -13,7 +13,7 @@ void setup() {
 void loop() {
   if (gps.ready()) {  // GPS 데이터 준비 완료 확인
     float latitude, longitude;
-    gps.read(&latitude, &longitude);  // GPS 데이터 읽기
+    gps.read(&latitude, &longitude);  // GPS 데이터 읽고 저장
 
     // 읽은 GPS 데이터 출력
     Serial.print("Latitude: ");
