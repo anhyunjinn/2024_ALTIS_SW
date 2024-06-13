@@ -1,3 +1,4 @@
+// GPS.h
 #ifndef GPS_H
 #define GPS_H
 
@@ -7,13 +8,15 @@
 
 class GPS {
 public:
-    bool set(HardwareSerial& serial,int baudrate);
-    void read(float* lat , float* lng);
+    GPS(HardwareSerial& serial, int baudrate) : _serial(serial), _gps(), _baudrate(baudrate) {}
+    bool set();
     bool ready();
+    void read(float* lat, float* lng);
 
 private:
     HardwareSerial& _serial;
     TinyGPSPlus _gps;
+    int _baudrate;
 };
 
 #endif // GPS_H
