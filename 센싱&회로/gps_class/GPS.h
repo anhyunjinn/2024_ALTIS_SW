@@ -7,7 +7,7 @@
 
 class GPS {
 public:
-    void begin(HardwareSerial& serial,int baudrate);
+    bool set(HardwareSerial& serial,int baudrate);
     void read(float* lat , float* lng);
     bool ready();
 
