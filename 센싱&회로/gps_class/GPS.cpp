@@ -1,10 +1,15 @@
 #include "GPS.h"
 
-void GPS::begin(HardwareSerial& serial,int baudrate) {
+bool GPS::set(HardwareSerial& serial,int baudrate) {
     TinyGPSPlus _gps = TinyGPSPlus();
     _serial = serial;
     _serial.begin(baudrate);
+    if(millis() > 5000 &&_gps.charsProcessed() < 10){
+        return false;
+    }
+    return true;
 }
+
 bool GPS::ready(){
     while(_serial.available()>0){
         if(_gps.encode(_serial.read()) && _gps.location.isValid()){
