@@ -1,11 +1,11 @@
 #include <Arduino.h>
 #include "GPS.h"
 
-GPS gps;  // GPS 객체 생성
+GPS gps(Serial2,9600);  // GPS 객체 생성
 
 void setup() {
   Serial.begin(115200);
-  while(!gps.set(Serial1, 9600)){  // GPS 초기화, 시리얼 객체, 보드레이트
+  while(!gps.set()){  // GPS 초기화및 상태 확인
   Serial.println("gps 에러");
   }
 }
