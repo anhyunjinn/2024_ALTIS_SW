@@ -1,9 +1,8 @@
 #include "GPS.h"
 
-bool GPS::set(HardwareSerial& serial,int baudrate) {
+bool GPS::set() {
     TinyGPSPlus _gps = TinyGPSPlus();
-    _serial = serial;
-    _serial.begin(baudrate);
+    _serial.begin(_baudrate);
     if(millis() > 5000 &&_gps.charsProcessed() < 10){
         return false;
     }
@@ -24,3 +23,5 @@ void GPS::read(float* lat , float* lng)
     *lat = _gps.location.lat();
     *lng = _gps.location.lng();
 }
+
+
