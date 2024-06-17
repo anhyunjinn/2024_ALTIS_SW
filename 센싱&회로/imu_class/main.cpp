@@ -1,5 +1,5 @@
 /***
-bmi270 설정및 인터럽트 데이터
+bmi270 설정 및 인터럽트 데이터
 ***/
 #include <Arduino.h>
 #include <Wire.h>
