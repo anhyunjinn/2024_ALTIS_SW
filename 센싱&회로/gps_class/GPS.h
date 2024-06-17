@@ -4,11 +4,12 @@
 
 #include <Arduino.h>
 #include <HardwareSerial.h>
-#include <TinyGPS++.h>
+#include <TinyGPSPlus.h>
 
 class GPS {
 public:
-    GPS(HardwareSerial& serial, int baudrate) : _serial(serial), _gps(), _baudrate(baudrate) {}
+    GPS(HardwareSerial& serial, int baudrate)    : _serial(serial), _baudrate(baudrate) {}
+
     bool set();
     bool ready();
     void read(float* lat, float* lng);
