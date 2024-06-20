@@ -8,10 +8,10 @@
 
 class BM {
 public:
-    BM(TwoWire* wire, int clock, int interruptPin, int scl, int sda,float SEALEVELPRESSURE_HPA);
+    BM(TwoWire* wire, int clock, int interruptPin, int scl, int sda);
     int _interruptPin;
     bool set();
-    void read(double* p, double* a);
+    void read(double* p);
     bool ready();
     void handler();
 
@@ -21,10 +21,8 @@ private:
     int _scl;
     int _sda;
     volatile bool _interruptOccurred;
-    float _SEALEVELPRESSURE_HPA;
     BMP384 pressureSensor;
     bmp3_data data;
-    double readAltitude(double seaLevel);
 };
 
 #endif // BM_H
