@@ -1,14 +1,12 @@
 #include "BM.h"
 // #define debug
-BM::BM(TwoWire *wire, int clock, int interruptPin, int scl, int sda, float SEALEVELPRESSURE_HPA)
+BM::BM(TwoWire *wire, int clock, int interruptPin, int scl, int sda)
     : _Wire(*wire),
       _interruptPin(interruptPin),
       _clock(clock),
       _scl(scl),
-      _sda(sda),
-      _SEALEVELPRESSURE_HPA(SEALEVELPRESSURE_HPA)
-{
-}
+      _sda(sda)
+{}
 
 bool BM::set()
 {
@@ -81,14 +79,8 @@ bool BM::ready()
     return false;
 }
 
-void BM::read(double *p, double *a)
+void BM::read(double *p)
 {
         *p = data.pressure / 100.0;
-        *a = readAltitude(_SEALEVELPRESSURE_HPA);
 }
 
-double BM::readAltitude(double seaLevel)
-{
-    float atmospheric = data.pressure / 100.0F;
-    return 44330.0 * (1.0 - pow(atmospheric / seaLevel, 0.1903));
-}
