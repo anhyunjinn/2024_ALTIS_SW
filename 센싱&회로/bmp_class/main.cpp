@@ -4,7 +4,7 @@ bmi270 설정및 인터럽트 데이터
 #include <Wire.h>
 #include "BM.h"
 
-BM bm(&Wire, 1000000, 2, 19, 18,1005.7); // i2c객체 , 클럭속도, 인터럽트 핀 scl, sda, 해면기압
+BM bm(&Wire, 1000000, 2, 19, 18); // i2c객체 , 클럭속도, 인터럽트 핀 scl, sda, 해면기압
 // unsigned long before = 0;
 
 void bm_handler()
@@ -28,7 +28,7 @@ void setup()
 
 void loop()
 {
-  double p, a;
+  double p;
   if (bm.ready())
   {
     // unsigned long now = millis();
