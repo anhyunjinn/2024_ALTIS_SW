@@ -6,7 +6,8 @@ BM::BM(TwoWire *wire, int clock, int interruptPin, int scl, int sda)
       _clock(clock),
       _scl(scl),
       _sda(sda)
-{}
+{
+}
 
 bool BM::set()
 {
@@ -19,8 +20,8 @@ bool BM::set()
     {
         return false;
     }
-
-    // Variable to track errors returned by API calls
+    // 데이터주기 설정
+    //  Variable to track errors returned by API calls
     int8_t err = BMP3_OK;
     // ODR settings, see bmp3_defs.h (line 232-249)
     err = pressureSensor.setODRFrequency(BMP3_ODR_200_HZ);
@@ -28,25 +29,29 @@ bool BM::set()
     {
         return false;
     }
-    
-    //setOSRMultipliers,setFilterCoefficient,
-        bmp3_odr_filter_settings osrMultipliers =
+    // IIR필터 설정
+    err = pressureSensor.setFilterCoefficient(BMP3_IIR_FILTER_COEFF_127);
+    if (err)
     {
-        .press_os = BMP3_OVERSAMPLING_32X,
-        .temp_os = BMP3_OVERSAMPLING_2X,
-        0,0 // Unused values, included to avoid compiler warnings-as-error
-    };
+        return false;
+    }
+    // 오버샘플링 설정
+    bmp3_odr_filter_settings osrMultipliers =
+        {
+            .press_os = BMP3_OVERSAMPLING_32X,
+            .temp_os = BMP3_OVERSAMPLING_2X,
+            0,
+            0 // Unused values, included to avoid compiler warnings-as-error
+        };
+
     err = pressureSensor.setOSRMultipliers(osrMultipliers);
-    if(err)
+    if (err)
     {
-        // Setting OSR failed, most likely an invalid multiplier (code -3)
-        Serial.print("Error setting OSR! Error code: ");
-        Serial.println(err);
+        return false;
     }
 
-
-
-    // Configure the BMP384 to trigger interrupts whenever a measurement is performed
+    // 인터럽트 설정
+    //  Configure the BMP384 to trigger interrupts whenever a measurement is performed
     bmp3_int_ctrl_settings interruptSettings =
         {
             .output_mode = BMP3_INT_PIN_PUSH_PULL, // Push-pull or open-drain
@@ -96,6 +101,5 @@ bool BM::ready()
 
 void BM::read(double *p)
 {
-        *p = data.pressure / 100.0;
+    *p = data.pressure / 100.0;
 }
-
