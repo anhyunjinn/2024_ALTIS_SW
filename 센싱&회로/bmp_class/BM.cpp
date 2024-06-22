@@ -28,7 +28,22 @@ bool BM::set()
     {
         return false;
     }
+    
     //setOSRMultipliers,setFilterCoefficient,
+        bmp3_odr_filter_settings osrMultipliers =
+    {
+        .press_os = BMP3_OVERSAMPLING_32X,
+        .temp_os = BMP3_OVERSAMPLING_2X,
+        0,0 // Unused values, included to avoid compiler warnings-as-error
+    };
+    err = pressureSensor.setOSRMultipliers(osrMultipliers);
+    if(err)
+    {
+        // Setting OSR failed, most likely an invalid multiplier (code -3)
+        Serial.print("Error setting OSR! Error code: ");
+        Serial.println(err);
+    }
+
 
 
     // Configure the BMP384 to trigger interrupts whenever a measurement is performed
