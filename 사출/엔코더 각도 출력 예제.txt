@@ -1,0 +1,20 @@
+엔코더 각도 출력 예제
+
+#include <Arduino.h>
+
+const int encoderPin = 34; // EzEncoder가 연결된 아날로그 입력 핀 번호
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(encoderPin, INPUT);
+}
+
+void loop() {
+  float encoderValue = analogRead(encoderPin); // 엔코더로부터 값을 읽음
+  //float angle = map(encoderValue, 0, 4095, 0, 360); // ADC 값을 각도로 변환 (0-4095 -> 0-360도)
+  float angle = encoderValue/4095*360;
+  Serial.print("Current Angle: ");
+  Serial.println(angle,2); // 각도 출력
+  
+  delay(100); // 데이터 업데이트 주기
+}
