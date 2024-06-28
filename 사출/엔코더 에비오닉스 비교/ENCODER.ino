@@ -16,8 +16,7 @@ void loop() {
   float encoderValue2 = analogRead(encoderPin2);
   float angle2 = encoderValue2 / 4095 * 360; 
 
-  Serial.print("Encoder1: ");
   Serial.print(angle1);
-  Serial.print(", Encoder2: ");
+  Serial.print(",");
   Serial.println(angle2);
   }
