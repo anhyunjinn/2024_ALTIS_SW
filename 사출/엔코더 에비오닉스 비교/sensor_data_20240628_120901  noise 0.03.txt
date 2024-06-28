@@ -1,0 +1,1838 @@
+1719544141976,Gyro data ready!Roll: -32.25	Pitch: 1.01,1
+1719544142000,Roll	-32.25	Pitch	1.01,Encoder1: 360.00, Encoder2: 176.97
+1719544142041,Gyro data ready!Roll: -32.54	Pitch: 1.02,Encoder1: 360.00, Encoder2: 173.98
+1719544142079,Roll	-32.54	Pitch	1.02,Encoder1: 360.00, Encoder2: 176.97
+1719544142115,Gyro data ready!Roll: -32.83	Pitch: 1.03,Encoder1: 360.00, Encoder2: 177.05
+1719544142149,Roll	-32.83	Pitch	1.03,Encoder1: 360.00, Encoder2: 176.62
+1719544142188,Gyro data ready!Roll: -33.12	Pitch: 1.04,Encoder1: 360.00, Encoder2: 176.26
+1719544142229,Roll	-33.12	Pitch	1.04,Encoder1: 360.00, Encoder2: 174.42
+1719544142262,Gyro data ready!Roll: -33.41	Pitch: 1.05,Encoder1: 360.00, Encoder2: 174.33
+1719544142305,Roll	-33.41	Pitch	1.05,Encoder1: 360.00, Encoder2: 175.03
+1719544142339,Gyro data ready!Roll: -33.69	Pitch: 1.06,Encoder1: 360.00, Encoder2: 178.90
+1719544142379,Roll	-33.69	Pitch	1.06,Encoder1: 360.00, Encoder2: 182.77
+1719544142413,Gyro data ready!Roll: -33.98	Pitch: 1.07,Encoder1: 360.00, Encoder2: 174.33
+1719544142454,Roll	-33.98	Pitch	1.07,Encoder1: 360.00, Encoder2: 175.65
+1719544142486,Gyro data ready!Roll: -34.26	Pitch: 1.08,Encoder1: 360.00, Encoder2: 176.09
+1719544142527,Roll	-34.26	Pitch	1.08,Encoder1: 360.00, Encoder2: 175.82
+1719544142560,Gyro data ready!Roll: -34.55	Pitch: 1.08,Encoder1: 360.00, Encoder2: 176.00
+1719544142601,Roll	-34.55	Pitch	1.08,Encoder1: 360.00, Encoder2: 174.33
+1719544142642,Gyro data ready!Roll: -34.83	Pitch: 1.09,Encoder1: 360.00, Encoder2: 176.62
+1719544142675,Roll	-34.83	Pitch	1.09,Encoder1: 360.00, Encoder2: 175.82
+1719544142716,Gyro data ready!Roll: -35.11	Pitch: 1.10,Encoder1: 360.00, Encoder2: 174.42
+1719544142749,Roll	-35.11	Pitch	1.10,Encoder1: 360.00, Encoder2: 174.15
+1719544142789,Gyro data ready!Roll: -35.39	Pitch: 1.11,Encoder1: 360.00, Encoder2: 177.05
+1719544142830,Roll	-35.39	Pitch	1.11,Encoder1: 360.00, Encoder2: 175.74
+1719544142862,Gyro data ready!Roll: -35.67	Pitch: 1.12,Encoder1: 360.00, Encoder2: 180.92
+1719544142903,Roll	-35.67	Pitch	1.12,Encoder1: 360.00, Encoder2: 173.98
+1719544142936,Gyro data ready!Roll: -35.95	Pitch: 1.13,Encoder1: 360.00, Encoder2: 174.68
+1719544142976,Roll	-35.95	Pitch	1.13,Encoder1: 360.00, Encoder2: 175.74
+1719544143017,Gyro data ready!Roll: -36.23	Pitch: 1.14,Encoder1: 360.00, Encoder2: 176.26
+1719544143052,Roll	-36.23	Pitch	1.14,Encoder1: 360.00, Encoder2: 174.42
+1719544143085,Gyro data ready!Roll: -36.50	Pitch: 1.15,Encoder1: 360.00, Encoder2: 174.51
+1719544143125,Roll	-36.50	Pitch	1.15,Encoder1: 360.00, Encoder2: 174.24
+1719544143167,Gyro data ready!Roll: -36.78	Pitch: 1.15,Encoder1: 360.00, Encoder2: 174.59
+1719544143199,Roll	-36.78	Pitch	1.15,Encoder1: 360.00, Encoder2: 175.91
+1719544143242,Gyro data ready!Roll: -37.05	Pitch: 1.16,Encoder1: 360.00, Encoder2: 174.59
+1719544143275,Roll	-37.05	Pitch	1.16,Encoder1: 360.00, Encoder2: 175.82
+1719544143313,Gyro data ready!Roll: -37.32	Pitch: 1.17,Encoder1: 360.00, Encoder2: 174.59
+1719544143353,Roll	-37.32	Pitch	1.17,Encoder1: 360.00, Encoder2: 175.65
+1719544143387,Gyro data ready!Roll: -37.60	Pitch: 1.18,Encoder1: 360.00, Encoder2: 175.30
+1719544143427,Roll	-37.60	Pitch	1.18,Encoder1: 360.00, Encoder2: 175.03
+1719544143461,Gyro data ready!Roll: -37.87	Pitch: 1.19,Encoder1: 360.00, Encoder2: 176.79
+1719544143505,Roll	-37.87	Pitch	1.19,Encoder1: 360.00, Encoder2: 174.33
+1719544143539,Gyro data ready!Roll: -38.14	Pitch: 1.20,Encoder1: 360.00, Encoder2: 173.45
+1719544143577,Roll	-38.14	Pitch	1.20,Encoder1: 360.00, Encoder2: 177.05
+1719544143610,Gyro data ready!Roll: -38.41	Pitch: 1.21,Encoder1: 360.00, Encoder2: 175.03
+1719544143653,Roll	-38.41	Pitch	1.21,Encoder1: 360.00, Encoder2: 176.09
+1719544143691,Gyro data ready!Roll: -38.67	Pitch: 1.21,Encoder1: 360.00, Encoder2: 173.98
+1719544143725,Roll	-38.67	Pitch	1.21,Encoder1: 360.00, Encoder2: 173.80
+1719544143764,Gyro data ready!Roll: -38.94	Pitch: 1.22,Encoder1: 360.00, Encoder2: 175.38
+1719544143804,Roll	-38.94	Pitch	1.22,Encoder1: 360.00, Encoder2: 173.98
+1719544143841,Gyro data ready!Roll: -39.20	Pitch: 1.23,Encoder1: 360.00, Encoder2: 175.21
+1719544143877,Roll	-39.20	Pitch	1.23,Encoder1: 360.00, Encoder2: 173.98
+1719544143910,Gyro data ready!Roll: -39.47	Pitch: 1.24,Encoder1: 360.00, Encoder2: 175.91
+1719544143951,Roll	-39.47	Pitch	1.24,Encoder1: 360.00, Encoder2: 174.24
+1719544143992,Gyro data ready!Roll: -39.73	Pitch: 1.25,Encoder1: 360.00, Encoder2: 175.38
+1719544144028,Roll	-39.73	Pitch	1.25,Encoder1: 360.00, Encoder2: 176.79
+1719544144066,Gyro data ready!Roll: -40.00	Pitch: 1.26,Encoder1: 360.00, Encoder2: 178.37
+1719544144100,Roll	-40.00	Pitch	1.26,Encoder1: 360.00, Encoder2: 174.68
+1719544144140,Gyro data ready!Roll: -40.26	Pitch: 1.26,Encoder1: 360.00, Encoder2: 175.65
+1719544144173,Roll	-40.26	Pitch	1.26,Encoder1: 360.00, Encoder2: 174.86
+1719544144213,Gyro data ready!Roll: -40.52	Pitch: 1.27,Encoder1: 360.00, Encoder2: 175.30
+1719544144254,Roll	-40.52	Pitch	1.27,Encoder1: 360.00, Encoder2: 176.79
+1719544144287,Gyro data ready!Roll: -40.78	Pitch: 1.28,Encoder1: 360.00, Encoder2: 174.68
+1719544144327,Roll	-40.78	Pitch	1.28,Encoder1: 360.00, Encoder2: 174.51
+1719544144361,Gyro data ready!Roll: -41.03	Pitch: 1.29,Encoder1: 360.00, Encoder2: 174.24
+1719544144401,Roll	-41.03	Pitch	1.29,Encoder1: 360.00, Encoder2: 175.74
+1719544144442,Gyro data ready!Roll: -41.29	Pitch: 1.30,Encoder1: 360.00, Encoder2: 176.44
+1719544144474,Roll	-41.29	Pitch	1.30,Encoder1: 360.00, Encoder2: 175.91
+1719544144517,Gyro data ready!Roll: -41.55	Pitch: 1.31,Encoder1: 360.00, Encoder2: 176.79
+1719544144555,Roll	-41.55	Pitch	1.31,Encoder1: 360.00, Encoder2: 175.56
+1719544144588,Gyro data ready!Roll: -41.80	Pitch: 1.32,Encoder1: 360.00, Encoder2: 176.88
+1719544144630,Roll	-41.80	Pitch	1.32,Encoder1: 360.00, Encoder2: 177.05
+1719544144662,Gyro data ready!Roll: -42.06	Pitch: 1.32,Encoder1: 360.00, Encoder2: 174.86
+1719544144702,Roll	-42.06	Pitch	1.32,Encoder1: 360.00, Encoder2: 179.96
+1719544144736,Gyro data ready!Roll: -42.31	Pitch: 1.33,Encoder1: 360.00, Encoder2: 181.19
+1719544144777,Roll	-42.31	Pitch	1.33,Encoder1: 360.00, Encoder2: 181.36
+1719544144810,Gyro data ready!Roll: -42.57	Pitch: 1.34,Encoder1: 360.00, Encoder2: 185.05
+1719544144851,Roll	-42.57	Pitch	1.34,Encoder1: 360.00, Encoder2: 185.49
+1719544144891,Gyro data ready!Roll: -42.83	Pitch: 1.34,Encoder1: 360.00, Encoder2: 186.81
+1719544144925,Roll	-42.83	Pitch	1.34,Encoder1: 360.00, Encoder2: 198.86
+1719544144965,Gyro data ready!Roll: -43.07	Pitch: 1.35,Encoder1: 360.00, Encoder2: 199.74
+1719544144998,Roll	-43.07	Pitch	1.35,Encoder1: 360.00, Encoder2: 198.59
+1719544145039,Gyro data ready!Roll: -43.31	Pitch: 1.37,Encoder1: 360.00, Encoder2: 197.71
+1719544145073,Roll	-43.31	Pitch	1.37,Encoder1: 360.00, Encoder2: 204.57
+1719544145113,Gyro data ready!Roll: -43.55	Pitch: 1.37,Encoder1: 360.00, Encoder2: 206.77
+1719544145154,Roll	-43.55	Pitch	1.37,Encoder1: 360.00, Encoder2: 206.59
+1719544145187,Gyro data ready!Roll: -43.80	Pitch: 1.38,Encoder1: 360.00, Encoder2: 213.01
+1719544145227,Roll	-43.80	Pitch	1.38,Encoder1: 360.00, Encoder2: 214.33
+1719544145260,Gyro data ready!Roll: -44.05	Pitch: 1.39,Encoder1: 360.00, Encoder2: 212.75
+1719544145303,Roll	-44.05	Pitch	1.39,Encoder1: 360.00, Encoder2: 219.34
+1719544145341,Gyro data ready!Roll: -44.30	Pitch: 1.40,Encoder1: 360.00, Encoder2: 221.01
+1719544145375,Roll	-44.30	Pitch	1.40,Encoder1: 360.00, Encoder2: 220.84
+1719544145415,Gyro data ready!Roll: -44.55	Pitch: 1.41,Encoder1: 360.00, Encoder2: 222.24
+1719544145451,Roll	-44.55	Pitch	1.41,Encoder1: 360.00, Encoder2: 227.34
+1719544145489,Gyro data ready!Roll: -44.79	Pitch: 1.41,Encoder1: 360.00, Encoder2: 229.54
+1719544145522,Roll	-44.79	Pitch	1.41,Encoder1: 360.00, Encoder2: 224.97
+1719544145563,Gyro data ready!Roll: -45.02	Pitch: 1.42,Encoder1: 360.00, Encoder2: 232.53
+1719544145604,Roll	-45.02	Pitch	1.42,Encoder1: 360.00, Encoder2: 232.88
+1719544145640,Gyro data ready!Roll: -45.26	Pitch: 1.43,Encoder1: 360.00, Encoder2: 232.09
+1719544145679,Roll	-45.26	Pitch	1.43,Encoder1: 360.00, Encoder2: 240.35
+1719544145712,Gyro data ready!Roll: -45.50	Pitch: 1.43,Encoder1: 360.00, Encoder2: 239.03
+1719544145752,Roll	-45.50	Pitch	1.43,Encoder1: 360.00, Encoder2: 240.44
+1719544145784,Gyro data ready!Roll: -45.74	Pitch: 1.44,Encoder1: 360.00, Encoder2: 241.05
+1719544145826,Roll	-45.74	Pitch	1.44,Encoder1: 360.00, Encoder2: 240.88
+1719544145866,Gyro data ready!Roll: -45.98	Pitch: 1.45,Encoder1: 360.00, Encoder2: 241.41
+1719544145899,Roll	-45.98	Pitch	1.45,Encoder1: 360.00, Encoder2: 241.14
+1719544145940,Gyro data ready!Roll: -46.23	Pitch: 1.46,Encoder1: 360.00, Encoder2: 245.89
+1719544145972,Roll	-46.23	Pitch	1.46,Encoder1: 360.00, Encoder2: 245.54
+1719544146013,Gyro data ready!Roll: -46.47	Pitch: 1.47,Encoder1: 360.00, Encoder2: 244.57
+1719544146055,Roll	-46.47	Pitch	1.47,Encoder1: 360.00, Encoder2: 245.54
+1719544146086,Gyro data ready!Roll: -46.70	Pitch: 1.48,Encoder1: 360.00, Encoder2: 249.14
+1719544146128,Roll	-46.70	Pitch	1.48,Encoder1: 360.00, Encoder2: 245.19
+1719544146163,Gyro data ready!Roll: -46.93	Pitch: 1.49,Encoder1: 360.00, Encoder2: 249.41
+1719544146205,Roll	-46.93	Pitch	1.49,Encoder1: 360.00, Encoder2: 248.26
+1719544146236,Gyro data ready!Roll: -47.15	Pitch: 1.49,Encoder1: 360.00, Encoder2: 248.97
+1719544146277,Roll	-47.15	Pitch	1.49,Encoder1: 360.00, Encoder2: 248.62
+1719544146312,Gyro data ready!Roll: -47.37	Pitch: 1.49,Encoder1: 360.00, Encoder2: 249.58
+1719544146352,Roll	-47.37	Pitch	1.49,Encoder1: 360.00, Encoder2: 250.37
+1719544146392,Gyro data ready!Roll: -47.61	Pitch: 1.50,Encoder1: 360.00, Encoder2: 249.23
+1719544146424,Roll	-47.61	Pitch	1.50,Encoder1: 360.00, Encoder2: 252.40
+1719544146465,Gyro data ready!Roll: -47.86	Pitch: 1.50,Encoder1: 360.00, Encoder2: 254.59
+1719544146498,Roll	-47.86	Pitch	1.50,Encoder1: 360.00, Encoder2: 254.51
+1719544146538,Gyro data ready!Roll: -48.10	Pitch: 1.52,Encoder1: 360.00, Encoder2: 256.97
+1719544146578,Roll	-48.10	Pitch	1.52,Encoder1: 360.00, Encoder2: 257.32
+1719544146612,Gyro data ready!Roll: -48.31	Pitch: 1.53,Encoder1: 360.00, Encoder2: 255.03
+1719544146653,Roll	-48.31	Pitch	1.53,Encoder1: 360.00, Encoder2: 258.99
+1719544146691,Gyro data ready!Roll: -48.53	Pitch: 1.54,Encoder1: 360.00, Encoder2: 260.31
+1719544146725,Roll	-48.53	Pitch	1.54,Encoder1: 360.00, Encoder2: 260.84
+1719544146766,Gyro data ready!Roll: -48.76	Pitch: 1.55,Encoder1: 360.00, Encoder2: 258.73
+1719544146800,Roll	-48.76	Pitch	1.55,Encoder1: 360.00, Encoder2: 260.22
+1719544146840,Gyro data ready!Roll: -48.98	Pitch: 1.54,Encoder1: 360.00, Encoder2: 261.89
+1719544146880,Roll	-48.98	Pitch	1.54,Encoder1: 360.00, Encoder2: 263.47
+1719544146912,Gyro data ready!Roll: -49.19	Pitch: 1.55,Encoder1: 360.00, Encoder2: 264.09
+1719544146953,Roll	-49.19	Pitch	1.55,Encoder1: 360.00, Encoder2: 265.58
+1719544146989,Gyro data ready!Roll: -49.42	Pitch: 1.55,Encoder1: 360.00, Encoder2: 261.19
+1719544147028,Roll	-49.42	Pitch	1.55,Encoder1: 360.00, Encoder2: 265.85
+1719544147062,Gyro data ready!Roll: -49.65	Pitch: 1.56,Encoder1: 360.00, Encoder2: 266.29
+1719544147103,Roll	-49.65	Pitch	1.56,Encoder1: 360.00, Encoder2: 265.58
+1719544147135,Gyro data ready!Roll: -49.88	Pitch: 1.57,Encoder1: 360.00, Encoder2: 266.90
+1719544147178,Roll	-49.88	Pitch	1.57,Encoder1: 360.00, Encoder2: 265.76
+1719544147214,Gyro data ready!Roll: -50.09	Pitch: 1.59,Encoder1: 360.00, Encoder2: 265.85
+1719544147255,Roll	-50.09	Pitch	1.59,Encoder1: 360.00, Encoder2: 266.29
+1719544147292,Gyro data ready!Roll: -50.31	Pitch: 1.60,Encoder1: 360.00, Encoder2: 269.98
+1719544147325,Roll	-50.31	Pitch	1.60,Encoder1: 360.00, Encoder2: 266.02
+1719544147365,Gyro data ready!Roll: -50.53	Pitch: 1.60,Encoder1: 360.00, Encoder2: 272.44
+1719544147398,Roll	-50.53	Pitch	1.60,Encoder1: 360.00, Encoder2: 269.10
+1719544147442,Gyro data ready!Roll: -50.74	Pitch: 1.59,Encoder1: 360.00, Encoder2: 272.97
+1719544147479,Roll	-50.74	Pitch	1.59,Encoder1: 360.00, Encoder2: 268.57
+1719544147517,Gyro data ready!Roll: -50.94	Pitch: 1.60,Encoder1: 360.00, Encoder2: 271.03
+1719544147554,Roll	-50.94	Pitch	1.60,Encoder1: 360.00, Encoder2: 271.03
+1719544147590,Gyro data ready!Roll: -51.16	Pitch: 1.61,Encoder1: 360.00, Encoder2: 272.09
+1719544147624,Roll	-51.16	Pitch	1.61,Encoder1: 360.00, Encoder2: 271.38
+1719544147663,Gyro data ready!Roll: -51.40	Pitch: 1.62,Encoder1: 360.00, Encoder2: 276.57
+1719544147703,Roll	-51.40	Pitch	1.62,Encoder1: 360.00, Encoder2: 271.47
+1719544147737,Gyro data ready!Roll: -51.61	Pitch: 1.63,Encoder1: 360.00, Encoder2: 273.76
+1719544147776,Roll	-51.61	Pitch	1.63,Encoder1: 360.00, Encoder2: 272.00
+1719544147817,Gyro data ready!Roll: -51.81	Pitch: 1.65,Encoder1: 360.00, Encoder2: 274.46
+1719544147854,Roll	-51.81	Pitch	1.65,Encoder1: 360.00, Encoder2: 274.20
+1719544147892,Gyro data ready!Roll: -52.02	Pitch: 1.65,Encoder1: 360.00, Encoder2: 271.47
+1719544147925,Roll	-52.02	Pitch	1.65,Encoder1: 360.00, Encoder2: 274.90
+1719544147965,Gyro data ready!Roll: -52.23	Pitch: 1.64,Encoder1: 360.00, Encoder2: 275.43
+1719544148005,Roll	-52.23	Pitch	1.64,Encoder1: 360.00, Encoder2: 276.22
+1719544148042,Gyro data ready!Roll: -52.43	Pitch: 1.64,Encoder1: 360.00, Encoder2: 272.97
+1719544148078,Roll	-52.43	Pitch	1.64,Encoder1: 360.00, Encoder2: 275.34
+1719544148113,Gyro data ready!Roll: -52.64	Pitch: 1.65,Encoder1: 360.00, Encoder2: 273.32
+1719544148154,Roll	-52.64	Pitch	1.65,Encoder1: 360.00, Encoder2: 273.85
+1719544148187,Gyro data ready!Roll: -52.86	Pitch: 1.66,Encoder1: 360.00, Encoder2: 276.13
+1719544148227,Roll	-52.86	Pitch	1.66,Encoder1: 360.00, Encoder2: 272.44
+1719544148260,Gyro data ready!Roll: -53.07	Pitch: 1.67,Encoder1: 360.00, Encoder2: 275.96
+1719544148302,Roll	-53.07	Pitch	1.67,Encoder1: 360.00, Encoder2: 274.29
+1719544148341,Gyro data ready!Roll: -53.27	Pitch: 1.69,Encoder1: 360.00, Encoder2: 274.20
+1719544148375,Roll	-53.27	Pitch	1.69,Encoder1: 360.00, Encoder2: 273.85
+1719544148416,Gyro data ready!Roll: -53.47	Pitch: 1.70,Encoder1: 360.00, Encoder2: 275.60
+1719544148447,Roll	-53.47	Pitch	1.70,Encoder1: 360.00, Encoder2: 275.43
+1719544148488,Gyro data ready!Roll: -53.67	Pitch: 1.69,Encoder1: 360.00, Encoder2: 273.32
+1719544148528,Roll	-53.67	Pitch	1.69,Encoder1: 360.00, Encoder2: 273.05
+1719544148560,Gyro data ready!Roll: -53.87	Pitch: 1.69,Encoder1: 360.00, Encoder2: 272.88
+1719544148601,Roll	-53.87	Pitch	1.69,Encoder1: 360.00, Encoder2: 272.79
+1719544148642,Gyro data ready!Roll: -54.07	Pitch: 1.70,Encoder1: 360.00, Encoder2: 274.81
+1719544148676,Roll	-54.07	Pitch	1.70,Encoder1: 360.00, Encoder2: 276.57
+1719544148717,Gyro data ready!Roll: -54.26	Pitch: 1.71,Encoder1: 360.00, Encoder2: 274.29
+1719544148748,Roll	-54.26	Pitch	1.71,Encoder1: 360.00, Encoder2: 272.88
+1719544148790,Gyro data ready!Roll: -54.47	Pitch: 1.71,Encoder1: 360.00, Encoder2: 276.22
+1719544148823,Roll	-54.47	Pitch	1.71,Encoder1: 360.00, Encoder2: 275.69
+1719544148862,Gyro data ready!Roll: -54.67	Pitch: 1.70,Encoder1: 360.00, Encoder2: 277.71
+1719544148904,Roll	-54.67	Pitch	1.70,Encoder1: 360.00, Encoder2: 274.90
+1719544148943,Gyro data ready!Roll: -54.87	Pitch: 1.71,Encoder1: 360.00, Encoder2: 274.81
+1719544148978,Roll	-54.87	Pitch	1.71,Encoder1: 360.00, Encoder2: 274.81
+1719544149010,Gyro data ready!Roll: -55.06	Pitch: 1.73,Encoder1: 360.00, Encoder2: 277.10
+1719544149052,Roll	-55.06	Pitch	1.73,Encoder1: 360.00, Encoder2: 276.31
+1719544149091,Gyro data ready!Roll: -55.27	Pitch: 1.73,Encoder1: 360.00, Encoder2: 276.13
+1719544149124,Roll	-55.27	Pitch	1.73,Encoder1: 360.00, Encoder2: 275.69
+1719544149165,Gyro data ready!Roll: -55.46	Pitch: 1.74,Encoder1: 360.00, Encoder2: 272.44
+1719544149204,Roll	-55.46	Pitch	1.74,Encoder1: 360.00, Encoder2: 278.33
+1719544149237,Gyro data ready!Roll: -55.65	Pitch: 1.74,Encoder1: 360.00, Encoder2: 273.93
+1719544149277,Roll	-55.65	Pitch	1.74,Encoder1: 360.00, Encoder2: 272.79
+1719544149310,Gyro data ready!Roll: -55.84	Pitch: 1.75,Encoder1: 360.00, Encoder2: 273.67
+1719544149351,Roll	-55.84	Pitch	1.75,Encoder1: 360.00, Encoder2: 274.37
+1719544149385,Gyro data ready!Roll: -56.04	Pitch: 1.75,Encoder1: 360.00, Encoder2: 269.98
+1719544149425,Roll	-56.04	Pitch	1.75,Encoder1: 360.00, Encoder2: 269.27
+1719544149466,Gyro data ready!Roll: -56.23	Pitch: 1.76,Encoder1: 360.00, Encoder2: 272.09
+1719544149498,Roll	-56.23	Pitch	1.76,Encoder1: 360.00, Encoder2: 266.99
+1719544149539,Gyro data ready!Roll: -56.42	Pitch: 1.77,Encoder1: 360.00, Encoder2: 267.25
+1719544149572,Roll	-56.42	Pitch	1.77,Encoder1: 360.00, Encoder2: 267.34
+1719544149613,Gyro data ready!Roll: -56.61	Pitch: 1.78,Encoder1: 360.00, Encoder2: 263.12
+1719544149653,Roll	-56.61	Pitch	1.78,Encoder1: 360.00, Encoder2: 262.51
+1719544149686,Gyro data ready!Roll: -56.79	Pitch: 1.78,Encoder1: 360.00, Encoder2: 264.53
+1719544149726,Roll	-56.79	Pitch	1.78,Encoder1: 360.00, Encoder2: 263.03
+1719544149767,Gyro data ready!Roll: -56.98	Pitch: 1.78,Encoder1: 360.00, Encoder2: 257.76
+1719544149800,Roll	-56.98	Pitch	1.78,Encoder1: 360.00, Encoder2: 260.22
+1719544149840,Gyro data ready!Roll: -57.16	Pitch: 1.79,Encoder1: 360.00, Encoder2: 258.81
+1719544149875,Roll	-57.16	Pitch	1.79,Encoder1: 360.00, Encoder2: 254.59
+1719544149915,Gyro data ready!Roll: -57.35	Pitch: 1.80,Encoder1: 360.00, Encoder2: 254.59
+1719544149949,Roll	-57.35	Pitch	1.80,Encoder1: 360.00, Encoder2: 254.77
+1719544149988,Gyro data ready!Roll: -57.54	Pitch: 1.81,Encoder1: 360.00, Encoder2: 246.24
+1719544150029,Roll	-57.54	Pitch	1.81,Encoder1: 360.00, Encoder2: 247.65
+1719544150062,Gyro data ready!Roll: -57.72	Pitch: 1.82,Encoder1: 360.00, Encoder2: 247.74
+1719544150103,Roll	-57.72	Pitch	1.82,Encoder1: 360.00, Encoder2: 239.38
+1719544150136,Gyro data ready!Roll: -57.91	Pitch: 1.82,Encoder1: 360.00, Encoder2: 238.07
+1719544150177,Roll	-57.91	Pitch	1.82,Encoder1: 360.00, Encoder2: 241.41
+1719544150214,Gyro data ready!Roll: -58.08	Pitch: 1.82,Encoder1: 360.00, Encoder2: 240.09
+1719544150250,Roll	-58.08	Pitch	1.82,Encoder1: 360.00, Encoder2: 230.68
+1719544150291,Gyro data ready!Roll: -58.26	Pitch: 1.82,Encoder1: 360.00, Encoder2: 230.24
+1719544150329,Roll	-58.26	Pitch	1.82,Encoder1: 360.00, Encoder2: 233.14
+1719544150364,Gyro data ready!Roll: -58.44	Pitch: 1.83,Encoder1: 360.00, Encoder2: 221.98
+1719544150397,Roll	-58.44	Pitch	1.83,Encoder1: 360.00, Encoder2: 221.98
+1719544150438,Gyro data ready!Roll: -58.63	Pitch: 1.84,Encoder1: 360.00, Encoder2: 220.75
+1719544150479,Roll	-58.63	Pitch	1.84,Encoder1: 360.00, Encoder2: 215.82
+1719544150515,Gyro data ready!Roll: -58.82	Pitch: 1.85,Encoder1: 360.00, Encoder2: 214.07
+1719544150554,Roll	-58.82	Pitch	1.85,Encoder1: 360.00, Encoder2: 213.89
+1719544150588,Gyro data ready!Roll: -58.99	Pitch: 1.86,Encoder1: 360.00, Encoder2: 214.42
+1719544150630,Roll	-58.99	Pitch	1.86,Encoder1: 360.00, Encoder2: 206.77
+1719544150662,Gyro data ready!Roll: -59.16	Pitch: 1.86,Encoder1: 360.00, Encoder2: 208.09
+1719544150703,Roll	-59.16	Pitch	1.86,Encoder1: 360.00, Encoder2: 208.35
+1719544150737,Gyro data ready!Roll: -59.34	Pitch: 1.86,Encoder1: 360.00, Encoder2: 200.70
+1719544150776,Roll	-59.34	Pitch	1.86,Encoder1: 360.00, Encoder2: 202.55
+1719544150817,Gyro data ready!Roll: -59.51	Pitch: 1.86,Encoder1: 360.00, Encoder2: 201.14
+1719544150849,Roll	-59.51	Pitch	1.86,Encoder1: 360.00, Encoder2: 194.99
+1719544150891,Gyro data ready!Roll: -59.68	Pitch: 1.87,Encoder1: 360.00, Encoder2: 194.11
+1719544150923,Roll	-59.68	Pitch	1.87,Encoder1: 360.00, Encoder2: 196.84
+1719544150963,Gyro data ready!Roll: -59.86	Pitch: 1.88,Encoder1: 360.00, Encoder2: 187.25
+1719544151005,Roll	-59.86	Pitch	1.88,Encoder1: 360.00, Encoder2: 188.31
+1719544151038,Gyro data ready!Roll: -60.04	Pitch: 1.89,Encoder1: 360.00, Encoder2: 186.81
+1719544151079,Roll	-60.04	Pitch	1.89,Encoder1: 360.00, Encoder2: 187.96
+1719544151112,Gyro data ready!Roll: -60.21	Pitch: 1.89,Encoder1: 360.00, Encoder2: 177.85
+1719544151154,Roll	-60.21	Pitch	1.89,Encoder1: 360.00, Encoder2: 179.43
+1719544151187,Gyro data ready!Roll: -60.38	Pitch: 1.90,Encoder1: 360.00, Encoder2: 181.19
+1719544151227,Roll	-60.38	Pitch	1.90,Encoder1: 360.00, Encoder2: 171.16
+1719544151266,Gyro data ready!Roll: -60.55	Pitch: 1.89,Encoder1: 360.00, Encoder2: 172.22
+1719544151302,Roll	-60.55	Pitch	1.89,Encoder1: 360.00, Encoder2: 169.41
+1719544151335,Gyro data ready!Roll: -60.71	Pitch: 1.89,Encoder1: 360.00, Encoder2: 162.81
+1719544151379,Roll	-60.71	Pitch	1.89,Encoder1: 360.00, Encoder2: 160.53
+1719544151410,Gyro data ready!Roll: -60.86	Pitch: 1.87,Encoder1: 360.00, Encoder2: 160.09
+1719544151453,Roll	-60.86	Pitch	1.87,Encoder1: 360.00, Encoder2: 163.08
+1719544151485,Gyro data ready!Roll: -61.03	Pitch: 1.87,Encoder1: 360.00, Encoder2: 153.58
+1719544151527,Roll	-61.03	Pitch	1.87,Encoder1: 360.00, Encoder2: 152.53
+1719544151564,Gyro data ready!Roll: -61.21	Pitch: 1.88,Encoder1: 360.00, Encoder2: 152.70
+1719544151600,Roll	-61.21	Pitch	1.88,Encoder1: 360.00, Encoder2: 144.62
+1719544151641,Gyro data ready!Roll: -61.39	Pitch: 1.88,Encoder1: 360.00, Encoder2: 146.73
+1719544151674,Roll	-61.39	Pitch	1.88,Encoder1: 360.00, Encoder2: 144.88
+1719544151715,Gyro data ready!Roll: -61.59	Pitch: 1.90,Encoder1: 360.00, Encoder2: 136.62
+1719544151748,Roll	-61.59	Pitch	1.90,Encoder1: 360.00, Encoder2: 136.70
+1719544151789,Gyro data ready!Roll: -61.77	Pitch: 1.92,Encoder1: 360.00, Encoder2: 138.11
+1719544151830,Roll	-61.77	Pitch	1.92,Encoder1: 360.00, Encoder2: 128.53
+1719544151864,Gyro data ready!Roll: -61.95	Pitch: 1.95,Encoder1: 360.00, Encoder2: 132.04
+1719544151904,Roll	-61.95	Pitch	1.95,Encoder1: 360.00, Encoder2: 129.23
+1719544151937,Gyro data ready!Roll: -62.15	Pitch: 1.96,Encoder1: 360.00, Encoder2: 128.09
+1719544151979,Roll	-62.15	Pitch	1.96,Encoder1: 360.00, Encoder2: 120.18
+1719544152011,Gyro data ready!Roll: -62.33	Pitch: 1.97,Encoder1: 360.00, Encoder2: 120.53
+1719544152054,Roll	-62.33	Pitch	1.97,Encoder1: 360.00, Encoder2: 122.90
+1719544152092,Gyro data ready!Roll: -62.50	Pitch: 1.98,Encoder1: 360.00, Encoder2: 112.70
+1719544152127,Roll	-62.50	Pitch	1.98,Encoder1: 360.00, Encoder2: 112.97
+1719544152166,Gyro data ready!Roll: -62.69	Pitch: 1.99,Encoder1: 360.00, Encoder2: 113.58
+1719544152199,Roll	-62.69	Pitch	1.99,Encoder1: 360.00, Encoder2: 109.27
+1719544152240,Gyro data ready!Roll: -62.89	Pitch: 2.00,Encoder1: 360.00, Encoder2: 109.54
+1719544152272,Roll	-62.89	Pitch	2.00,Encoder1: 360.00, Encoder2: 109.54
+1719544152313,Gyro data ready!Roll: -63.09	Pitch: 2.02,Encoder1: 360.00, Encoder2: 108.75
+1719544152353,Roll	-63.09	Pitch	2.02,Encoder1: 360.00, Encoder2: 102.86
+1719544152385,Gyro data ready!Roll: -63.32	Pitch: 2.05,Encoder1: 360.00, Encoder2: 104.62
+1719544152426,Roll	-63.32	Pitch	2.05,Encoder1: 360.00, Encoder2: 106.99
+1719544152466,Gyro data ready!Roll: -63.56	Pitch: 2.09,Encoder1: 360.00, Encoder2: 99.69
+1719544152502,Roll	-63.56	Pitch	2.09,Encoder1: 360.00, Encoder2: 99.96
+1719544152535,Gyro data ready!Roll: -63.82	Pitch: 2.13,Encoder1: 360.00, Encoder2: 98.73
+1719544152572,Roll	-63.82	Pitch	2.13,Encoder1: 360.00, Encoder2: 96.97
+1719544152605,Gyro data ready!Roll: -64.06	Pitch: 2.18,Encoder1: 360.00, Encoder2: 95.91
+1719544152648,Roll	-64.06	Pitch	2.18,Encoder1: 360.00, Encoder2: 98.02
+1719544152679,Gyro data ready!Roll: -64.30	Pitch: 2.24,Encoder1: 360.00, Encoder2: 94.24
+1719544152720,Roll	-64.30	Pitch	2.24,Encoder1: 360.00, Encoder2: 92.66
+1719544152752,Gyro data ready!Roll: -64.53	Pitch: 2.30,Encoder1: 360.00, Encoder2: 92.57
+1719544152794,Roll	-64.53	Pitch	2.30,Encoder1: 360.00, Encoder2: 93.10
+1719544152827,Gyro data ready!Roll: -64.77	Pitch: 2.36,Encoder1: 360.00, Encoder2: 88.70
+1719544152866,Roll	-64.77	Pitch	2.36,Encoder1: 360.00, Encoder2: 87.74
+1719544152901,Gyro data ready!Roll: -65.01	Pitch: 2.42,Encoder1: 360.00, Encoder2: 91.43
+1719544152935,Roll	-65.01	Pitch	2.42,Encoder1: 360.00, Encoder2: 85.27
+1719544152976,Gyro data ready!Roll: -65.25	Pitch: 2.49,Encoder1: 360.00, Encoder2: 86.77
+1719544153009,Roll	-65.25	Pitch	2.49,Encoder1: 360.00, Encoder2: 86.07
+1719544153048,Gyro data ready!Roll: -65.49	Pitch: 2.55,Encoder1: 360.00, Encoder2: 85.63
+1719544153083,Roll	-65.49	Pitch	2.55,Encoder1: 360.00, Encoder2: 82.46
+1719544153115,Gyro data ready!Roll: -65.73	Pitch: 2.62,Encoder1: 360.00, Encoder2: 82.99
+1719544153156,Roll	-65.73	Pitch	2.62,Encoder1: 360.00, Encoder2: 82.99
+1719544153189,Gyro data ready!Roll: -65.98	Pitch: 2.69,Encoder1: 360.00, Encoder2: 80.97
+1719544153231,Roll	-65.98	Pitch	2.69,Encoder1: 360.00, Encoder2: 79.56
+1719544153268,Gyro data ready!Roll: -66.23	Pitch: 2.77,Encoder1: 360.00, Encoder2: 80.18
+1719544153304,Roll	-66.23	Pitch	2.77,Encoder1: 360.00, Encoder2: 78.68
+1719544153337,Gyro data ready!Roll: -66.50	Pitch: 2.86,Encoder1: 360.00, Encoder2: 77.19
+1719544153377,Roll	-66.50	Pitch	2.86,Encoder1: 360.00, Encoder2: 77.10
+1719544153410,Gyro data ready!Roll: -66.75	Pitch: 2.94,Encoder1: 360.00, Encoder2: 76.13
+1719544153443,Roll	-66.75	Pitch	2.94,Encoder1: 360.00, Encoder2: 74.64
+1719544153483,Gyro data ready!Roll: -67.00	Pitch: 3.03,Encoder1: 360.00, Encoder2: 76.84
+1719544153523,Roll	-67.00	Pitch	3.03,Encoder1: 360.00, Encoder2: 77.36
+1719544153556,Gyro data ready!Roll: -67.26	Pitch: 3.11,Encoder1: 360.00, Encoder2: 78.59
+1719544153596,Roll	-67.26	Pitch	3.11,Encoder1: 360.00, Encoder2: 78.33
+1719544153628,Gyro data ready!Roll: -67.52	Pitch: 3.20,Encoder1: 360.00, Encoder2: 76.92
+1719544153669,Roll	-67.52	Pitch	3.20,Encoder1: 360.00, Encoder2: 77.10
+1719544153706,Gyro data ready!Roll: -67.77	Pitch: 3.29,Encoder1: 360.00, Encoder2: 76.22
+1719544153734,Roll	-67.77	Pitch	3.29,Encoder1: 360.00, Encoder2: 74.46
+1719544153775,Gyro data ready!Roll: -68.03	Pitch: 3.38,Encoder1: 360.00, Encoder2: 76.75
+1719544153808,Roll	-68.03	Pitch	3.38,Encoder1: 360.00, Encoder2: 74.99
+1719544153850,Gyro data ready!Roll: -68.30	Pitch: 3.48,Encoder1: 360.00, Encoder2: 75.16
+1719544153882,Roll	-68.30	Pitch	3.48,Encoder1: 360.00, Encoder2: 75.87
+1719544153923,Gyro data ready!Roll: -68.57	Pitch: 3.58,Encoder1: 360.00, Encoder2: 74.02
+1719544153957,Roll	-68.57	Pitch	3.58,Encoder1: 360.00, Encoder2: 72.26
+1719544153997,Gyro data ready!Roll: -68.83	Pitch: 3.69,Encoder1: 360.00, Encoder2: 73.58
+1719544154031,Roll	-68.83	Pitch	3.69,Encoder1: 360.00, Encoder2: 72.88
+1719544154066,Gyro data ready!Roll: -69.10	Pitch: 3.79,Encoder1: 360.00, Encoder2: 76.04
+1719544154105,Roll	-69.10	Pitch	3.79,Encoder1: 360.00, Encoder2: 74.73
+1719544154138,Gyro data ready!Roll: -69.37	Pitch: 3.89,Encoder1: 360.00, Encoder2: 73.05
+1719544154179,Roll	-69.37	Pitch	3.89,Encoder1: 360.00, Encoder2: 76.92
+1719544154211,Gyro data ready!Roll: -69.64	Pitch: 3.99,Encoder1: 360.00, Encoder2: 72.70
+1719544154252,Roll	-69.64	Pitch	3.99,Encoder1: 360.00, Encoder2: 76.57
+1719544154285,Gyro data ready!Roll: -69.91	Pitch: 4.10,Encoder1: 360.00, Encoder2: 75.78
+1719544154319,Roll	-69.91	Pitch	4.10,Encoder1: 360.00, Encoder2: 75.78
+1719544154362,Gyro data ready!Roll: -70.20	Pitch: 4.21,Encoder1: 360.00, Encoder2: 72.79
+1719544154394,Roll	-70.20	Pitch	4.21,Encoder1: 360.00, Encoder2: 73.23
+1719544154435,Gyro data ready!Roll: -70.49	Pitch: 4.33,Encoder1: 360.00, Encoder2: 74.81
+1719544154471,Roll	-70.49	Pitch	4.33,Encoder1: 360.00, Encoder2: 75.08
+1719544154501,Gyro data ready!Roll: -70.77	Pitch: 4.45,Encoder1: 360.00, Encoder2: 75.96
+1719544154540,Roll	-70.77	Pitch	4.45,Encoder1: 360.00, Encoder2: 72.53
+1719544154574,Gyro data ready!Roll: -71.06	Pitch: 4.57,Encoder1: 360.00, Encoder2: 75.34
+1719544154615,Roll	-71.06	Pitch	4.57,Encoder1: 360.00, Encoder2: 74.55
+1719544154649,Gyro data ready!Roll: -71.35	Pitch: 4.70,Encoder1: 360.00, Encoder2: 73.14
+1719544154690,Roll	-71.35	Pitch	4.70,Encoder1: 360.00, Encoder2: 72.88
+1719544154722,Gyro data ready!Roll: -71.65	Pitch: 4.82,Encoder1: 360.00, Encoder2: 74.11
+1719544154755,Roll	-71.65	Pitch	4.82,Encoder1: 360.00, Encoder2: 72.35
+1719544154799,Gyro data ready!Roll: -71.95	Pitch: 4.95,Encoder1: 360.00, Encoder2: 74.55
+1719544154832,Roll	-71.95	Pitch	4.95,Encoder1: 360.00, Encoder2: 73.93
+1719544154870,Gyro data ready!Roll: -72.25	Pitch: 5.08,Encoder1: 360.00, Encoder2: 76.22
+1719544154903,Roll	-72.25	Pitch	5.08,Encoder1: 360.00, Encoder2: 74.64
+1719544154944,Gyro data ready!Roll: -72.56	Pitch: 5.22,Encoder1: 360.00, Encoder2: 75.52
+1719544154977,Roll	-72.56	Pitch	5.22,Encoder1: 360.00, Encoder2: 74.29
+1719544155018,Gyro data ready!Roll: -72.86	Pitch: 5.36,Encoder1: 360.00, Encoder2: 75.16
+1719544155050,Roll	-72.86	Pitch	5.36,Encoder1: 360.00, Encoder2: 74.81
+1719544155083,Gyro data ready!Roll: -73.17	Pitch: 5.50,Encoder1: 360.00, Encoder2: 74.29
+1719544155125,Roll	-73.17	Pitch	5.50,Encoder1: 360.00, Encoder2: 75.78
+1719544155164,Gyro data ready!Roll: -73.47	Pitch: 5.64,Encoder1: 360.00, Encoder2: 76.84
+1719544155200,Roll	-73.47	Pitch	5.64,Encoder1: 360.00, Encoder2: 77.71
+1719544155233,Gyro data ready!Roll: -73.78	Pitch: 5.79,Encoder1: 360.00, Encoder2: 75.69
+1719544155274,Roll	-73.78	Pitch	5.79,Encoder1: 360.00, Encoder2: 77.54
+1719544155306,Gyro data ready!Roll: -74.10	Pitch: 5.93,Encoder1: 360.00, Encoder2: 79.82
+1719544155339,Roll	-74.10	Pitch	5.93,Encoder1: 360.00, Encoder2: 77.89
+1719544155381,Gyro data ready!Roll: -74.41	Pitch: 6.07,Encoder1: 360.00, Encoder2: 78.15
+1719544155413,Roll	-74.41	Pitch	6.07,Encoder1: 360.00, Encoder2: 79.65
+1719544155453,Gyro data ready!Roll: -74.72	Pitch: 6.22,Encoder1: 360.00, Encoder2: 80.09
+1719544155488,Roll	-74.72	Pitch	6.22,Encoder1: 360.00, Encoder2: 79.03
+1719544155528,Gyro data ready!Roll: -75.03	Pitch: 6.37,Encoder1: 360.00, Encoder2: 82.99
+1719544155564,Roll	-75.03	Pitch	6.37,Encoder1: 360.00, Encoder2: 82.90
+1719544155601,Gyro data ready!Roll: -75.35	Pitch: 6.51,Encoder1: 360.00, Encoder2: 82.73
+1719544155634,Roll	-75.35	Pitch	6.51,Encoder1: 360.00, Encoder2: 83.25
+1719544155673,Gyro data ready!Roll: -75.67	Pitch: 6.67,Encoder1: 360.00, Encoder2: 90.99
+1719544155706,Roll	-75.67	Pitch	6.67,Encoder1: 360.00, Encoder2: 89.76
+1719544155747,Gyro data ready!Roll: -75.99	Pitch: 6.82,Encoder1: 360.00, Encoder2: 91.16
+1719544155782,Roll	-75.99	Pitch	6.82,Encoder1: 360.00, Encoder2: 92.57
+1719544155816,Gyro data ready!Roll: -76.32	Pitch: 6.98,Encoder1: 360.00, Encoder2: 96.53
+1719544155856,Roll	-76.32	Pitch	6.98,Encoder1: 360.00, Encoder2: 92.40
+1719544155887,Gyro data ready!Roll: -76.64	Pitch: 7.13,Encoder1: 360.00, Encoder2: 93.89
+1719544155930,Roll	-76.64	Pitch	7.13,Encoder1: 360.00, Encoder2: 96.62
+1719544155964,Gyro data ready!Roll: -76.95	Pitch: 7.29,Encoder1: 360.00, Encoder2: 98.64
+1719544156002,Roll	-76.95	Pitch	7.29,Encoder1: 360.00, Encoder2: 96.88
+1719544156036,Gyro data ready!Roll: -77.25	Pitch: 7.44,Encoder1: 360.00, Encoder2: 101.10
+1719544156075,Roll	-77.25	Pitch	7.44,Encoder1: 360.00, Encoder2: 102.42
+1719544156110,Gyro data ready!Roll: -77.56	Pitch: 7.59,Encoder1: 360.00, Encoder2: 100.13
+1719544156150,Roll	-77.56	Pitch	7.59,Encoder1: 360.00, Encoder2: 105.05
+1719544156190,Gyro data ready!Roll: -77.87	Pitch: 7.74,Encoder1: 360.00, Encoder2: 106.99
+1719544156222,Roll	-77.87	Pitch	7.74,Encoder1: 360.00, Encoder2: 105.93
+1719544156264,Gyro data ready!Roll: -78.19	Pitch: 7.89,Encoder1: 360.00, Encoder2: 110.86
+1719544156297,Roll	-78.19	Pitch	7.89,Encoder1: 360.00, Encoder2: 110.59
+1719544156338,Gyro data ready!Roll: -78.50	Pitch: 8.05,Encoder1: 360.00, Encoder2: 113.14
+1719544156375,Roll	-78.50	Pitch	8.05,Encoder1: 360.00, Encoder2: 113.32
+1719544156412,Gyro data ready!Roll: -78.82	Pitch: 8.20,Encoder1: 360.00, Encoder2: 119.30
+1719544156449,Roll	-78.82	Pitch	8.20,Encoder1: 360.00, Encoder2: 116.75
+1719544156490,Gyro data ready!Roll: -79.14	Pitch: 8.36,Encoder1: 360.00, Encoder2: 117.19
+1719544156523,Roll	-79.14	Pitch	8.36,Encoder1: 360.00, Encoder2: 122.64
+1719544156564,Gyro data ready!Roll: -79.45	Pitch: 8.52,Encoder1: 360.00, Encoder2: 121.93
+1719544156600,Roll	-79.45	Pitch	8.52,Encoder1: 360.00, Encoder2: 121.93
+1719544156640,Gyro data ready!Roll: -79.77	Pitch: 8.67,Encoder1: 360.00, Encoder2: 129.67
+1719544156672,Roll	-79.77	Pitch	8.67,Encoder1: 360.00, Encoder2: 128.00
+1719544156713,Gyro data ready!Roll: -80.08	Pitch: 8.82,Encoder1: 360.00, Encoder2: 127.74
+1719544156747,Roll	-80.08	Pitch	8.82,Encoder1: 360.00, Encoder2: 129.67
+1719544156786,Gyro data ready!Roll: -80.40	Pitch: 8.98,Encoder1: 360.00, Encoder2: 132.75
+1719544156827,Roll	-80.40	Pitch	8.98,Encoder1: 360.00, Encoder2: 132.84
+1719544156861,Gyro data ready!Roll: -80.74	Pitch: 9.14,Encoder1: 360.00, Encoder2: 133.45
+1719544156902,Roll	-80.74	Pitch	9.14,Encoder1: 360.00, Encoder2: 139.16
+1719544156934,Gyro data ready!Roll: -81.08	Pitch: 9.31,Encoder1: 360.00, Encoder2: 139.25
+1719544156978,Roll	-81.08	Pitch	9.31,Encoder1: 360.00, Encoder2: 138.37
+1719544157008,Gyro data ready!Roll: -81.42	Pitch: 9.47,Encoder1: 360.00, Encoder2: 145.32
+1719544157049,Roll	-81.42	Pitch	9.47,Encoder1: 360.00, Encoder2: 143.74
+1719544157090,Gyro data ready!Roll: -81.76	Pitch: 9.64,Encoder1: 360.00, Encoder2: 146.46
+1719544157123,Roll	-81.76	Pitch	9.64,Encoder1: 360.00, Encoder2: 151.03
+1719544157164,Gyro data ready!Roll: -82.09	Pitch: 9.80,Encoder1: 360.00, Encoder2: 150.33
+1719544157198,Roll	-82.09	Pitch	9.80,Encoder1: 360.00, Encoder2: 151.12
+1719544157237,Gyro data ready!Roll: -82.42	Pitch: 9.97,Encoder1: 360.00, Encoder2: 152.18
+1719544157271,Roll	-82.42	Pitch	9.97,Encoder1: 360.00, Encoder2: 156.22
+1719544157311,Gyro data ready!Roll: -82.75	Pitch: 10.13,Encoder1: 360.00, Encoder2: 155.60
+1719544157352,Roll	-82.75	Pitch	10.13,Encoder1: 360.00, Encoder2: 158.42
+1719544157383,Gyro data ready!Roll: -83.08	Pitch: 10.29,Encoder1: 360.00, Encoder2: 159.47
+1719544157424,Roll	-83.08	Pitch	10.29,Encoder1: 360.00, Encoder2: 158.33
+1719544157465,Gyro data ready!Roll: -83.40	Pitch: 10.45,Encoder1: 360.00, Encoder2: 159.21
+1719544157497,Roll	-83.40	Pitch	10.45,Encoder1: 360.00, Encoder2: 161.67
+1719544157539,Gyro data ready!Roll: -83.73	Pitch: 10.61,Encoder1: 360.00, Encoder2: 161.76
+1719544157571,Roll	-83.73	Pitch	10.61,Encoder1: 360.00, Encoder2: 163.52
+1719544157612,Gyro data ready!Roll: -84.05	Pitch: 10.76,Encoder1: 360.00, Encoder2: 163.16
+1719544157647,Roll	-84.05	Pitch	10.76,Encoder1: 360.00, Encoder2: 164.04
+1719544157687,Gyro data ready!Roll: -84.36	Pitch: 10.93,Encoder1: 360.00, Encoder2: 163.16
+1719544157720,Roll	-84.36	Pitch	10.93,Encoder1: 360.00, Encoder2: 165.01
+1719544157763,Gyro data ready!Roll: -84.70	Pitch: 11.09,Encoder1: 360.00, Encoder2: 166.95
+1719544157801,Roll	-84.70	Pitch	11.09,Encoder1: 360.00, Encoder2: 167.30
+1719544157839,Gyro data ready!Roll: -85.07	Pitch: 11.27,Encoder1: 360.00, Encoder2: 165.19
+1719544157875,Roll	-85.07	Pitch	11.27,Encoder1: 360.00, Encoder2: 162.29
+1719544157911,Gyro data ready!Roll: -85.44	Pitch: 11.44,Encoder1: 360.00, Encoder2: 162.73
+1719544157952,Roll	-85.44	Pitch	11.44,Encoder1: 360.00, Encoder2: 166.24
+1719544157990,Gyro data ready!Roll: -85.80	Pitch: 11.62,Encoder1: 360.00, Encoder2: 162.64
+1719544158023,Roll	-85.80	Pitch	11.62,Encoder1: 360.00, Encoder2: 162.37
+1719544158065,Gyro data ready!Roll: -86.15	Pitch: 11.78,Encoder1: 360.00, Encoder2: 163.52
+1719544158098,Roll	-86.15	Pitch	11.78,Encoder1: 360.00, Encoder2: 161.85
+1719544158139,Gyro data ready!Roll: -86.50	Pitch: 11.94,Encoder1: 360.00, Encoder2: 165.63
+1719544158172,Roll	-86.50	Pitch	11.94,Encoder1: 360.00, Encoder2: 163.43
+1719544158213,Gyro data ready!Roll: -86.87	Pitch: 12.11,Encoder1: 360.00, Encoder2: 162.37
+1719544158246,Roll	-86.87	Pitch	12.11,Encoder1: 360.00, Encoder2: 162.29
+1719544158287,Gyro data ready!Roll: -87.24	Pitch: 12.29,Encoder1: 360.00, Encoder2: 164.57
+1719544158321,Roll	-87.24	Pitch	12.29,Encoder1: 360.00, Encoder2: 164.13
+1719544158361,Gyro data ready!Roll: -87.61	Pitch: 12.47,Encoder1: 360.00, Encoder2: 166.51
+1719544158402,Roll	-87.61	Pitch	12.47,Encoder1: 360.00, Encoder2: 166.33
+1719544158435,Gyro data ready!Roll: -87.98	Pitch: 12.65,Encoder1: 360.00, Encoder2: 167.82
+1719544158475,Roll	-87.98	Pitch	12.65,Encoder1: 360.00, Encoder2: 166.42
+1719544158507,Gyro data ready!Roll: -88.35	Pitch: 12.82,Encoder1: 360.00, Encoder2: 170.29
+1719544158548,Roll	-88.35	Pitch	12.82,Encoder1: 360.00, Encoder2: 168.62
+1719544158590,Gyro data ready!Roll: -88.71	Pitch: 12.99,Encoder1: 360.00, Encoder2: 170.20
+1719544158622,Roll	-88.71	Pitch	12.99,Encoder1: 360.00, Encoder2: 170.02
+1719544158663,Gyro data ready!Roll: -89.09	Pitch: 13.17,Encoder1: 360.00, Encoder2: 168.79
+1719544158697,Roll	-89.09	Pitch	13.17,Encoder1: 360.00, Encoder2: 168.44
+1719544158737,Gyro data ready!Roll: -89.47	Pitch: 13.34,Encoder1: 360.00, Encoder2: 168.70
+1719544158771,Roll	-89.47	Pitch	13.34,Encoder1: 360.00, Encoder2: 170.20
+1719544158811,Gyro data ready!Roll: -89.86	Pitch: 13.52,Encoder1: 360.00, Encoder2: 171.16
+1719544158851,Roll	-89.86	Pitch	13.52,Encoder1: 360.00, Encoder2: 168.79
+1719544158885,Gyro data ready!Roll: -90.25	Pitch: 13.70,Encoder1: 360.00, Encoder2: 168.18
+1719544158924,Roll	-90.25	Pitch	13.70,Encoder1: 360.00, Encoder2: 171.96
+1719544158965,Gyro data ready!Roll: -90.64	Pitch: 13.88,Encoder1: 360.00, Encoder2: 170.20
+1719544158997,Roll	-90.64	Pitch	13.88,Encoder1: 0.00, Encoder2: 170.73
+1719544159031,Gyro data ready!Roll: -91.03	Pitch: 14.07,Encoder1: 0.00, Encoder2: 170.64
+1719544159071,Roll	-91.03	Pitch	14.07,Encoder1: 0.00, Encoder2: 171.78
+1719544159106,Gyro data ready!Roll: -91.43	Pitch: 14.24,Encoder1: 0.00, Encoder2: 171.69
+1719544159138,Roll	-91.43	Pitch	14.24,Encoder1: 0.00, Encoder2: 171.96
+1719544159174,Gyro data ready!Roll: -91.82	Pitch: 14.42,Encoder1: 0.00, Encoder2: 170.02
+1719544159212,Roll	-91.82	Pitch	14.42,Encoder1: 0.00, Encoder2: 168.88
+1719544159248,Gyro data ready!Roll: -92.22	Pitch: 14.60,Encoder1: 2.64, Encoder2: 168.79
+1719544159277,Roll	-92.22	Pitch	14.60,Encoder1: 4.04, Encoder2: 170.55
+1719544159319,Gyro data ready!Roll: -92.62	Pitch: 14.78,Encoder1: 2.46, Encoder2: 168.44
+1719544159352,Roll	-92.62	Pitch	14.78,Encoder1: 4.40, Encoder2: 174.07
+1719544159386,Gyro data ready!Roll: -93.03	Pitch: 14.95,Encoder1: 3.60, Encoder2: 172.40
+1719544159418,Roll	-93.03	Pitch	14.95,Encoder1: 4.84, Encoder2: 169.76
+1719544159461,Gyro data ready!Roll: -93.44	Pitch: 15.12,Encoder1: 1.14, Encoder2: 169.41
+1719544159495,Roll	-93.44	Pitch	15.12,Encoder1: 8.35, Encoder2: 170.46
+1719544159527,Gyro data ready!Roll: -93.85	Pitch: 15.31,Encoder1: 7.65, Encoder2: 168.97
+1719544159568,Roll	-93.85	Pitch	15.31,Encoder1: 10.29, Encoder2: 168.79
+1719544159600,Gyro data ready!Roll: -94.28	Pitch: 15.49,Encoder1: 9.14, Encoder2: 170.29
+1719544159638,Roll	-94.28	Pitch	15.49,Encoder1: 8.26, Encoder2: 168.88
+1719544159674,Gyro data ready!Roll: -94.70	Pitch: 15.67,Encoder1: 7.47, Encoder2: 171.60
+1719544159707,Roll	-94.70	Pitch	15.67,Encoder1: 7.91, Encoder2: 172.13
+1719544159746,Gyro data ready!Roll: -95.13	Pitch: 15.86,Encoder1: 13.10, Encoder2: 170.20
+1719544159781,Roll	-95.13	Pitch	15.86,Encoder1: 12.66, Encoder2: 169.23
+1719544159816,Gyro data ready!Roll: -95.57	Pitch: 16.04,Encoder1: 14.68, Encoder2: 171.60
+1719544159853,Roll	-95.57	Pitch	16.04,Encoder1: 13.10, Encoder2: 168.88
+1719544159886,Gyro data ready!Roll: -96.01	Pitch: 16.23,Encoder1: 15.91, Encoder2: 169.93
+1719544159928,Roll	-96.01	Pitch	16.23,Encoder1: 13.10, Encoder2: 168.88
+1719544159961,Gyro data ready!Roll: -96.48	Pitch: 16.40,Encoder1: 17.14, Encoder2: 170.37
+1719544160001,Roll	-96.48	Pitch	16.40,Encoder1: 23.03, Encoder2: 171.16
+1719544160034,Gyro data ready!Roll: -96.92	Pitch: 16.57,Encoder1: 21.01, Encoder2: 171.08
+1719544160074,Roll	-96.92	Pitch	16.57,Encoder1: 18.90, Encoder2: 168.53
+1719544160106,Gyro data ready!Roll: -97.36	Pitch: 16.75,Encoder1: 19.96, Encoder2: 169.93
+1719544160147,Roll	-97.36	Pitch	16.75,Encoder1: 27.69, Encoder2: 171.52
+1719544160182,Gyro data ready!Roll: -97.80	Pitch: 16.93,Encoder1: 19.96, Encoder2: 172.13
+1719544160220,Roll	-97.80	Pitch	16.93,Encoder1: 25.58, Encoder2: 170.81
+1719544160253,Gyro data ready!Roll: -98.25	Pitch: 17.11,Encoder1: 27.25, Encoder2: 171.60
+1719544160287,Roll	-98.25	Pitch	17.11,Encoder1: 27.43, Encoder2: 171.60
+1719544160327,Gyro data ready!Roll: -98.70	Pitch: 17.30,Encoder1: 28.92, Encoder2: 171.69
+1719544160360,Roll	-98.70	Pitch	17.30,Encoder1: 28.57, Encoder2: 170.20
+1719544160400,Gyro data ready!Roll: -99.15	Pitch: 17.48,Encoder1: 29.71, Encoder2: 169.58
+1719544160432,Roll	-99.15	Pitch	17.48,Encoder1: 30.51, Encoder2: 171.78
+1719544160476,Gyro data ready!Roll: -99.60	Pitch: 17.66,Encoder1: 29.10, Encoder2: 173.01
+1719544160506,Roll	-99.60	Pitch	17.66,Encoder1: 30.59, Encoder2: 172.48
+1719544160547,Gyro data ready!Roll: -100.05	Pitch: 17.84,Encoder1: 27.08, Encoder2: 172.13
+1719544160583,Roll	-100.05	Pitch	17.84,Encoder1: 32.35, Encoder2: 170.46
+1719544160619,Gyro data ready!Roll: -100.51	Pitch: 18.02,Encoder1: 29.10, Encoder2: 169.41
+1719544160658,Roll	-100.51	Pitch	18.02,Encoder1: 32.35, Encoder2: 170.37
+1719544160688,Gyro data ready!Roll: -100.98	Pitch: 18.20,Encoder1: 27.08, Encoder2: 171.69
+1719544160728,Roll	-100.98	Pitch	18.20,Encoder1: 30.07, Encoder2: 171.08
+1719544160762,Gyro data ready!Roll: -101.44	Pitch: 18.38,Encoder1: 30.33, Encoder2: 173.10
+1719544160802,Roll	-101.44	Pitch	18.38,Encoder1: 30.42, Encoder2: 172.22
+1719544160834,Gyro data ready!Roll: -101.90	Pitch: 18.56,Encoder1: 30.15, Encoder2: 172.22
+1719544160876,Roll	-101.90	Pitch	18.56,Encoder1: 33.76, Encoder2: 170.29
+1719544160909,Gyro data ready!Roll: -54.84	Pitch: 24.04,Encoder1: 34.20, Encoder2: 172.22
+1719544160948,Roll	-54.84	Pitch	24.04,Encoder1: 30.86, Encoder2: 173.19
+1719544160982,Gyro data ready!Roll: -54.88	Pitch: 23.76,Encoder1: 32.00, Encoder2: 173.89
+1719544161022,Roll	-54.88	Pitch	23.76,Encoder1: 33.76, Encoder2: 170.73
+1719544161055,Gyro data ready!Roll: -54.91	Pitch: 23.49,Encoder1: 32.53, Encoder2: 172.22
+1719544161088,Roll	-54.91	Pitch	23.49,Encoder1: 31.91, Encoder2: 171.34
+1719544161129,Gyro data ready!Roll: -54.93	Pitch: 23.21,Encoder1: 34.20, Encoder2: 170.20
+1719544161163,Roll	-54.93	Pitch	23.21,Encoder1: 36.66, Encoder2: 173.19
+1719544161203,Gyro data ready!Roll: -54.93	Pitch: 22.91,Encoder1: 31.91, Encoder2: 170.64
+1719544161237,Roll	-54.93	Pitch	22.91,Encoder1: 32.18, Encoder2: 173.89
+1719544161272,Gyro data ready!Roll: -54.92	Pitch: 22.61,Encoder1: 32.70, Encoder2: 174.33
+1719544161312,Roll	-54.92	Pitch	22.61,Encoder1: 35.25, Encoder2: 170.64
+1719544161349,Gyro data ready!Roll: -54.91	Pitch: 22.32,Encoder1: 37.71, Encoder2: 170.29
+1719544161385,Roll	-54.91	Pitch	22.32,Encoder1: 33.14, Encoder2: 170.81
+1719544161418,Gyro data ready!Roll: -54.90	Pitch: 22.02,Encoder1: 34.99, Encoder2: 173.89
+1719544161457,Roll	-54.90	Pitch	22.02,Encoder1: 33.85, Encoder2: 173.19
+1719544161494,Gyro data ready!Roll: -54.87	Pitch: 21.72,Encoder1: 33.23, Encoder2: 173.27
+1719544161530,Roll	-54.87	Pitch	21.72,Encoder1: 35.87, Encoder2: 173.45
+1719544161564,Gyro data ready!Roll: -54.83	Pitch: 21.42,Encoder1: 35.08, Encoder2: 174.95
+1719544161604,Roll	-54.83	Pitch	21.42,Encoder1: 34.73, Encoder2: 171.52
+1719544161637,Gyro data ready!Roll: -54.78	Pitch: 21.10,Encoder1: 36.31, Encoder2: 174.42
+1719544161678,Roll	-54.78	Pitch	21.10,Encoder1: 38.59, Encoder2: 171.78
+1719544161711,Gyro data ready!Roll: -54.72	Pitch: 20.78,Encoder1: 34.02, Encoder2: 171.78
+1719544161745,Roll	-54.72	Pitch	20.78,Encoder1: 33.93, Encoder2: 173.36
+1719544161787,Gyro data ready!Roll: -54.63	Pitch: 20.45,Encoder1: 33.93, Encoder2: 172.57
+1719544161825,Roll	-54.63	Pitch	20.45,Encoder1: 38.15, Encoder2: 172.22
+1719544161860,Gyro data ready!Roll: -54.53	Pitch: 20.09,Encoder1: 46.86, Encoder2: 173.19
+1719544161893,Roll	-54.53	Pitch	20.09,Encoder1: 35.43, Encoder2: 173.98
+1719544161933,Gyro data ready!Roll: -54.42	Pitch: 19.72,Encoder1: 34.73, Encoder2: 173.98
+1719544161966,Roll	-54.42	Pitch	19.72,Encoder1: 36.92, Encoder2: 173.89
+1719544162004,Gyro data ready!Roll: -54.32	Pitch: 19.38,Encoder1: 35.52, Encoder2: 171.87
+1719544162041,Roll	-54.32	Pitch	19.38,Encoder1: 36.31, Encoder2: 173.01
+1719544162076,Gyro data ready!Roll: -54.23	Pitch: 19.05,Encoder1: 37.89, Encoder2: 174.86
+1719544162116,Roll	-54.23	Pitch	19.05,Encoder1: 32.26, Encoder2: 174.42
+1719544162151,Gyro data ready!Roll: -54.11	Pitch: 18.72,Encoder1: 33.58, Encoder2: 173.89
+1719544162184,Roll	-54.11	Pitch	18.72,Encoder1: 37.45, Encoder2: 175.03
+1719544162224,Gyro data ready!Roll: -53.99	Pitch: 18.36,Encoder1: 34.90, Encoder2: 172.22
+1719544162257,Roll	-53.99	Pitch	18.36,Encoder1: 32.44, Encoder2: 172.57
+1719544162298,Gyro data ready!Roll: -53.87	Pitch: 18.01,Encoder1: 36.57, Encoder2: 176.35
+1719544162333,Roll	-53.87	Pitch	18.01,Encoder1: 34.02, Encoder2: 173.01
+1719544162364,Gyro data ready!Roll: -53.74	Pitch: 17.66,Encoder1: 34.20, Encoder2: 173.54
+1719544162405,Roll	-53.74	Pitch	17.66,Encoder1: 33.32, Encoder2: 176.79
+1719544162437,Gyro data ready!Roll: -53.61	Pitch: 17.30,Encoder1: 37.36, Encoder2: 170.46
+1719544162478,Roll	-53.61	Pitch	17.30,Encoder1: 37.98, Encoder2: 175.21
+1719544162517,Gyro data ready!Roll: -53.48	Pitch: 16.93,Encoder1: 33.49, Encoder2: 172.48
+1719544162554,Roll	-53.48	Pitch	16.93,Encoder1: 34.02, Encoder2: 175.56
+1719544162586,Gyro data ready!Roll: -53.35	Pitch: 16.58,Encoder1: 35.43, Encoder2: 173.10
+1719544162619,Roll	-53.35	Pitch	16.58,Encoder1: 35.08, Encoder2: 172.57
+1719544162660,Gyro data ready!Roll: -53.20	Pitch: 16.23,Encoder1: 37.54, Encoder2: 176.26
+1719544162693,Roll	-53.20	Pitch	16.23,Encoder1: 36.48, Encoder2: 175.82
+1719544162733,Gyro data ready!Roll: -53.05	Pitch: 15.87,Encoder1: 34.20, Encoder2: 175.03
+1719544162766,Roll	-53.05	Pitch	15.87,Encoder1: 36.48, Encoder2: 175.56
+1719544162809,Gyro data ready!Roll: -52.89	Pitch: 15.50,Encoder1: 37.98, Encoder2: 175.74
+1719544162839,Roll	-52.89	Pitch	15.50,Encoder1: 35.34, Encoder2: 174.95
+1719544162880,Gyro data ready!Roll: -52.74	Pitch: 15.13,Encoder1: 35.96, Encoder2: 172.04
+1719544162914,Roll	-52.74	Pitch	15.13,Encoder1: 35.43, Encoder2: 172.40
+1719544162954,Gyro data ready!Roll: -52.57	Pitch: 14.77,Encoder1: 32.88, Encoder2: 173.01
+1719544162986,Roll	-52.57	Pitch	14.77,Encoder1: 35.16, Encoder2: 176.44
+1719544163028,Gyro data ready!Roll: -52.40	Pitch: 14.41,Encoder1: 35.69, Encoder2: 172.75
+1719544163061,Roll	-52.40	Pitch	14.41,Encoder1: 34.99, Encoder2: 173.80
+1719544163093,Gyro data ready!Roll: -52.22	Pitch: 14.04,Encoder1: 34.99, Encoder2: 176.00
+1719544163135,Roll	-52.22	Pitch	14.04,Encoder1: 34.64, Encoder2: 172.13
+1719544163165,Gyro data ready!Roll: -52.02	Pitch: 13.67,Encoder1: 30.15, Encoder2: 174.42
+1719544163208,Roll	-52.02	Pitch	13.67,Encoder1: 22.77, Encoder2: 172.92
+1719544163239,Gyro data ready!Roll: -51.83	Pitch: 13.32,Encoder1: 29.36, Encoder2: 175.82
+1719544163281,Roll	-51.83	Pitch	13.32,Encoder1: 27.08, Encoder2: 172.04
+1719544163313,Gyro data ready!Roll: -51.65	Pitch: 12.96,Encoder1: 26.81, Encoder2: 172.48
+1719544163353,Roll	-51.65	Pitch	12.96,Encoder1: 27.16, Encoder2: 171.69
+1719544163393,Gyro data ready!Roll: -51.46	Pitch: 12.60,Encoder1: 26.37, Encoder2: 173.98
+1719544163428,Roll	-51.46	Pitch	12.60,Encoder1: 21.71, Encoder2: 174.51
+1719544163460,Gyro data ready!Roll: -51.25	Pitch: 12.24,Encoder1: 21.80, Encoder2: 173.80
+1719544163501,Roll	-51.25	Pitch	12.24,Encoder1: 21.71, Encoder2: 175.82
+1719544163533,Gyro data ready!Roll: -51.04	Pitch: 11.88,Encoder1: 23.91, Encoder2: 175.03
+1719544163574,Roll	-51.04	Pitch	11.88,Encoder1: 25.49, Encoder2: 173.98
+1719544163608,Gyro data ready!Roll: -50.84	Pitch: 11.52,Encoder1: 23.74, Encoder2: 174.68
+1719544163646,Roll	-50.84	Pitch	11.52,Encoder1: 24.09, Encoder2: 172.66
+1719544163678,Gyro data ready!Roll: -50.64	Pitch: 11.16,Encoder1: 17.41, Encoder2: 175.82
+1719544163719,Roll	-50.64	Pitch	11.16,Encoder1: 20.22, Encoder2: 173.54
+1719544163751,Gyro data ready!Roll: -50.41	Pitch: 10.81,Encoder1: 18.29, Encoder2: 173.10
+1719544163792,Roll	-50.41	Pitch	10.81,Encoder1: 13.27, Encoder2: 173.01
+1719544163825,Gyro data ready!Roll: -50.18	Pitch: 10.44,Encoder1: 15.47, Encoder2: 173.10
+1719544163860,Roll	-50.18	Pitch	10.44,Encoder1: 16.00, Encoder2: 173.89
+1719544163900,Gyro data ready!Roll: -49.96	Pitch: 10.07,Encoder1: 12.13, Encoder2: 174.51
+1719544163931,Roll	-49.96	Pitch	10.07,Encoder1: 4.22, Encoder2: 174.68
+1719544163972,Gyro data ready!Roll: -49.73	Pitch: 9.72,Encoder1: 4.22, Encoder2: 174.15
+1719544164006,Roll	-49.73	Pitch	9.72,Encoder1: 5.63, Encoder2: 173.01
+1719544164038,Gyro data ready!Roll: -49.50	Pitch: 9.36,Encoder1: 0.88, Encoder2: 173.36
+1719544164077,Roll	-49.50	Pitch	9.36,Encoder1: 0.00, Encoder2: 172.13
+1719544164110,Gyro data ready!Roll: -49.25	Pitch: 9.01,Encoder1: 0.00, Encoder2: 173.10
+1719544164147,Roll	-49.25	Pitch	9.01,Encoder1: 0.00, Encoder2: 172.40
+1719544164186,Gyro data ready!Roll: -49.00	Pitch: 8.65,Encoder1: 0.00, Encoder2: 172.92
+1719544164218,Roll	-49.00	Pitch	8.65,Encoder1: 0.00, Encoder2: 174.86
+1719544164257,Gyro data ready!Roll: -48.75	Pitch: 8.29,Encoder1: 0.00, Encoder2: 172.13
+1719544164289,Roll	-48.75	Pitch	8.29,Encoder1: 360.00, Encoder2: 170.73
+1719544164330,Gyro data ready!Roll: -48.50	Pitch: 7.93,Encoder1: 360.00, Encoder2: 171.87
+1719544164369,Roll	-48.50	Pitch	7.93,Encoder1: 360.00, Encoder2: 172.13
+1719544164404,Gyro data ready!Roll: -48.25	Pitch: 7.58,Encoder1: 360.00, Encoder2: 173.10
+1719544164444,Roll	-48.25	Pitch	7.58,Encoder1: 360.00, Encoder2: 170.64
+1719544164478,Gyro data ready!Roll: -48.00	Pitch: 7.23,Encoder1: 360.00, Encoder2: 172.66
+1719544164517,Roll	-48.00	Pitch	7.23,Encoder1: 360.00, Encoder2: 171.52
+1719544164550,Gyro data ready!Roll: -47.74	Pitch: 6.88,Encoder1: 360.00, Encoder2: 170.46
+1719544164590,Roll	-47.74	Pitch	6.88,Encoder1: 354.02, Encoder2: 170.37
+1719544164631,Gyro data ready!Roll: -47.48	Pitch: 6.53,Encoder1: 354.46, Encoder2: 172.92
+1719544164665,Roll	-47.48	Pitch	6.53,Encoder1: 349.27, Encoder2: 170.99
+1719544164704,Gyro data ready!Roll: -47.21	Pitch: 6.18,Encoder1: 344.88, Encoder2: 173.01
+1719544164738,Roll	-47.21	Pitch	6.18,Encoder1: 343.65, Encoder2: 170.20
+1719544164781,Gyro data ready!Roll: -46.94	Pitch: 5.83,Encoder1: 338.81, Encoder2: 173.01
+1719544164819,Roll	-46.94	Pitch	5.83,Encoder1: 334.86, Encoder2: 170.46
+1719544164851,Gyro data ready!Roll: -46.66	Pitch: 5.48,Encoder1: 334.68, Encoder2: 170.46
+1719544164891,Roll	-46.66	Pitch	5.48,Encoder1: 322.02, Encoder2: 171.69
+1719544164924,Gyro data ready!Roll: -46.38	Pitch: 5.14,Encoder1: 326.07, Encoder2: 171.87
+1719544164967,Roll	-46.38	Pitch	5.14,Encoder1: 327.12, Encoder2: 172.48
+1719544165007,Gyro data ready!Roll: -46.10	Pitch: 4.79,Encoder1: 323.08, Encoder2: 170.11
+1719544165039,Roll	-46.10	Pitch	4.79,Encoder1: 319.30, Encoder2: 170.20
+1719544165079,Gyro data ready!Roll: -45.81	Pitch: 4.46,Encoder1: 318.33, Encoder2: 170.20
+1719544165112,Roll	-45.81	Pitch	4.46,Encoder1: 316.57, Encoder2: 173.01
+1719544165152,Gyro data ready!Roll: -45.52	Pitch: 4.12,Encoder1: 314.99, Encoder2: 173.10
+1719544165193,Roll	-45.52	Pitch	4.12,Encoder1: 308.48, Encoder2: 171.87
+1719544165225,Gyro data ready!Roll: -45.24	Pitch: 3.78,Encoder1: 313.76, Encoder2: 171.16
+1719544165266,Roll	-45.24	Pitch	3.78,Encoder1: 308.48, Encoder2: 170.37
+1719544165306,Gyro data ready!Roll: -44.94	Pitch: 3.44,Encoder1: 307.96, Encoder2: 172.66
+1719544165340,Roll	-44.94	Pitch	3.44,Encoder1: 312.18, Encoder2: 171.60
+1719544165379,Gyro data ready!Roll: -44.64	Pitch: 3.11,Encoder1: 306.11, Encoder2: 170.64
+1719544165412,Roll	-44.64	Pitch	3.11,Encoder1: 306.37, Encoder2: 169.67
+1719544165453,Gyro data ready!Roll: -44.33	Pitch: 2.77,Encoder1: 306.99, Encoder2: 172.04
+1719544165494,Roll	-44.33	Pitch	2.77,Encoder1: 309.27, Encoder2: 169.93
+1719544165531,Gyro data ready!Roll: -44.02	Pitch: 2.44,Encoder1: 308.22, Encoder2: 170.02
+1719544165568,Roll	-44.02	Pitch	2.44,Encoder1: 302.42, Encoder2: 172.40
+1719544165605,Gyro data ready!Roll: -43.70	Pitch: 2.10,Encoder1: 302.42, Encoder2: 170.99
+1719544165640,Roll	-43.70	Pitch	2.10,Encoder1: 299.60, Encoder2: 169.76
+1719544165679,Gyro data ready!Roll: -43.39	Pitch: 1.77,Encoder1: 302.33, Encoder2: 168.70
+1719544165716,Roll	-43.39	Pitch	1.77,Encoder1: 298.37, Encoder2: 172.92
+1719544165756,Gyro data ready!Roll: -43.07	Pitch: 1.45,Encoder1: 303.03, Encoder2: 170.20
+1719544165789,Roll	-43.07	Pitch	1.45,Encoder1: 300.48, Encoder2: 169.41
+1719544165831,Gyro data ready!Roll: -42.75	Pitch: 1.12,Encoder1: 295.65, Encoder2: 171.96
+1719544165864,Roll	-42.75	Pitch	1.12,Encoder1: 301.54, Encoder2: 171.52
+1719544165904,Gyro data ready!Roll: -42.44	Pitch: 0.79,Encoder1: 296.18, Encoder2: 170.99
+1719544165937,Roll	-42.44	Pitch	0.79,Encoder1: 298.02, Encoder2: 172.04
+1719544165981,Gyro data ready!Roll: -42.11	Pitch: 0.45,Encoder1: 294.07, Encoder2: 172.57
+1719544166018,Roll	-42.11	Pitch	0.45,Encoder1: 295.91, Encoder2: 172.92
+1719544166051,Gyro data ready!Roll: -41.79	Pitch: 0.15,Encoder1: 296.97, Encoder2: 171.34
+1719544166091,Roll	-41.79	Pitch	0.15,Encoder1: 294.15, Encoder2: 170.37
+1719544166124,Gyro data ready!Roll: -41.47	Pitch: -0.18,Encoder1: 292.13, Encoder2: 168.88
+1719544166166,Roll	-41.47	Pitch	-0.18,Encoder1: 295.03, Encoder2: 169.76
+1719544166207,Gyro data ready!Roll: -41.15	Pitch: -0.49,Encoder1: 292.66, Encoder2: 170.46
+1719544166241,Roll	-41.15	Pitch	-0.49,Encoder1: 291.43, Encoder2: 172.66
+1719544166281,Gyro data ready!Roll: -40.83	Pitch: -0.81,Encoder1: 295.91, Encoder2: 171.87
+1719544166313,Roll	-40.83	Pitch	-0.81,Encoder1: 295.74, Encoder2: 170.81
+1719544166354,Gyro data ready!Roll: -40.05	Pitch: -1.25,Encoder1: 293.54, Encoder2: 171.96
+1719544166387,Roll	-40.05	Pitch	-1.25,Encoder1: 291.25, Encoder2: 169.41
+1719544166427,Gyro data ready!Roll: -39.68	Pitch: -1.55,Encoder1: 294.86, Encoder2: 169.23
+1719544166469,Roll	-39.68	Pitch	-1.55,Encoder1: 295.30, Encoder2: 169.41
+1719544166500,Gyro data ready!Roll: -39.40	Pitch: -1.85,Encoder1: 291.16, Encoder2: 169.32
+1719544166540,Roll	-39.40	Pitch	-1.85,Encoder1: 292.57, Encoder2: 169.41
+1719544166581,Gyro data ready!Roll: -39.03	Pitch: -2.11,Encoder1: 292.75, Encoder2: 168.88
+1719544166618,Roll	-39.03	Pitch	-2.11,Encoder1: 296.79, Encoder2: 170.46
+1719544166657,Gyro data ready!Roll: -38.68	Pitch: -2.46,Encoder1: 300.22, Encoder2: 170.46
+1719544166692,Roll	-38.68	Pitch	-2.46,Encoder1: 292.57, Encoder2: 169.05
+1719544166731,Gyro data ready!Roll: -38.32	Pitch: -2.75,Encoder1: 291.43, Encoder2: 168.88
+1719544166765,Roll	-38.32	Pitch	-2.75,Encoder1: 295.12, Encoder2: 165.89
+1719544166806,Gyro data ready!Roll: -37.97	Pitch: -3.05,Encoder1: 299.52, Encoder2: 172.13
+1719544166839,Roll	-37.97	Pitch	-3.05,Encoder1: 292.48, Encoder2: 169.85
+1719544166880,Gyro data ready!Roll: -37.63	Pitch: -3.35,Encoder1: 297.05, Encoder2: 169.58
+1719544166913,Roll	-37.63	Pitch	-3.35,Encoder1: 297.32, Encoder2: 172.31
+1719544166953,Gyro data ready!Gyro data ready!Roll: -39.64	Pitch: -25.07,Encoder1: 294.77, Encoder2: 170.46
+1719544166994,Roll	-39.64	Pitch	-25.07,Encoder1: 299.43, Encoder2: 167.38
+1719544167027,Gyro data ready!Roll: -39.92	Pitch: -24.92,Encoder1: 298.11, Encoder2: 170.81
+1719544167068,Roll	-39.92	Pitch	-24.92,Encoder1: 302.59, Encoder2: 167.30
+1719544167101,Gyro data ready!Roll: -40.23	Pitch: -24.78,Encoder1: 299.60, Encoder2: 166.95
+1719544167144,Roll	-40.23	Pitch	-24.78,Encoder1: 303.21, Encoder2: 167.47
+1719544167180,Gyro data ready!Roll: -40.54	Pitch: -24.64,Encoder1: 311.21, Encoder2: 168.26
+1719544167215,Roll	-40.54	Pitch	-24.64,Encoder1: 302.59, Encoder2: 167.12
+1719544167256,Gyro data ready!Roll: -40.83	Pitch: -24.49,Encoder1: 316.31, Encoder2: 167.38
+1719544167288,Roll	-40.83	Pitch	-24.49,Encoder1: 317.45, Encoder2: 168.97
+1719544167329,Gyro data ready!Roll: -41.12	Pitch: -24.34,Encoder1: 312.70, Encoder2: 168.18
+1719544167367,Roll	-41.12	Pitch	-24.34,Encoder1: 327.21, Encoder2: 167.74
+1719544167402,Gyro data ready!Roll: -41.43	Pitch: -24.20,Encoder1: 322.29, Encoder2: 167.38
+1719544167442,Roll	-41.43	Pitch	-24.20,Encoder1: 320.44, Encoder2: 165.54
+1719544167481,Gyro data ready!Roll: -41.72	Pitch: -24.06,Encoder1: 333.19, Encoder2: 167.38
+1719544167515,Roll	-41.72	Pitch	-24.06,Encoder1: 333.54, Encoder2: 168.79
+1719544167555,Gyro data ready!Roll: -41.99	Pitch: -23.93,Encoder1: 331.69, Encoder2: 169.85
+1719544167588,Roll	-41.99	Pitch	-23.93,Encoder1: 330.46, Encoder2: 167.30
+1719544167629,Gyro data ready!Roll: -42.28	Pitch: -23.77,Encoder1: 334.77, Encoder2: 166.15
+1719544167662,Roll	-42.28	Pitch	-23.77,Encoder1: 335.56, Encoder2: 168.70
+1719544167703,Gyro data ready!Roll: -42.57	Pitch: -23.64,Encoder1: 336.44, Encoder2: 169.41
+1719544167743,Roll	-42.57	Pitch	-23.64,Encoder1: 346.90, Encoder2: 168.35
+1719544167781,Gyro data ready!Roll: -42.85	Pitch: -23.50,Encoder1: 341.80, Encoder2: 170.29
+1719544167817,Roll	-42.85	Pitch	-23.50,Encoder1: 343.74, Encoder2: 167.38
+1719544167849,Gyro data ready!Roll: -43.14	Pitch: -23.36,Encoder1: 349.71, Encoder2: 170.37
+1719544167889,Roll	-43.14	Pitch	-23.36,Encoder1: 357.10, Encoder2: 170.73
+1719544167930,Gyro data ready!Roll: -43.42	Pitch: -23.22,Encoder1: 352.26, Encoder2: 172.04
+1719544167963,Roll	-43.42	Pitch	-23.22,Encoder1: 350.24, Encoder2: 167.38
+1719544168006,Gyro data ready!Roll: -43.70	Pitch: -23.09,Encoder1: 360.00, Encoder2: 172.13
+1719544168038,Roll	-43.70	Pitch	-23.09,Encoder1: 360.00, Encoder2: 173.10
+1719544168081,Gyro data ready!Roll: -43.97	Pitch: -22.96,Encoder1: 359.30, Encoder2: 169.93
+1719544168113,Roll	-43.97	Pitch	-22.96,Encoder1: 360.00, Encoder2: 170.99
+1719544168152,Gyro data ready!Roll: -44.23	Pitch: -22.84,Encoder1: 358.42, Encoder2: 170.81
+1719544168193,Roll	-44.23	Pitch	-22.84,Encoder1: 358.51, Encoder2: 171.43
+1719544168226,Gyro data ready!Roll: -44.51	Pitch: -22.71,Encoder1: 360.00, Encoder2: 169.32
+1719544168268,Roll	-44.51	Pitch	-22.71,Encoder1: 360.00, Encoder2: 173.01
+1719544168306,Gyro data ready!Roll: -44.77	Pitch: -22.58,Encoder1: 360.00, Encoder2: 171.52
+1719544168339,Roll	-44.77	Pitch	-22.58,Encoder1: 360.00, Encoder2: 174.42
+1719544168381,Gyro data ready!Roll: -45.04	Pitch: -22.45,Encoder1: 360.00, Encoder2: 170.73
+1719544168414,Roll	-45.04	Pitch	-22.45,Encoder1: 360.00, Encoder2: 173.10
+1719544168454,Gyro data ready!Roll: -45.31	Pitch: -22.34,Encoder1: 360.00, Encoder2: 174.33
+1719544168487,Roll	-45.31	Pitch	-22.34,Encoder1: 360.00, Encoder2: 170.81
+1719544168528,Gyro data ready!Roll: -45.56	Pitch: -22.22,Encoder1: 360.00, Encoder2: 172.66
+1719544168564,Roll	-45.56	Pitch	-22.22,Encoder1: 360.00, Encoder2: 172.57
+1719544168602,Gyro data ready!Roll: -45.83	Pitch: -22.10,Encoder1: 360.00, Encoder2: 176.35
+1719544168642,Roll	-45.83	Pitch	-22.10,Encoder1: 360.00, Encoder2: 173.98
+1719544168681,Gyro data ready!Roll: -46.11	Pitch: -21.97,Encoder1: 360.00, Encoder2: 171.87
+1719544168716,Roll	-46.11	Pitch	-21.97,Encoder1: 360.00, Encoder2: 175.56
+1719544168756,Gyro data ready!Roll: -46.38	Pitch: -21.83,Encoder1: 360.00, Encoder2: 175.30
+1719544168788,Roll	-46.38	Pitch	-21.83,Encoder1: 360.00, Encoder2: 176.18
+1719544168829,Gyro data ready!Roll: -46.65	Pitch: -21.70,Encoder1: 360.00, Encoder2: 173.45
+1719544168864,Roll	-46.65	Pitch	-21.70,Encoder1: 360.00, Encoder2: 183.30
+1719544168905,Gyro data ready!Roll: -46.92	Pitch: -21.57,Encoder1: 360.00, Encoder2: 181.89
+1719544168938,Roll	-46.92	Pitch	-21.57,Encoder1: 360.00, Encoder2: 181.71
+1719544168981,Gyro data ready!Roll: -47.21	Pitch: -21.43,Encoder1: 360.00, Encoder2: 192.70
+1719544169013,Roll	-47.21	Pitch	-21.43,Encoder1: 360.00, Encoder2: 191.12
+1719544169055,Gyro data ready!Roll: -47.51	Pitch: -21.28,Encoder1: 360.00, Encoder2: 192.70
+1719544169086,Roll	-47.51	Pitch	-21.28,Encoder1: 360.00, Encoder2: 202.64
+1719544169127,Gyro data ready!Roll: -47.79	Pitch: -21.12,Encoder1: 360.00, Encoder2: 204.22
+1719544169169,Roll	-47.79	Pitch	-21.12,Encoder1: 360.00, Encoder2: 205.98
+1719544169200,Gyro data ready!Roll: -48.07	Pitch: -20.97,Encoder1: 360.00, Encoder2: 213.80
+1719544169241,Roll	-48.07	Pitch	-20.97,Encoder1: 360.00, Encoder2: 214.07
+1719544169274,Gyro data ready!Roll: -48.37	Pitch: -20.84,Encoder1: 360.00, Encoder2: 213.98
+1719544169315,Roll	-48.37	Pitch	-20.84,Encoder1: 360.00, Encoder2: 215.47
+1719544169356,Gyro data ready!Roll: -48.62	Pitch: -20.69,Encoder1: 360.00, Encoder2: 220.92
+1719544169388,Roll	-48.62	Pitch	-20.69,Encoder1: 360.00, Encoder2: 221.19
+1719544169429,Gyro data ready!Roll: -48.89	Pitch: -20.54,Encoder1: 360.00, Encoder2: 222.07
+1719544169462,Roll	-48.89	Pitch	-20.54,Encoder1: 0.00, Encoder2: 224.97
+1719544169496,Gyro data ready!Roll: -49.15	Pitch: -20.39,Encoder1: 0.00, Encoder2: 224.79
+1719544169537,Roll	-49.15	Pitch	-20.39,Encoder1: 0.00, Encoder2: 223.56
+1719544169570,Gyro data ready!Roll: -49.42	Pitch: -20.26,Encoder1: 0.00, Encoder2: 227.60
+1719544169604,Roll	-49.42	Pitch	-20.26,Encoder1: 0.00, Encoder2: 228.84
+1719544169644,Gyro data ready!Roll: -49.68	Pitch: -20.11,Encoder1: 0.00, Encoder2: 228.31
+1719544169677,Roll	-49.68	Pitch	-20.11,Encoder1: 0.00, Encoder2: 223.82
+1719544169711,Gyro data ready!Roll: -49.93	Pitch: -19.96,Encoder1: 0.00, Encoder2: 227.87
+1719544169743,Roll	-49.93	Pitch	-19.96,Encoder1: 0.00, Encoder2: 224.62
+1719544169785,Gyro data ready!Roll: -50.20	Pitch: -19.81,Encoder1: 0.00, Encoder2: 226.99
+1719544169817,Roll	-50.20	Pitch	-19.81,Encoder1: 0.00, Encoder2: 227.43
+1719544169857,Gyro data ready!Roll: -50.46	Pitch: -19.66,Encoder1: 0.00, Encoder2: 224.09
+1719544169892,Roll	-50.46	Pitch	-19.66,Encoder1: 0.00, Encoder2: 224.97
+1719544169924,Gyro data ready!Roll: -50.74	Pitch: -19.53,Encoder1: 0.00, Encoder2: 224.70
+1719544169957,Roll	-50.74	Pitch	-19.53,Encoder1: 0.62, Encoder2: 224.97
+1719544169997,Gyro data ready!Roll: -51.00	Pitch: -19.38,Encoder1: 0.00, Encoder2: 224.88
+1719544170030,Roll	-51.00	Pitch	-19.38,Encoder1: 0.00, Encoder2: 228.13
+1719544170067,Gyro data ready!Roll: -51.27	Pitch: -19.25,Encoder1: 2.20, Encoder2: 228.48
+1719544170104,Roll	-51.27	Pitch	-19.25,Encoder1: 4.22, Encoder2: 224.97
+1719544170136,Gyro data ready!Roll: -51.57	Pitch: -19.09,Encoder1: 1.58, Encoder2: 227.78
+1719544170168,Roll	-51.57	Pitch	-19.09,Encoder1: 2.81, Encoder2: 230.24
+1719544170210,Gyro data ready!Roll: -51.92	Pitch: -18.95,Encoder1: 0.62, Encoder2: 227.96
+1719544170241,Roll	-51.92	Pitch	-18.95,Encoder1: 2.11, Encoder2: 229.36
+1719544170274,Gyro data ready!Roll: -52.27	Pitch: -18.82,Encoder1: 0.00, Encoder2: 229.45
+1719544170315,Roll	-52.27	Pitch	-18.82,Encoder1: 0.00, Encoder2: 233.67
+1719544170349,Gyro data ready!Roll: -52.61	Pitch: -18.73,Encoder1: 1.41, Encoder2: 233.05
+1719544170388,Roll	-52.61	Pitch	-18.73,Encoder1: 3.69, Encoder2: 233.32
+1719544170420,Gyro data ready!Roll: -52.93	Pitch: -18.66,Encoder1: 2.99, Encoder2: 231.82
+1719544170452,Roll	-52.93	Pitch	-18.66,Encoder1: 2.90, Encoder2: 238.33
+1719544170492,Gyro data ready!Roll: -53.24	Pitch: -18.59,Encoder1: 5.10, Encoder2: 236.84
+1719544170526,Roll	-53.24	Pitch	-18.59,Encoder1: 0.26, Encoder2: 237.27
+1719544170565,Gyro data ready!Roll: -53.60	Pitch: -18.54,Encoder1: 1.32, Encoder2: 237.98
+1719544170599,Roll	-53.60	Pitch	-18.54,Encoder1: 0.00, Encoder2: 240.97
+1719544170632,Gyro data ready!Roll: -53.93	Pitch: -18.46,Encoder1: 0.00, Encoder2: 239.21
+1719544170672,Roll	-53.93	Pitch	-18.46,Encoder1: 0.00, Encoder2: 239.21
+1719544170706,Gyro data ready!Roll: -54.24	Pitch: -18.39,Encoder1: 1.67, Encoder2: 241.67
+1719544170739,Roll	-54.24	Pitch	-18.39,Encoder1: 1.32, Encoder2: 237.71
+1719544170771,Gyro data ready!Roll: -54.54	Pitch: -18.32,Encoder1: 2.37, Encoder2: 237.98
+1719544170811,Roll	-54.54	Pitch	-18.32,Encoder1: 1.41, Encoder2: 240.97
+1719544170844,Gyro data ready!Roll: -54.85	Pitch: -18.24,Encoder1: 0.00, Encoder2: 240.44
+1719544170883,Roll	-54.85	Pitch	-18.24,Encoder1: 1.41, Encoder2: 241.41
+1719544170918,Gyro data ready!Roll: -55.14	Pitch: -18.18,Encoder1: 1.41, Encoder2: 238.68
+1719544170950,Roll	-55.14	Pitch	-18.18,Encoder1: 0.00, Encoder2: 239.21
+1719544170990,Gyro data ready!Roll: -55.43	Pitch: -18.10,Encoder1: 1.23, Encoder2: 240.00
+1719544171025,Roll	-55.43	Pitch	-18.10,Encoder1: 1.58, Encoder2: 238.86
+1719544171056,Gyro data ready!Roll: -55.71	Pitch: -18.05,Encoder1: 2.64, Encoder2: 242.81
+1719544171097,Roll	-55.71	Pitch	-18.05,Encoder1: 3.43, Encoder2: 243.34
+1719544171131,Gyro data ready!Roll: -56.02	Pitch: -17.99,Encoder1: 2.02, Encoder2: 242.46
+1719544171163,Roll	-56.02	Pitch	-17.99,Encoder1: 0.00, Encoder2: 242.20
+1719544171196,Gyro data ready!Roll: -56.32	Pitch: -17.93,Encoder1: 0.00, Encoder2: 245.54
+1719544171238,Roll	-56.32	Pitch	-17.93,Encoder1: 0.97, Encoder2: 242.37
+1719544171270,Gyro data ready!Roll: -56.62	Pitch: -17.88,Encoder1: 0.00, Encoder2: 243.34
+1719544171302,Roll	-56.62	Pitch	-17.88,Encoder1: 0.26, Encoder2: 247.12
+1719544171343,Gyro data ready!Roll: -56.93	Pitch: -17.84,Encoder1: 2.99, Encoder2: 244.13
+1719544171377,Roll	-56.93	Pitch	-17.84,Encoder1: 5.63, Encoder2: 245.98
+1719544171409,Gyro data ready!Roll: -57.24	Pitch: -17.79,Encoder1: 5.10, Encoder2: 244.48
+1719544171450,Roll	-57.24	Pitch	-17.79,Encoder1: 8.00, Encoder2: 248.70
+1719544171487,Gyro data ready!Roll: -57.54	Pitch: -17.75,Encoder1: 10.55, Encoder2: 247.47
+1719544171517,Roll	-57.54	Pitch	-17.75,Encoder1: 4.48, Encoder2: 250.11
+1719544171558,Gyro data ready!Roll: -57.86	Pitch: -17.70,Encoder1: 9.41, Encoder2: 247.82
+1719544171592,Roll	-57.86	Pitch	-17.70,Encoder1: 10.73, Encoder2: 249.58
+1719544171624,Gyro data ready!Roll: -58.17	Pitch: -17.66,Encoder1: 6.59, Encoder2: 249.23
+1719544171665,Roll	-58.17	Pitch	-17.66,Encoder1: 8.00, Encoder2: 248.97
+1719544171698,Gyro data ready!Roll: -58.48	Pitch: -17.63,Encoder1: 7.12, Encoder2: 252.40
+1719544171731,Roll	-58.48	Pitch	-17.63,Encoder1: 8.18, Encoder2: 249.23
+1719544171772,Gyro data ready!Roll: -58.78	Pitch: -17.60,Encoder1: 11.87, Encoder2: 248.53
+1719544171803,Roll	-58.78	Pitch	-17.60,Encoder1: 11.16, Encoder2: 250.64
+1719544171844,Gyro data ready!Roll: -59.10	Pitch: -17.57,Encoder1: 7.03, Encoder2: 248.00
+1719544171877,Roll	-59.10	Pitch	-17.57,Encoder1: 7.03, Encoder2: 251.87
+1719544171909,Gyro data ready!Roll: -59.42	Pitch: -17.55,Encoder1: 13.27, Encoder2: 248.35
+1719544171949,Roll	-59.42	Pitch	-17.55,Encoder1: 6.77, Encoder2: 250.55
+1719544171987,Gyro data ready!Roll: -59.74	Pitch: -17.54,Encoder1: 7.21, Encoder2: 248.88
+1719544172023,Roll	-59.74	Pitch	-17.54,Encoder1: 10.81, Encoder2: 249.85
+1719544172058,Gyro data ready!Roll: -60.05	Pitch: -17.53,Encoder1: 7.03, Encoder2: 248.97
+1719544172089,Roll	-60.05	Pitch	-17.53,Encoder1: 8.53, Encoder2: 252.75
+1719544172131,Gyro data ready!Roll: -60.36	Pitch: -17.52,Encoder1: 10.46, Encoder2: 252.92
+1719544172163,Roll	-60.36	Pitch	-17.52,Encoder1: 7.56, Encoder2: 250.46
+1719544172196,Gyro data ready!Roll: -60.68	Pitch: -17.50,Encoder1: 7.91, Encoder2: 251.52
+1719544172230,Roll	-60.68	Pitch	-17.50,Encoder1: 7.12, Encoder2: 248.09
+1719544172271,Gyro data ready!Roll: -61.00	Pitch: -17.49,Encoder1: 5.71, Encoder2: 248.97
+1719544172305,Roll	-61.00	Pitch	-17.49,Encoder1: 4.57, Encoder2: 251.52
+1719544172337,Gyro data ready!Roll: -61.32	Pitch: -17.47,Encoder1: 6.68, Encoder2: 251.87
+1719544172378,Roll	-61.32	Pitch	-17.47,Encoder1: 1.67, Encoder2: 253.80
+1719544172411,Gyro data ready!Roll: -61.63	Pitch: -17.47,Encoder1: 0.00, Encoder2: 249.41
+1719544172445,Roll	-61.63	Pitch	-17.47,Encoder1: 0.18, Encoder2: 248.97
+1719544172485,Gyro data ready!Roll: -61.94	Pitch: -17.48,Encoder1: 0.00, Encoder2: 250.81
+1719544172518,Roll	-61.94	Pitch	-17.48,Encoder1: 0.00, Encoder2: 251.52
+1719544172550,Gyro data ready!Roll: -62.26	Pitch: -17.48,Encoder1: 0.00, Encoder2: 248.44
+1719544172585,Roll	-62.26	Pitch	-17.48,Encoder1: 0.00, Encoder2: 249.23
+1719544172624,Gyro data ready!Roll: -62.58	Pitch: -17.47,Encoder1: 0.00, Encoder2: 248.88
+1719544172657,Roll	-62.58	Pitch	-17.47,Encoder1: 0.00, Encoder2: 246.95
+1719544172691,Gyro data ready!Roll: -123.63	Pitch: -33.26,Encoder1: 0.00, Encoder2: 247.82
+1719544172731,Roll	-123.63	Pitch	-33.26,Encoder1: 0.00, Encoder2: 245.71
+1719544172768,Gyro data ready!Roll: -123.50	Pitch: -33.14,Encoder1: 0.00, Encoder2: 247.47
+1719544172797,Roll	-123.50	Pitch	-33.14,Encoder1: 0.00, Encoder2: 246.95
+1719544172838,Gyro data ready!Roll: -123.37	Pitch: -33.02,Encoder1: 0.00, Encoder2: 246.68
+1719544172871,Roll	-123.37	Pitch	-33.02,Encoder1: 0.00, Encoder2: 248.97
+1719544172912,Gyro data ready!Roll: -123.24	Pitch: -32.89,Encoder1: 360.00, Encoder2: 248.44
+1719544172947,Roll	-123.24	Pitch	-32.89,Encoder1: 360.00, Encoder2: 247.38
+1719544172986,Gyro data ready!Roll: -123.11	Pitch: -32.76,Encoder1: 360.00, Encoder2: 247.30
+1719544173019,Roll	-123.11	Pitch	-32.76,Encoder1: 360.00, Encoder2: 245.89
+1719544173061,Gyro data ready!Roll: -122.94	Pitch: -32.64,Encoder1: 346.37, Encoder2: 243.52
+1719544173093,Roll	-122.94	Pitch	-32.64,Encoder1: 349.89, Encoder2: 242.73
+1719544173134,Gyro data ready!Roll: -122.80	Pitch: -32.53,Encoder1: 340.48, Encoder2: 243.52
+1719544173168,Roll	-122.80	Pitch	-32.53,Encoder1: 325.80, Encoder2: 236.48
+1719544173209,Gyro data ready!Roll: -122.63	Pitch: -32.40,Encoder1: 333.27, Encoder2: 239.38
+1719544173249,Roll	-122.63	Pitch	-32.40,Encoder1: 326.24, Encoder2: 236.31
+1719544173286,Gyro data ready!Roll: -122.46	Pitch: -32.23,Encoder1: 322.11, Encoder2: 235.16
+1719544173323,Roll	-122.46	Pitch	-32.23,Encoder1: 320.79, Encoder2: 232.70
+1719544173358,Gyro data ready!Roll: -122.28	Pitch: -32.07,Encoder1: 320.70, Encoder2: 235.16
+1719544173398,Roll	-122.28	Pitch	-32.07,Encoder1: 308.22, Encoder2: 229.10
+1719544173430,Gyro data ready!Roll: -122.10	Pitch: -31.91,Encoder1: 305.32, Encoder2: 224.35
+1719544173471,Roll	-122.10	Pitch	-31.91,Encoder1: 307.52, Encoder2: 224.97
+1719544173511,Gyro data ready!Roll: -121.92	Pitch: -31.74,Encoder1: 308.04, Encoder2: 230.24
+1719544173544,Roll	-121.92	Pitch	-31.74,Encoder1: 286.95, Encoder2: 222.24
+1719544173586,Gyro data ready!Roll: -121.75	Pitch: -31.58,Encoder1: 291.34, Encoder2: 221.27
+1719544173618,Roll	-121.75	Pitch	-31.58,Encoder1: 291.43, Encoder2: 219.87
+1719544173658,Gyro data ready!Roll: -121.56	Pitch: -31.43,Encoder1: 289.93, Encoder2: 217.76
+1719544173699,Roll	-121.56	Pitch	-31.43,Encoder1: 293.10, Encoder2: 218.11
+1719544173733,Gyro data ready!Roll: -121.36	Pitch: -31.26,Encoder1: 292.48, Encoder2: 215.74
+1719544173773,Roll	-121.36	Pitch	-31.26,Encoder1: 292.40, Encoder2: 208.44
+1719544173806,Gyro data ready!Roll: -121.18	Pitch: -31.07,Encoder1: 286.68, Encoder2: 209.58
+1719544173847,Roll	-121.18	Pitch	-31.07,Encoder1: 286.86, Encoder2: 208.44
+1719544173886,Gyro data ready!Roll: -120.98	Pitch: -30.87,Encoder1: 291.69, Encoder2: 210.20
+1719544173921,Roll	-120.98	Pitch	-30.87,Encoder1: 290.20, Encoder2: 198.33
+1719544173955,Gyro data ready!Roll: -120.75	Pitch: -30.68,Encoder1: 286.07, Encoder2: 201.14
+1719544173996,Roll	-120.75	Pitch	-30.68,Encoder1: 290.99, Encoder2: 199.65
+1719544174037,Gyro data ready!Roll: -120.54	Pitch: -30.49,Encoder1: 286.95, Encoder2: 186.90
+1719544174074,Roll	-120.54	Pitch	-30.49,Encoder1: 290.29, Encoder2: 187.08
+1719544174110,Gyro data ready!Roll: -120.31	Pitch: -30.30,Encoder1: 292.57, Encoder2: 186.64
+1719544174143,Roll	-120.31	Pitch	-30.30,Encoder1: 286.77, Encoder2: 180.75
+1719544174187,Gyro data ready!Roll: -120.06	Pitch: -30.10,Encoder1: 285.45, Encoder2: 181.45
+1719544174220,Roll	-120.06	Pitch	-30.10,Encoder1: 287.82, Encoder2: 178.73
+1719544174258,Gyro data ready!Roll: -119.83	Pitch: -29.88,Encoder1: 286.86, Encoder2: 171.60
+1719544174292,Roll	-119.83	Pitch	-29.88,Encoder1: 288.26, Encoder2: 170.11
+1719544174334,Gyro data ready!Roll: -119.60	Pitch: -29.68,Encoder1: 286.77, Encoder2: 169.41
+1719544174373,Roll	-119.60	Pitch	-29.68,Encoder1: 286.15, Encoder2: 170.73
+1719544174408,Gyro data ready!Roll: -119.39	Pitch: -29.47,Encoder1: 287.12, Encoder2: 163.16
+1719544174449,Roll	-119.39	Pitch	-29.47,Encoder1: 286.95, Encoder2: 163.16
+1719544174482,Gyro data ready!Roll: -119.16	Pitch: -29.26,Encoder1: 290.64, Encoder2: 160.79
+1719544174522,Roll	-119.16	Pitch	-29.26,Encoder1: 288.97, Encoder2: 156.40
+1719544174555,Gyro data ready!Roll: -118.98	Pitch: -29.02,Encoder1: 290.02, Encoder2: 155.25
+1719544174595,Roll	-118.98	Pitch	-29.02,Encoder1: 291.08, Encoder2: 154.02
+1719544174637,Gyro data ready!Roll: -118.73	Pitch: -28.80,Encoder1: 286.95, Encoder2: 150.24
+1719544174670,Roll	-118.73	Pitch	-28.80,Encoder1: 290.99, Encoder2: 149.10
+1719544174710,Gyro data ready!Roll: -118.50	Pitch: -28.59,Encoder1: 289.14, Encoder2: 149.63
+1719544174743,Roll	-118.50	Pitch	-28.59,Encoder1: 287.21, Encoder2: 151.74
+1719544174784,Gyro data ready!Roll: -118.27	Pitch: -28.39,Encoder1: 287.03, Encoder2: 146.11
+1719544174825,Roll	-118.27	Pitch	-28.39,Encoder1: 287.91, Encoder2: 144.88
+1719544174858,Gyro data ready!Roll: -118.02	Pitch: -28.16,Encoder1: 290.90, Encoder2: 143.91
+1719544174898,Roll	-118.02	Pitch	-28.16,Encoder1: 288.97, Encoder2: 140.48
+1719544174932,Gyro data ready!Roll: -117.76	Pitch: -27.92,Encoder1: 288.44, Encoder2: 140.13
+1719544174972,Roll	-117.76	Pitch	-27.92,Encoder1: 289.67, Encoder2: 142.68
+1719544175005,Gyro data ready!Roll: -117.50	Pitch: -27.67,Encoder1: 290.20, Encoder2: 134.59
+1719544175046,Roll	-117.50	Pitch	-27.67,Encoder1: 290.90, Encoder2: 133.71
+1719544175081,Gyro data ready!Roll: -117.24	Pitch: -27.44,Encoder1: 292.04, Encoder2: 134.95
+1719544175121,Roll	-117.24	Pitch	-27.44,Encoder1: 288.09, Encoder2: 132.04
+1719544175161,Gyro data ready!Roll: -116.96	Pitch: -27.19,Encoder1: 291.16, Encoder2: 130.81
+1719544175196,Roll	-116.96	Pitch	-27.19,Encoder1: 289.67, Encoder2: 129.85
+1719544175235,Gyro data ready!Roll: -116.69	Pitch: -26.95,Encoder1: 289.41, Encoder2: 129.85
+1719544175275,Roll	-116.69	Pitch	-26.95,Encoder1: 290.11, Encoder2: 126.77
+1719544175308,Gyro data ready!Roll: -116.43	Pitch: -26.71,Encoder1: 292.40, Encoder2: 127.82
+1719544175349,Roll	-116.43	Pitch	-26.71,Encoder1: 288.35, Encoder2: 129.32
+1719544175381,Gyro data ready!Roll: -116.15	Pitch: -26.46,Encoder1: 288.26, Encoder2: 124.92
+1719544175422,Roll	-116.15	Pitch	-26.46,Encoder1: 288.97, Encoder2: 124.57
+1719544175455,Gyro data ready!Roll: -115.88	Pitch: -26.20,Encoder1: 287.91, Encoder2: 127.47
+1719544175494,Roll	-115.88	Pitch	-26.20,Encoder1: 287.91, Encoder2: 122.37
+1719544175535,Gyro data ready!Roll: -115.60	Pitch: -25.95,Encoder1: 287.56, Encoder2: 120.70
+1719544175570,Roll	-115.60	Pitch	-25.95,Encoder1: 289.49, Encoder2: 124.66
+1719544175607,Gyro data ready!Roll: -115.31	Pitch: -25.70,Encoder1: 288.70, Encoder2: 124.57
+1719544175648,Roll	-115.31	Pitch	-25.70,Encoder1: 288.62, Encoder2: 119.12
+1719544175682,Gyro data ready!Roll: -115.02	Pitch: -25.44,Encoder1: 287.03, Encoder2: 120.62
+1719544175723,Roll	-115.02	Pitch	-25.44,Encoder1: 285.54, Encoder2: 118.15
+1719544175756,Gyro data ready!Roll: -114.73	Pitch: -25.17,Encoder1: 288.62, Encoder2: 116.13
+1719544175796,Roll	-114.73	Pitch	-25.17,Encoder1: 287.91, Encoder2: 116.13
+1719544175837,Gyro data ready!Roll: -114.46	Pitch: -24.91,Encoder1: 290.11, Encoder2: 117.27
+1719544175870,Roll	-114.46	Pitch	-24.91,Encoder1: 285.80, Encoder2: 114.37
+1719544175911,Gyro data ready!Roll: -114.18	Pitch: -24.64,Encoder1: 291.60, Encoder2: 115.52
+1719544175943,Roll	-114.18	Pitch	-24.64,Encoder1: 287.56, Encoder2: 117.63
+1719544175985,Gyro data ready!Roll: -113.88	Pitch: -24.34,Encoder1: 293.45, Encoder2: 116.22
+1719544176025,Roll	-113.88	Pitch	-24.34,Encoder1: 292.57, Encoder2: 114.55
+1719544176062,Gyro data ready!Roll: -113.59	Pitch: -24.04,Encoder1: 287.21, Encoder2: 115.16
+1719544176098,Roll	-113.59	Pitch	-24.04,Encoder1: 288.26, Encoder2: 113.67
+1719544176132,Gyro data ready!Roll: -113.29	Pitch: -23.76,Encoder1: 287.03, Encoder2: 116.92
+1719544176172,Roll	-113.29	Pitch	-23.76,Encoder1: 291.08, Encoder2: 113.67
+1719544176205,Gyro data ready!Roll: -112.99	Pitch: -23.48,Encoder1: 286.95, Encoder2: 116.48
+1719544176246,Roll	-112.99	Pitch	-23.48,Encoder1: 286.33, Encoder2: 114.29
+1719544176287,Gyro data ready!Roll: -112.68	Pitch: -23.18,Encoder1: 289.49, Encoder2: 115.52
+1719544176319,Roll	-112.68	Pitch	-23.18,Encoder1: 292.40, Encoder2: 112.26
+1719544176360,Gyro data ready!Roll: -112.38	Pitch: -22.88,Encoder1: 289.93, Encoder2: 113.67
+1719544176393,Roll	-112.38	Pitch	-22.88,Encoder1: 290.99, Encoder2: 115.87
+1719544176436,Gyro data ready!Roll: -112.06	Pitch: -22.59,Encoder1: 290.11, Encoder2: 115.60
+1719544176474,Roll	-112.06	Pitch	-22.59,Encoder1: 287.82, Encoder2: 116.57
+1719544176508,Gyro data ready!Roll: -111.75	Pitch: -22.28,Encoder1: 285.63, Encoder2: 115.25
+1719544176548,Roll	-111.75	Pitch	-22.28,Encoder1: 287.21, Encoder2: 112.00
+1719544176582,Gyro data ready!Roll: -111.42	Pitch: -21.96,Encoder1: 291.16, Encoder2: 114.81
+1719544176623,Roll	-111.42	Pitch	-21.96,Encoder1: 291.25, Encoder2: 115.43
+1719544176656,Gyro data ready!Roll: -111.08	Pitch: -21.64,Encoder1: 291.08, Encoder2: 116.66
+1719544176697,Roll	-111.08	Pitch	-21.64,Encoder1: 288.62, Encoder2: 112.00
+1719544176737,Gyro data ready!Roll: -110.73	Pitch: -21.32,Encoder1: 287.21, Encoder2: 112.79
+1719544176770,Roll	-110.73	Pitch	-21.32,Encoder1: 286.86, Encoder2: 115.96
+1719544176811,Gyro data ready!Roll: -110.39	Pitch: -21.01,Encoder1: 287.91, Encoder2: 113.93
+1719544176848,Roll	-110.39	Pitch	-21.01,Encoder1: 288.53, Encoder2: 115.08
+1719544176883,Gyro data ready!Roll: -110.05	Pitch: -20.70,Encoder1: 287.38, Encoder2: 113.93
+1719544176924,Roll	-110.05	Pitch	-20.70,Encoder1: 291.25, Encoder2: 114.11
+1719544176956,Gyro data ready!Roll: -109.73	Pitch: -20.39,Encoder1: 292.31, Encoder2: 114.55
+1719544176997,Roll	-109.73	Pitch	-20.39,Encoder1: 295.12, Encoder2: 112.62
+1719544177031,Gyro data ready!Roll: -109.43	Pitch: -20.08,Encoder1: 290.37, Encoder2: 116.66
+1719544177070,Roll	-109.43	Pitch	-20.08,Encoder1: 290.02, Encoder2: 113.93
+1719544177111,Gyro data ready!Roll: -109.11	Pitch: -19.78,Encoder1: 288.62, Encoder2: 112.26
+1719544177144,Roll	-109.11	Pitch	-19.78,Encoder1: 290.37, Encoder2: 114.81
+1719544177186,Gyro data ready!Roll: -108.80	Pitch: -19.48,Encoder1: 287.74, Encoder2: 112.53
+1719544177218,Roll	-108.80	Pitch	-19.48,Encoder1: 293.80, Encoder2: 111.38
+1719544177259,Gyro data ready!Roll: -108.48	Pitch: -19.17,Encoder1: 289.85, Encoder2: 112.62
+1719544177292,Roll	-108.48	Pitch	-19.17,Encoder1: 291.08, Encoder2: 112.44
+1719544177333,Gyro data ready!Roll: -108.16	Pitch: -18.86,Encoder1: 292.48, Encoder2: 113.93
+1719544177374,Roll	-108.16	Pitch	-18.86,Encoder1: 293.80, Encoder2: 115.25
+1719544177408,Gyro data ready!Roll: -107.83	Pitch: -18.55,Encoder1: 296.79, Encoder2: 112.88
+1719544177449,Roll	-107.83	Pitch	-18.55,Encoder1: 295.21, Encoder2: 111.47
+1719544177483,Gyro data ready!Roll: -107.50	Pitch: -18.22,Encoder1: 301.98, Encoder2: 114.02
+1719544177525,Roll	-107.50	Pitch	-18.22,Encoder1: 300.22, Encoder2: 115.16
+1719544177557,Gyro data ready!Roll: -107.17	Pitch: -17.91,Encoder1: 299.52, Encoder2: 113.67
+1719544177599,Roll	-107.17	Pitch	-17.91,Encoder1: 312.79, Encoder2: 103.21
+1719544177631,Gyro data ready!Roll: -106.84	Pitch: -17.60,Encoder1: 313.76, Encoder2: 114.46
+1719544177671,Roll	-106.84	Pitch	-17.60,Encoder1: 308.31, Encoder2: 112.97
+1719544177712,Gyro data ready!Roll: -106.52	Pitch: -17.29,Encoder1: 324.92, Encoder2: 113.41
+1719544177745,Roll	-106.52	Pitch	-17.29,Encoder1: 317.27, Encoder2: 112.18
+1719544177786,Gyro data ready!Roll: -106.19	Pitch: -16.98,Encoder1: 316.57, Encoder2: 115.87
+1719544177817,Roll	-106.19	Pitch	-16.98,Encoder1: 323.43, Encoder2: 112.35
+1719544177862,Gyro data ready!Roll: -105.86	Pitch: -16.67,Encoder1: 331.52, Encoder2: 113.93
+1719544177899,Roll	-105.86	Pitch	-16.67,Encoder1: 329.32, Encoder2: 115.34
+1719544177935,Gyro data ready!Roll: -105.52	Pitch: -16.36,Encoder1: 323.52, Encoder2: 116.13
+1719544177974,Roll	-105.52	Pitch	-16.36,Encoder1: 335.03, Encoder2: 113.23
+1719544178007,Gyro data ready!Roll: -105.19	Pitch: -16.04,Encoder1: 334.33, Encoder2: 116.48
+1719544178048,Roll	-105.19	Pitch	-16.04,Encoder1: 338.64, Encoder2: 113.14
+1719544178080,Gyro data ready!Roll: -104.86	Pitch: -15.73,Encoder1: 336.44, Encoder2: 114.81
+1719544178120,Roll	-104.86	Pitch	-15.73,Encoder1: 339.25, Encoder2: 112.44
+1719544178160,Gyro data ready!Roll: -104.52	Pitch: -15.42,Encoder1: 339.96, Encoder2: 116.75
+1719544178193,Roll	-104.52	Pitch	-15.42,Encoder1: 344.62, Encoder2: 113.67
+1719544178234,Gyro data ready!Roll: -104.18	Pitch: -15.12,Encoder1: 340.04, Encoder2: 115.25
+1719544178274,Roll	-104.18	Pitch	-15.12,Encoder1: 341.80, Encoder2: 119.47
+1719544178308,Gyro data ready!Gyro data ready!Roll: -87.39	Pitch: 13.88,Encoder1: 344.97, Encoder2: 115.60
+1719544178347,Roll	-87.39	Pitch	13.88,Encoder1: 345.58, Encoder2: 120.00
+1719544178385,Gyro data ready!Roll: -87.65	Pitch: 13.90,Encoder1: 340.57, Encoder2: 120.44
+1719544178420,Roll	-87.65	Pitch	13.90,Encoder1: 341.71, Encoder2: 122.64
+1719544178461,Gyro data ready!Roll: -87.90	Pitch: 13.93,Encoder1: 346.11, Encoder2: 128.18
+1719544178494,Roll	-87.90	Pitch	13.93,Encoder1: 344.62, Encoder2: 126.77
+1719544178535,Gyro data ready!Roll: -88.15	Pitch: 13.96,Encoder1: 340.57, Encoder2: 126.86
+1719544178567,Roll	-88.15	Pitch	13.96,Encoder1: 344.88, Encoder2: 132.13
+1719544178608,Gyro data ready!Roll: -88.41	Pitch: 13.97,Encoder1: 343.12, Encoder2: 133.45
+1719544178649,Roll	-88.41	Pitch	13.97,Encoder1: 336.97, Encoder2: 130.55
+1719544178682,Gyro data ready!Roll: -88.66	Pitch: 13.99,Encoder1: 339.60, Encoder2: 130.64
+1719544178722,Roll	-88.66	Pitch	13.99,Encoder1: 336.26, Encoder2: 139.60
+1719544178756,Gyro data ready!Roll: -88.93	Pitch: 14.00,Encoder1: 341.54, Encoder2: 137.32
+1719544178798,Roll	-88.93	Pitch	14.00,Encoder1: 340.22, Encoder2: 137.85
+1719544178830,Gyro data ready!Roll: -89.18	Pitch: 14.01,Encoder1: 338.11, Encoder2: 142.86
+1719544178869,Roll	-89.18	Pitch	14.01,Encoder1: 342.68, Encoder2: 142.15
+1719544178911,Gyro data ready!Roll: -89.44	Pitch: 14.02,Encoder1: 336.44, Encoder2: 144.44
+1719544178943,Roll	-89.44	Pitch	14.02,Encoder1: 342.33, Encoder2: 147.16
+1719544178984,Gyro data ready!Roll: -89.71	Pitch: 14.04,Encoder1: 340.40, Encoder2: 148.48
+1719544179024,Roll	-89.71	Pitch	14.04,Encoder1: 342.59, Encoder2: 146.81
+1719544179056,Gyro data ready!Roll: -89.98	Pitch: 14.04,Encoder1: 340.57, Encoder2: 147.08
+1719544179097,Roll	-89.98	Pitch	14.04,Encoder1: 342.51, Encoder2: 155.87
+1719544179129,Gyro data ready!Roll: -90.25	Pitch: 14.05,Encoder1: 345.93, Encoder2: 155.52
+1719544179173,Roll	-90.25	Pitch	14.05,Encoder1: 341.80, Encoder2: 153.76
+1719544179205,Gyro data ready!Roll: -90.53	Pitch: 14.05,Encoder1: 345.67, Encoder2: 162.29
+1719544179246,Roll	-90.53	Pitch	14.05,Encoder1: 340.31, Encoder2: 162.29
+1719544179281,Gyro data ready!Roll: -90.80	Pitch: 14.04,Encoder1: 337.58, Encoder2: 164.57
+1719544179321,Roll	-90.80	Pitch	14.04,Encoder1: 336.18, Encoder2: 168.97
+1719544179362,Gyro data ready!Roll: -91.07	Pitch: 14.05,Encoder1: 346.46, Encoder2: 172.22
+1719544179399,Roll	-91.07	Pitch	14.05,Encoder1: 340.48, Encoder2: 169.14
+1719544179436,Gyro data ready!Roll: -91.33	Pitch: 14.06,Encoder1: 338.11, Encoder2: 177.23
+1719544179469,Roll	-91.33	Pitch	14.06,Encoder1: 336.26, Encoder2: 175.82
+1719544179510,Gyro data ready!Roll: -91.59	Pitch: 14.06,Encoder1: 346.20, Encoder2: 175.65
+1719544179544,Roll	-91.59	Pitch	14.06,Encoder1: 334.68, Encoder2: 175.82
+1719544179584,Gyro data ready!Roll: -91.87	Pitch: 14.04,Encoder1: 340.84, Encoder2: 181.89
+1719544179618,Roll	-91.87	Pitch	14.04,Encoder1: 343.82, Encoder2: 181.98
+1719544179658,Gyro data ready!Roll: -92.15	Pitch: 14.02,Encoder1: 340.31, Encoder2: 181.19
+1719544179699,Roll	-92.15	Pitch	14.02,Encoder1: 344.70, Encoder2: 181.45
+1719544179732,Gyro data ready!Roll: -92.43	Pitch: 14.00,Encoder1: 341.54, Encoder2: 181.45
+1719544179772,Roll	-92.43	Pitch	14.00,Encoder1: 348.04, Encoder2: 179.60
+1719544179806,Gyro data ready!Roll: -92.70	Pitch: 13.99,Encoder1: 353.67, Encoder2: 179.25
+1719544179846,Roll	-92.70	Pitch	13.99,Encoder1: 357.01, Encoder2: 181.10
+1719544179887,Gyro data ready!Roll: -92.97	Pitch: 13.97,Encoder1: 360.00, Encoder2: 180.84
+1719544179921,Roll	-92.97	Pitch	13.97,Encoder1: 352.88, Encoder2: 182.95
+1719544179962,Gyro data ready!Roll: -93.25	Pitch: 13.95,Encoder1: 360.00, Encoder2: 179.60
+1719544179996,Roll	-93.25	Pitch	13.95,Encoder1: 360.00, Encoder2: 178.64
+1719544180035,Gyro data ready!Roll: -93.51	Pitch: 13.92,Encoder1: 360.00, Encoder2: 178.81
+1719544180069,Roll	-93.51	Pitch	13.92,Encoder1: 360.00, Encoder2: 181.01
+1719544180110,Gyro data ready!Roll: -93.78	Pitch: 13.90,Encoder1: 360.00, Encoder2: 180.57
+1719544180145,Roll	-93.78	Pitch	13.90,Encoder1: 360.00, Encoder2: 181.71
+1719544180184,Gyro data ready!Roll: -94.05	Pitch: 13.89,Encoder1: 360.00, Encoder2: 182.42
+1719544180224,Roll	-94.05	Pitch	13.89,Encoder1: 360.00, Encoder2: 179.43
+1719544180256,Gyro data ready!Roll: -94.33	Pitch: 13.88,Encoder1: 360.00, Encoder2: 181.89
+1719544180299,Roll	-94.33	Pitch	13.88,Encoder1: 360.00, Encoder2: 179.96
+1719544180337,Gyro data ready!Roll: -94.59	Pitch: 13.87,Encoder1: 360.00, Encoder2: 178.81
+1719544180370,Roll	-94.59	Pitch	13.87,Encoder1: 360.00, Encoder2: 178.11
+1719544180412,Gyro data ready!Roll: -94.87	Pitch: 13.85,Encoder1: 360.00, Encoder2: 178.37
+1719544180446,Roll	-94.87	Pitch	13.85,Encoder1: 360.00, Encoder2: 172.66
+1719544180486,Gyro data ready!Roll: -95.15	Pitch: 13.84,Encoder1: 360.00, Encoder2: 174.24
+1719544180525,Roll	-95.15	Pitch	13.84,Encoder1: 360.00, Encoder2: 172.57
+1719544180561,Gyro data ready!Roll: -95.44	Pitch: 13.83,Encoder1: 360.00, Encoder2: 164.57
+1719544180597,Roll	-95.44	Pitch	13.83,Encoder1: 360.00, Encoder2: 165.01
+1719544180634,Gyro data ready!Roll: -95.73	Pitch: 13.83,Encoder1: 360.00, Encoder2: 165.45
+1719544180668,Roll	-95.73	Pitch	13.83,Encoder1: 360.00, Encoder2: 159.47
+1719544180708,Gyro data ready!Roll: -96.01	Pitch: 13.82,Encoder1: 360.00, Encoder2: 158.33
+1719544180748,Roll	-96.01	Pitch	13.82,Encoder1: 360.00, Encoder2: 159.74
+1719544180782,Gyro data ready!Roll: -96.30	Pitch: 13.82,Encoder1: 360.00, Encoder2: 161.49
+1719544180823,Roll	-96.30	Pitch	13.82,Encoder1: 360.00, Encoder2: 150.51
+1719544180856,Gyro data ready!Roll: -96.60	Pitch: 13.82,Encoder1: 360.00, Encoder2: 150.59
+1719544180897,Roll	-96.60	Pitch	13.82,Encoder1: 360.00, Encoder2: 151.82
+1719544180937,Gyro data ready!Roll: -96.90	Pitch: 13.83,Encoder1: 360.00, Encoder2: 146.29
+1719544180969,Roll	-96.90	Pitch	13.83,Encoder1: 360.00, Encoder2: 145.93
+1719544181011,Gyro data ready!Roll: -97.20	Pitch: 13.84,Encoder1: 360.00, Encoder2: 144.79
+1719544181045,Roll	-97.20	Pitch	13.84,Encoder1: 360.00, Encoder2: 137.58
+1719544181085,Gyro data ready!Roll: -97.51	Pitch: 13.86,Encoder1: 360.00, Encoder2: 139.52
+1719544181119,Roll	-97.51	Pitch	13.86,Encoder1: 359.74, Encoder2: 136.88
+1719544181159,Gyro data ready!Roll: -97.81	Pitch: 13.88,Encoder1: 360.00, Encoder2: 128.00
+1719544181199,Roll	-97.81	Pitch	13.88,Encoder1: 360.00, Encoder2: 126.59
+1719544181233,Gyro data ready!Roll: -98.11	Pitch: 13.91,Encoder1: 360.00, Encoder2: 128.62
+1719544181272,Roll	-98.11	Pitch	13.91,Encoder1: 360.00, Encoder2: 128.44
+1719544181308,Gyro data ready!Roll: -98.39	Pitch: 13.94,Encoder1: 360.00, Encoder2: 122.29
+1719544181347,Roll	-98.39	Pitch	13.94,Encoder1: 360.00, Encoder2: 121.58
+1719544181387,Gyro data ready!Roll: -98.66	Pitch: 13.98,Encoder1: 360.00, Encoder2: 122.37
+1719544181421,Roll	-98.66	Pitch	13.98,Encoder1: 360.00, Encoder2: 117.01
+1719544181462,Gyro data ready!Roll: -98.93	Pitch: 14.02,Encoder1: 360.00, Encoder2: 119.47
+1719544181498,Roll	-98.93	Pitch	14.02,Encoder1: 360.00, Encoder2: 118.59
+1719544181536,Gyro data ready!Roll: -99.19	Pitch: 14.06,Encoder1: 360.00, Encoder2: 115.87
+1719544181569,Roll	-99.19	Pitch	14.06,Encoder1: 360.00, Encoder2: 118.07
+1719544181609,Gyro data ready!Roll: -99.44	Pitch: 14.13,Encoder1: 360.00, Encoder2: 114.02
+1719544181642,Roll	-99.44	Pitch	14.13,Encoder1: 360.00, Encoder2: 113.93
+1719544181682,Gyro data ready!Roll: -99.70	Pitch: 14.18,Encoder1: 360.00, Encoder2: 123.69
+1719544181723,Roll	-99.70	Pitch	14.18,Encoder1: 359.30, Encoder2: 121.05
+1719544181756,Gyro data ready!Roll: -99.98	Pitch: 14.23,Encoder1: 360.00, Encoder2: 123.78
+1719544181798,Roll	-99.98	Pitch	14.23,Encoder1: 360.00, Encoder2: 133.89
+1719544181830,Gyro data ready!Roll: -100.25	Pitch: 14.28,Encoder1: 360.00, Encoder2: 134.42
+1719544181871,Roll	-100.25	Pitch	14.28,Encoder1: 360.00, Encoder2: 136.97
+1719544181911,Gyro data ready!Roll: -100.52	Pitch: 14.33,Encoder1: 360.00, Encoder2: 149.36
+1719544181943,Roll	-100.52	Pitch	14.33,Encoder1: 360.00, Encoder2: 151.65
+1719544181984,Gyro data ready!Roll: -100.78	Pitch: 14.39,Encoder1: 360.00, Encoder2: 151.47
+1719544182018,Roll	-100.78	Pitch	14.39,Encoder1: 360.00, Encoder2: 167.38
+1719544182058,Gyro data ready!Roll: -101.05	Pitch: 14.44,Encoder1: 360.00, Encoder2: 165.45
+1719544182099,Roll	-101.05	Pitch	14.44,Encoder1: 360.00, Encoder2: 166.24
+1719544182133,Gyro data ready!Roll: -101.32	Pitch: 14.48,Encoder1: 360.00, Encoder2: 166.95
+1719544182174,Roll	-101.32	Pitch	14.48,Encoder1: 360.00, Encoder2: 186.11
+1719544182206,Gyro data ready!Roll: -101.59	Pitch: 14.53,Encoder1: 360.00, Encoder2: 183.38
+1719544182247,Roll	-101.59	Pitch	14.53,Encoder1: 360.00, Encoder2: 182.77
+1719544182283,Gyro data ready!Roll: -101.85	Pitch: 14.57,Encoder1: 360.00, Encoder2: 201.05
+1719544182321,Roll	-101.85	Pitch	14.57,Encoder1: 360.00, Encoder2: 199.56
+1719544182361,Gyro data ready!Roll: -102.12	Pitch: 14.62,Encoder1: 360.00, Encoder2: 198.95
+1719544182395,Roll	-102.12	Pitch	14.62,Encoder1: 360.00, Encoder2: 217.49
+1719544182435,Gyro data ready!Roll: -102.39	Pitch: 14.66,Encoder1: 360.00, Encoder2: 217.41
+1719544182474,Roll	-102.39	Pitch	14.66,Encoder1: 360.00, Encoder2: 217.85
+1719544182507,Gyro data ready!Roll: -102.62	Pitch: 14.76,Encoder1: 360.00, Encoder2: 218.37
+1719544182548,Roll	-102.62	Pitch	14.76,Encoder1: 360.00, Encoder2: 220.66
+1719544182580,Gyro data ready!Roll: -102.87	Pitch: 14.84,Encoder1: 360.00, Encoder2: 219.25
+1719544182620,Roll	-102.87	Pitch	14.84,Encoder1: 360.00, Encoder2: 219.69
+1719544182661,Gyro data ready!Roll: -103.12	Pitch: 14.88,Encoder1: 360.00, Encoder2: 208.09
+1719544182694,Roll	-103.12	Pitch	14.88,Encoder1: 360.00, Encoder2: 210.73
+1719544182734,Gyro data ready!Roll: -103.36	Pitch: 14.94,Encoder1: 360.00, Encoder2: 210.81
+1719544182768,Roll	-103.36	Pitch	14.94,Encoder1: 360.00, Encoder2: 183.30
+1719544182807,Gyro data ready!Roll: -103.62	Pitch: 15.00,Encoder1: 360.00, Encoder2: 182.77
+1719544182849,Roll	-103.62	Pitch	15.00,Encoder1: 360.00, Encoder2: 183.12
+1719544182882,Gyro data ready!Roll: -103.85	Pitch: 15.04,Encoder1: 360.00, Encoder2: 154.29
+1719544182922,Roll	-103.85	Pitch	15.04,Encoder1: 360.00, Encoder2: 152.00
+1719544182962,Gyro data ready!Roll: -104.09	Pitch: 15.09,Encoder1: 360.00, Encoder2: 151.82
+1719544182995,Roll	-104.09	Pitch	15.09,Encoder1: 360.00, Encoder2: 150.68
+1719544183036,Gyro data ready!Roll: -104.34	Pitch: 15.14,Encoder1: 360.00, Encoder2: 133.36
+1719544183070,Roll	-104.34	Pitch	15.14,Encoder1: 360.00, Encoder2: 131.87
+1719544183110,Gyro data ready!Roll: -104.60	Pitch: 15.20,Encoder1: 360.00, Encoder2: 133.36
+1719544183144,Roll	-104.60	Pitch	15.20,Encoder1: 360.00, Encoder2: 131.60
+1719544183185,Gyro data ready!Roll: -104.86	Pitch: 15.27,Encoder1: 360.00, Encoder2: 130.55
+1719544183224,Roll	-104.86	Pitch	15.27,Encoder1: 360.00, Encoder2: 131.25
+1719544183262,Gyro data ready!Roll: -105.20	Pitch: 15.36,Encoder1: 360.00, Encoder2: 145.67
+1719544183298,Roll	-105.20	Pitch	15.36,Encoder1: 360.00, Encoder2: 145.76
+1719544183330,Gyro data ready!Roll: -105.49	Pitch: 15.40,Encoder1: 360.00, Encoder2: 149.10
+1719544183372,Roll	-105.49	Pitch	15.40,Encoder1: 360.00, Encoder2: 146.11
+1719544183412,Gyro data ready!Roll: -105.75	Pitch: 15.45,Encoder1: 360.00, Encoder2: 170.46
+1719544183445,Roll	-105.75	Pitch	15.45,Encoder1: 360.00, Encoder2: 172.22
+1719544183486,Gyro data ready!Roll: -105.99	Pitch: 15.52,Encoder1: 360.00, Encoder2: 170.55
+1719544183520,Roll	-105.99	Pitch	15.52,Encoder1: 360.00, Encoder2: 193.32
+1719544183558,Gyro data ready!Roll: -106.24	Pitch: 15.58,Encoder1: 360.00, Encoder2: 195.16
+1719544183599,Roll	-106.24	Pitch	15.58,Encoder1: 360.00, Encoder2: 195.69
+1719544183632,Gyro data ready!Roll: -106.50	Pitch: 15.65,Encoder1: 360.00, Encoder2: 202.29
+1719544183672,Roll	-106.50	Pitch	15.65,Encoder1: 360.00, Encoder2: 201.32
+1719544183712,Gyro data ready!Roll: -106.76	Pitch: 15.71,Encoder1: 360.00, Encoder2: 201.05
+1719544183745,Roll	-106.76	Pitch	15.71,Encoder1: 360.00, Encoder2: 199.12
+1719544183786,Gyro data ready!Roll: -107.01	Pitch: 15.78,Encoder1: 360.00, Encoder2: 202.55
+1719544183820,Roll	-107.01	Pitch	15.78,Encoder1: 360.00, Encoder2: 198.95
+1719544183859,Gyro data ready!Roll: -107.28	Pitch: 15.84,Encoder1: 360.00, Encoder2: 202.20
+1719544183892,Roll	-107.28	Pitch	15.84,Encoder1: 360.00, Encoder2: 202.02
+1719544183935,Gyro data ready!Roll: -107.55	Pitch: 15.89,Encoder1: 360.00, Encoder2: 200.53
+1719544183967,Roll	-107.55	Pitch	15.89,Encoder1: 360.00, Encoder2: 201.76
+1719544184007,Gyro data ready!Roll: -107.81	Pitch: 15.96,Encoder1: 360.00, Encoder2: 197.45
+1719544184048,Roll	-107.81	Pitch	15.96,Encoder1: 360.00, Encoder2: 196.13
+1719544184080,Gyro data ready!Roll: -108.08	Pitch: 16.03,Encoder1: 360.00, Encoder2: 198.42
+1719544184124,Roll	-108.08	Pitch	16.03,Encoder1: 360.00, Encoder2: 189.89
+1719544184161,Gyro data ready!Roll: -108.37	Pitch: 16.10,Encoder1: 360.00, Encoder2: 188.75
+1719544184195,Roll	-108.37	Pitch	16.10,Encoder1: 360.00, Encoder2: 189.54
+1719544184235,Gyro data ready!Roll: -108.65	Pitch: 16.15,Encoder1: 360.00, Encoder2: 190.42
+1719544184271,Roll	-108.65	Pitch	16.15,Encoder1: 360.00, Encoder2: 181.19
+1719544184312,Gyro data ready!Roll: -108.94	Pitch: 16.21,Encoder1: 360.00, Encoder2: 178.81
+1719544184344,Roll	-108.94	Pitch	16.21,Encoder1: 360.00, Encoder2: 178.64
+1719544184384,Gyro data ready!Roll: -109.24	Pitch: 16.28,Encoder1: 360.00, Encoder2: 176.26
+1719544184418,Roll	-109.24	Pitch	16.28,Encoder1: 360.00, Encoder2: 174.42
+1719544184460,Gyro data ready!Roll: -109.55	Pitch: 16.34,Encoder1: 360.00, Encoder2: 175.21
+1719544184492,Roll	-109.55	Pitch	16.34,Encoder1: 360.00, Encoder2: 177.05
+1719544184533,Gyro data ready!Roll: -75.22	Pitch: 25.63,Encoder1: 360.00, Encoder2: 177.85
+1719544184574,Roll	-75.22	Pitch	25.63,Encoder1: 360.00, Encoder2: 176.44
+1719544184605,Gyro data ready!Roll: -74.82	Pitch: 25.44,Encoder1: 360.00, Encoder2: 176.88
+1719544184646,Roll	-74.82	Pitch	25.44,Encoder1: 360.00, Encoder2: 175.82
+1719544184687,Gyro data ready!Roll: -74.43	Pitch: 25.24,Encoder1: 360.00, Encoder2: 175.82
+1719544184720,Roll	-74.43	Pitch	25.24,Encoder1: 360.00, Encoder2: 176.26
+1719544184760,Gyro data ready!Roll: -74.04	Pitch: 25.03,Encoder1: 360.00, Encoder2: 177.14
+1719544184792,Roll	-74.04	Pitch	25.03,Encoder1: 360.00, Encoder2: 176.79
+1719544184834,Gyro data ready!Roll: -73.65	Pitch: 24.82,Encoder1: 360.00, Encoder2: 178.64
+1719544184875,Roll	-73.65	Pitch	24.82,Encoder1: 360.00, Encoder2: 175.82
+1719544184908,Gyro data ready!Roll: -73.26	Pitch: 24.62,Encoder1: 360.00, Encoder2: 176.09
+1719544184948,Roll	-73.26	Pitch	24.62,Encoder1: 360.00, Encoder2: 176.26
+1719544184982,Gyro data ready!Roll: -72.88	Pitch: 24.42,Encoder1: 360.00, Encoder2: 177.41
+1719544185023,Roll	-72.88	Pitch	24.42,Encoder1: 360.00, Encoder2: 178.11
+1719544185055,Gyro data ready!Roll: -72.50	Pitch: 24.22,Encoder1: 360.00, Encoder2: 177.32
+1719544185098,Roll	-72.50	Pitch	24.22,Encoder1: 360.00, Encoder2: 177.14
+1719544185130,Gyro data ready!Roll: -72.12	Pitch: 24.02,Encoder1: 360.00, Encoder2: 178.99
+1719544185174,Roll	-72.12	Pitch	24.02,Encoder1: 360.00, Encoder2: 178.81
+1719544185205,Gyro data ready!Roll: -71.74	Pitch: 23.82,Encoder1: 360.00, Encoder2: 176.97
+1719544185247,Roll	-71.74	Pitch	23.82,Encoder1: 360.00, Encoder2: 178.11
+1719544185281,Gyro data ready!Roll: -71.37	Pitch: 23.62,Encoder1: 360.00, Encoder2: 178.55
+1719544185321,Roll	-71.37	Pitch	23.62,Encoder1: 360.00, Encoder2: 181.19
+1719544185361,Gyro data ready!Roll: -70.99	Pitch: 23.41,Encoder1: 360.00, Encoder2: 179.96
+1719544185393,Roll	-70.99	Pitch	23.41,Encoder1: 360.00, Encoder2: 182.77
+1719544185435,Gyro data ready!Roll: -70.61	Pitch: 23.21,Encoder1: 360.00, Encoder2: 179.78
+1719544185467,Roll	-70.61	Pitch	23.21,Encoder1: 360.00, Encoder2: 183.65
+1719544185508,Gyro data ready!Roll: -70.24	Pitch: 23.01,Encoder1: 360.00, Encoder2: 184.00
+1719544185549,Roll	-70.24	Pitch	23.01,Encoder1: 360.00, Encoder2: 184.00
+1719544185585,Gyro data ready!Roll: -69.87	Pitch: 22.81,Encoder1: 360.00, Encoder2: 185.05
+1719544185622,Roll	-69.87	Pitch	22.81,Encoder1: 360.00, Encoder2: 198.86
+1719544185655,Gyro data ready!Roll: -69.51	Pitch: 22.61,Encoder1: 360.00, Encoder2: 198.33
+1719544185695,Roll	-69.51	Pitch	22.61,Encoder1: 360.00, Encoder2: 194.81
+1719544185736,Gyro data ready!Roll: -69.14	Pitch: 22.40,Encoder1: 360.00, Encoder2: 211.96
+1719544185775,Roll	-69.14	Pitch	22.40,Encoder1: 360.00, Encoder2: 210.37
+1719544185811,Gyro data ready!Roll: -68.78	Pitch: 22.20,Encoder1: 360.00, Encoder2: 212.13
+1719544185842,Roll	-68.78	Pitch	22.20,Encoder1: 0.00, Encoder2: 216.62
+1719544185883,Gyro data ready!Roll: -68.42	Pitch: 22.00,Encoder1: 0.00, Encoder2: 216.26
+1719544185916,Roll	-68.42	Pitch	22.00,Encoder1: 0.00, Encoder2: 217.05
+1719544185950,Gyro data ready!Roll: -68.06	Pitch: 21.80,Encoder1: 0.00, Encoder2: 219.16
+1719544185989,Roll	-68.06	Pitch	21.80,Encoder1: 0.00, Encoder2: 215.65
+1719544186024,Gyro data ready!Roll: -67.70	Pitch: 21.60,Encoder1: 0.00, Encoder2: 216.18
+1719544186060,Roll	-67.70	Pitch	21.60,Encoder1: 0.00, Encoder2: 215.03
+1719544186089,Gyro data ready!Roll: -67.35	Pitch: 21.39,Encoder1: 1.23, Encoder2: 214.24
+1719544186130,Roll	-67.35	Pitch	21.39,Encoder1: 1.76, Encoder2: 213.71
+1719544186162,Gyro data ready!Roll: -66.99	Pitch: 21.19,Encoder1: 3.08, Encoder2: 213.45
+1719544186195,Roll	-66.99	Pitch	21.19,Encoder1: 1.67, Encoder2: 213.98
+1719544186236,Gyro data ready!Roll: -66.64	Pitch: 20.99,Encoder1: 9.67, Encoder2: 203.96
+1719544186269,Roll	-66.64	Pitch	20.99,Encoder1: 6.95, Encoder2: 203.43
+1719544186306,Gyro data ready!Roll: -66.29	Pitch: 20.79,Encoder1: 7.65, Encoder2: 203.34
+1719544186344,Roll	-66.29	Pitch	20.79,Encoder1: 7.21, Encoder2: 174.77
+1719544186376,Gyro data ready!Roll: -65.95	Pitch: 20.60,Encoder1: 8.26, Encoder2: 176.00
+1719544186414,Roll	-65.95	Pitch	20.60,Encoder1: 3.60, Encoder2: 174.07
+1719544186444,Gyro data ready!Roll: -65.60	Pitch: 20.41,Encoder1: 5.19, Encoder2: 175.82
+1719544186485,Roll	-65.60	Pitch	20.41,Encoder1: 2.90, Encoder2: 157.27
+1719544186518,Gyro data ready!Roll: -65.26	Pitch: 20.21,Encoder1: 5.63, Encoder2: 156.92
+1719544186551,Roll	-65.26	Pitch	20.21,Encoder1: 3.43, Encoder2: 156.66
+1719544186591,Gyro data ready!Roll: -64.92	Pitch: 20.02,Encoder1: 0.00, Encoder2: 147.25
+1719544186624,Roll	-64.92	Pitch	20.02,Encoder1: 1.23, Encoder2: 143.74
+1719544186655,Gyro data ready!Roll: -64.58	Pitch: 19.83,Encoder1: 3.08, Encoder2: 143.74
+1719544186696,Roll	-64.58	Pitch	19.83,Encoder1: 0.00, Encoder2: 146.64
+1719544186730,Gyro data ready!Roll: -64.25	Pitch: 19.64,Encoder1: 0.00, Encoder2: 134.15
+1719544186763,Roll	-64.25	Pitch	19.64,Encoder1: 0.00, Encoder2: 137.05
+1719544186802,Gyro data ready!Roll: -63.91	Pitch: 19.45,Encoder1: 0.00, Encoder2: 134.95
+1719544186835,Roll	-63.91	Pitch	19.45,Encoder1: 360.00, Encoder2: 134.07
+1719544186875,Gyro data ready!Roll: -63.59	Pitch: 19.26,Encoder1: 360.00, Encoder2: 133.63
+1719544186916,Roll	-63.59	Pitch	19.26,Encoder1: 360.00, Encoder2: 134.77
+1719544186948,Gyro data ready!Roll: -63.26	Pitch: 19.07,Encoder1: 333.63, Encoder2: 137.05
+1719544186990,Roll	-63.26	Pitch	19.07,Encoder1: 330.55, Encoder2: 133.63
+1719544187022,Gyro data ready!Roll: -62.93	Pitch: 18.89,Encoder1: 331.96, Encoder2: 134.95
+1719544187064,Roll	-62.93	Pitch	18.89,Encoder1: 333.36, Encoder2: 133.36
+1719544187101,Gyro data ready!Roll: -62.60	Pitch: 18.70,Encoder1: 311.74, Encoder2: 142.86
+1719544187138,Roll	-62.60	Pitch	18.70,Encoder1: 314.46, Encoder2: 140.22
+1719544187178,Gyro data ready!Roll: -62.28	Pitch: 18.52,Encoder1: 308.04, Encoder2: 140.31
+1719544187215,Roll	-62.28	Pitch	18.52,Encoder1: 307.52, Encoder2: 156.22
+1719544187247,Gyro data ready!Roll: -61.96	Pitch: 18.34,Encoder1: 310.77, Encoder2: 156.40
+1719544187289,Roll	-61.96	Pitch	18.34,Encoder1: 312.53, Encoder2: 155.34
+1719544187329,Gyro data ready!Roll: -61.65	Pitch: 18.16,Encoder1: 318.42, Encoder2: 172.13
+1719544187362,Roll	-61.65	Pitch	18.16,Encoder1: 314.99, Encoder2: 172.84
+1719544187404,Gyro data ready!Roll: -61.33	Pitch: 17.98,Encoder1: 310.07, Encoder2: 170.99
+1719544187436,Roll	-61.33	Pitch	17.98,Encoder1: 310.86, Encoder2: 172.40
+1719544187477,Gyro data ready!Roll: -61.01	Pitch: 17.79,Encoder1: 319.74, Encoder2: 188.48
+1719544187510,Roll	-61.01	Pitch	17.79,Encoder1: 327.38, Encoder2: 189.71
+1719544187550,Gyro data ready!Roll: -60.70	Pitch: 17.61,Encoder1: 326.33, Encoder2: 189.63
+1719544187591,Roll	-60.70	Pitch	17.61,Encoder1: 349.80, Encoder2: 208.97
+1719544187624,Gyro data ready!Roll: -60.39	Pitch: 17.43,Encoder1: 353.05, Encoder2: 209.14
+1719544187665,Roll	-60.39	Pitch	17.43,Encoder1: 350.33, Encoder2: 207.38
+1719544187697,Gyro data ready!Roll: -60.08	Pitch: 17.25,Encoder1: 360.00, Encoder2: 222.42
+1719544187738,Roll	-60.08	Pitch	17.25,Encoder1: 360.00, Encoder2: 222.07
+1719544187772,Gyro data ready!Roll: -59.77	Pitch: 17.07,Encoder1: 360.00, Encoder2: 221.63
+1719544187812,Roll	-59.77	Pitch	17.07,Encoder1: 0.00, Encoder2: 229.19
+1719544187845,Gyro data ready!Roll: -59.47	Pitch: 16.91,Encoder1: 0.00, Encoder2: 230.24
+1719544187878,Roll	-59.47	Pitch	16.91,Encoder1: 0.00, Encoder2: 229.98
+1719544187918,Gyro data ready!Roll: -59.17	Pitch: 16.74,Encoder1: 0.00, Encoder2: 224.97
+1719544187951,Roll	-59.17	Pitch	16.74,Encoder1: 10.73, Encoder2: 229.27
+1719544187991,Gyro data ready!Roll: -58.87	Pitch: 16.57,Encoder1: 7.03, Encoder2: 224.97
+1719544188025,Roll	-58.87	Pitch	16.57,Encoder1: 7.03, Encoder2: 227.52
+1719544188058,Gyro data ready!Roll: -58.58	Pitch: 16.41,Encoder1: 15.21, Encoder2: 209.32
+1719544188098,Roll	-58.58	Pitch	16.41,Encoder1: 19.34, Encoder2: 212.48
+1719544188134,Gyro data ready!Roll: -58.29	Pitch: 16.24,Encoder1: 19.25, Encoder2: 212.04
+1719544188172,Roll	-58.29	Pitch	16.24,Encoder1: 17.76, Encoder2: 212.40
+1719544188208,Gyro data ready!Roll: -57.99	Pitch: 16.08,Encoder1: 21.10, Encoder2: 179.96
+1719544188246,Roll	-57.99	Pitch	16.08,Encoder1: 22.33, Encoder2: 178.73
+1719544188279,Gyro data ready!Roll: -57.70	Pitch: 15.91,Encoder1: 18.02, Encoder2: 178.73
+1719544188312,Roll	-57.70	Pitch	15.91,Encoder1: 18.81, Encoder2: 156.57
+1719544188353,Gyro data ready!Roll: -57.41	Pitch: 15.75,Encoder1: 21.10, Encoder2: 155.34
+1719544188385,Roll	-57.41	Pitch	15.75,Encoder1: 15.91, Encoder2: 158.42
+1719544188428,Gyro data ready!Roll: -57.13	Pitch: 15.59,Encoder1: 15.03, Encoder2: 157.80
+1719544188460,Roll	-57.13	Pitch	15.59,Encoder1: 16.35, Encoder2: 142.59
+1719544188499,Gyro data ready!Roll: -56.85	Pitch: 15.43,Encoder1: 15.03, Encoder2: 140.75
+1719544188532,Roll	-56.85	Pitch	15.43,Encoder1: 12.31, Encoder2: 141.80
+1719544188573,Gyro data ready!Roll: -56.57	Pitch: 15.27,Encoder1: 2.55, Encoder2: 128.35
+1719544188609,Roll	-56.57	Pitch	15.27,Encoder1: 2.99, Encoder2: 127.12
+1719544188638,Gyro data ready!Roll: -56.29	Pitch: 15.11,Encoder1: 1.32, Encoder2: 128.62
+1719544188679,Roll	-56.29	Pitch	15.11,Encoder1: 0.00, Encoder2: 123.25
+1719544188714,Gyro data ready!Roll: -56.01	Pitch: 14.95,Encoder1: 0.00, Encoder2: 125.71
+1719544188744,Roll	-56.01	Pitch	14.95,Encoder1: 0.00, Encoder2: 125.19
+1719544188784,Gyro data ready!Roll: -55.73	Pitch: 14.79,Encoder1: 0.00, Encoder2: 124.13
+1719544188818,Roll	-55.73	Pitch	14.79,Encoder1: 360.00, Encoder2: 126.68
+1719544188858,Gyro data ready!Roll: -55.46	Pitch: 14.63,Encoder1: 360.00, Encoder2: 125.19
+1719544188892,Roll	-55.46	Pitch	14.63,Encoder1: 360.00, Encoder2: 123.78
+1719544188934,Gyro data ready!Roll: -55.18	Pitch: 14.47,Encoder1: 339.87, Encoder2: 126.51
+1719544188973,Roll	-55.18	Pitch	14.47,Encoder1: 344.70, Encoder2: 127.21
+1719544189011,Gyro data ready!Roll: -54.90	Pitch: 14.31,Encoder1: 344.62, Encoder2: 128.62
+1719544189048,Roll	-54.90	Pitch	14.31,Encoder1: 330.37, Encoder2: 128.09
+1719544189081,Gyro data ready!Roll: -54.63	Pitch: 14.16,Encoder1: 330.11, Encoder2: 130.81
+1719544189123,Roll	-54.63	Pitch	14.16,Encoder1: 329.76, Encoder2: 132.31
+1719544189155,Gyro data ready!Roll: -54.36	Pitch: 14.00,Encoder1: 333.89, Encoder2: 130.99
+1719544189196,Roll	-54.36	Pitch	14.00,Encoder1: 323.78, Encoder2: 142.07
+1719544189229,Gyro data ready!Roll: -54.09	Pitch: 13.85,Encoder1: 324.75, Encoder2: 141.63
+1719544189270,Roll	-54.09	Pitch	13.85,Encoder1: 324.31, Encoder2: 141.89
+1719544189310,Gyro data ready!Roll: -53.83	Pitch: 13.71,Encoder1: 329.32, Encoder2: 159.30
+1719544189345,Roll	-53.83	Pitch	13.71,Encoder1: 329.32, Encoder2: 157.80
+1719544189386,Gyro data ready!Roll: -53.57	Pitch: 13.56,Encoder1: 322.20, Encoder2: 157.10
+1719544189418,Roll	-53.57	Pitch	13.56,Encoder1: 328.53, Encoder2: 175.82
+1719544189459,Gyro data ready!Roll: -53.31	Pitch: 13.41,Encoder1: 331.78, Encoder2: 176.44
+1719544189491,Roll	-53.31	Pitch	13.41,Encoder1: 334.59, Encoder2: 177.85
+1719544189532,Gyro data ready!Roll: -53.04	Pitch: 13.26,Encoder1: 333.54, Encoder2: 178.37
+1719544189572,Roll	-53.04	Pitch	13.26,Encoder1: 344.00, Encoder2: 195.25
+1719544189611,Gyro data ready!Roll: -52.78	Pitch: 13.11,Encoder1: 342.42, Encoder2: 196.84
+1719544189647,Roll	-52.78	Pitch	13.11,Encoder1: 342.24, Encoder2: 195.52
+1719544189680,Gyro data ready!Roll: -52.53	Pitch: 12.96,Encoder1: 360.00, Encoder2: 212.84
+1719544189720,Roll	-52.53	Pitch	12.96,Encoder1: 360.00, Encoder2: 210.11
+1719544189761,Gyro data ready!Roll: -52.27	Pitch: 12.82,Encoder1: 360.00, Encoder2: 209.58
+1719544189794,Roll	-52.27	Pitch	12.82,Encoder1: 360.00, Encoder2: 215.38
+1719544189835,Gyro data ready!Roll: -52.03	Pitch: 12.67,Encoder1: 360.00, Encoder2: 215.21
+1719544189868,Roll	-52.03	Pitch	12.67,Encoder1: 360.00, Encoder2: 215.30
+1719544189909,Gyro data ready!Roll: -51.78	Pitch: 12.53,Encoder1: 0.00, Encoder2: 215.30
+1719544189942,Roll	-51.78	Pitch	12.53,Encoder1: 0.00, Encoder2: 216.35
+1719544189974,Gyro data ready!Roll: -51.53	Pitch: 12.39,Encoder1: 0.00, Encoder2: 216.35
+1719544190011,Roll	-51.53	Pitch	12.39,Encoder1: 0.00, Encoder2: 218.02
+1719544190049,Gyro data ready!Roll: -51.29	Pitch: 12.25,Encoder1: 7.47, Encoder2: 211.60
+1719544190085,Roll	-51.29	Pitch	12.25,Encoder1: 11.34, Encoder2: 210.73
+1719544190122,Gyro data ready!Roll: -51.05	Pitch: 12.11,Encoder1: 7.21, Encoder2: 213.36
+1719544190155,Roll	-51.05	Pitch	12.11,Encoder1: 17.85, Encoder2: 195.52
+1719544190188,Gyro data ready!Roll: -50.81	Pitch: 11.98,Encoder1: 20.92, Encoder2: 196.40
+1719544190228,Roll	-50.81	Pitch	11.98,Encoder1: 18.46, Encoder2: 197.89
+1719544190260,Gyro data ready!Roll: -50.62	Pitch: 11.82,Encoder1: 19.25, Encoder2: 197.89
+1719544190300,Roll	-50.62	Pitch	11.82,Encoder1: 22.51, Encoder2: 167.47
+1719544190341,Gyro data ready!Roll: -50.42	Pitch: 11.66,Encoder1: 25.49, Encoder2: 169.93
+1719544190374,Roll	-50.42	Pitch	11.66,Encoder1: 23.47, Encoder2: 168.26
+1719544190414,Gyro data ready!Roll: -50.15	Pitch: 11.53,Encoder1: 16.26, Encoder2: 141.10
+1719544190448,Roll	-50.15	Pitch	11.53,Encoder1: 19.43, Encoder2: 141.63
+1719544190480,Gyro data ready!Roll: -49.90	Pitch: 11.39,Encoder1: 16.18, Encoder2: 142.95
+1719544190523,Roll	-49.90	Pitch	11.39,Encoder1: 20.40, Encoder2: 142.07
+1719544190555,Gyro data ready!Roll: -49.68	Pitch: 11.26,Encoder1: 10.64, Encoder2: 128.62
+1719544190595,Roll	-49.68	Pitch	11.26,Encoder1: 10.64, Encoder2: 129.14
+1719544190629,Gyro data ready!Roll: -56.88	Pitch: -1.79,Encoder1: 12.04, Encoder2: 128.09
+1719544190663,Roll	-56.88	Pitch	-1.79,Encoder1: 3.78, Encoder2: 119.30
+1719544190702,Gyro data ready!Roll: -56.89	Pitch: -1.94,Encoder1: 2.90, Encoder2: 117.54
+1719544190738,Roll	-56.89	Pitch	-1.94,Encoder1: 2.37, Encoder2: 118.33
+1719544190770,Gyro data ready!Roll: -56.92	Pitch: -2.06,Encoder1: 0.00, Encoder2: 109.45
+1719544190810,Roll	-56.92	Pitch	-2.06,Encoder1: 0.00, Encoder2: 110.95
+1719544190843,Gyro data ready!Roll: -56.97	Pitch: -2.16,Encoder1: 0.00, Encoder2: 110.95
+1719544190875,Roll	-56.97	Pitch	-2.16,Encoder1: 0.00, Encoder2: 111.47
+1719544190916,Gyro data ready!Roll: -57.02	Pitch: -2.25,Encoder1: 360.00, Encoder2: 102.68
+1719544190948,Roll	-57.02	Pitch	-2.25,Encoder1: 360.00, Encoder2: 106.81
+1719544190990,Gyro data ready!Roll: -57.08	Pitch: -2.35,Encoder1: 360.00, Encoder2: 104.88
+1719544191030,Roll	-57.08	Pitch	-2.35,Encoder1: 350.77, Encoder2: 106.73
+1719544191066,Gyro data ready!Roll: -57.16	Pitch: -2.43,Encoder1: 350.68, Encoder2: 104.70
+1719544191105,Roll	-57.16	Pitch	-2.43,Encoder1: 350.86, Encoder2: 104.53
+1719544191137,Gyro data ready!Roll: -57.25	Pitch: -2.50,Encoder1: 333.36, Encoder2: 108.31
+1719544191181,Roll	-57.25	Pitch	-2.50,Encoder1: 329.49, Encoder2: 108.48
+1719544191218,Gyro data ready!Roll: -57.35	Pitch: -2.57,Encoder1: 334.33, Encoder2: 108.31
+1719544191253,Roll	-57.35	Pitch	-2.57,Encoder1: 333.01, Encoder2: 108.40
+1719544191293,Gyro data ready!Roll: -57.41	Pitch: -2.63,Encoder1: 319.65, Encoder2: 114.37
+1719544191325,Roll	-57.41	Pitch	-2.63,Encoder1: 322.20, Encoder2: 112.79
+1719544191367,Gyro data ready!Roll: -57.52	Pitch: -2.68,Encoder1: 319.38, Encoder2: 113.32
+1719544191400,Roll	-57.52	Pitch	-2.68,Encoder1: 318.42, Encoder2: 128.35
+1719544191439,Gyro data ready!Roll: -57.68	Pitch: -2.69,Encoder1: 316.31, Encoder2: 126.86
+1719544191480,Roll	-57.68	Pitch	-2.69,Encoder1: 322.99, Encoder2: 126.77
+1719544191513,Gyro data ready!Roll: -57.82	Pitch: -2.69,Encoder1: 318.51, Encoder2: 140.22
+1719544191554,Roll	-57.82	Pitch	-2.69,Encoder1: 316.75, Encoder2: 139.25
+1719544191587,Gyro data ready!Roll: -57.94	Pitch: -2.70,Encoder1: 313.67, Encoder2: 139.78
+1719544191628,Roll	-57.94	Pitch	-2.70,Encoder1: 320.53, Encoder2: 139.08
+1719544191661,Gyro data ready!Roll: -58.07	Pitch: -2.70,Encoder1: 317.63, Encoder2: 157.19
+1719544191702,Roll	-58.07	Pitch	-2.70,Encoder1: 319.30, Encoder2: 153.85
+1719544191735,Gyro data ready!Roll: -58.23	Pitch: -2.70,Encoder1: 325.10, Encoder2: 155.69
+1719544191776,Roll	-58.23	Pitch	-2.70,Encoder1: 338.99, Encoder2: 173.10
+1719544191817,Gyro data ready!Roll: -58.41	Pitch: -2.67,Encoder1: 336.09, Encoder2: 170.20
+1719544191851,Roll	-58.41	Pitch	-2.67,Encoder1: 339.52, Encoder2: 173.19
+1719544191890,Gyro data ready!Roll: -58.58	Pitch: -2.64,Encoder1: 360.00, Encoder2: 186.64
+1719544191924,Roll	-58.58	Pitch	-2.64,Encoder1: 360.00, Encoder2: 188.13
+1719544191967,Gyro data ready!Roll: -58.75	Pitch: -2.59,Encoder1: 355.43, Encoder2: 189.89
+1719544192005,Roll	-58.75	Pitch	-2.59,Encoder1: 360.00, Encoder2: 196.48
+1719544192038,Gyro data ready!Roll: -58.95	Pitch: -2.53,Encoder1: 360.00, Encoder2: 196.48
+1719544192081,Roll	-58.95	Pitch	-2.53,Encoder1: 360.00, Encoder2: 196.13
+1719544192114,Gyro data ready!Roll: -59.15	Pitch: -2.46,Encoder1: 360.00, Encoder2: 197.36
+1719544192147,Roll	-59.15	Pitch	-2.46,Encoder1: 2.73, Encoder2: 201.76
+1719544192189,Gyro data ready!Roll: -59.36	Pitch: -2.39,Encoder1: 0.00, Encoder2: 202.81
+1719544192222,Roll	-59.36	Pitch	-2.39,Encoder1: 1.05, Encoder2: 200.35
+1719544192255,Gyro data ready!Roll: -59.56	Pitch: -2.31,Encoder1: 12.22, Encoder2: 198.95
+1719544192297,Roll	-59.56	Pitch	-2.31,Encoder1: 8.53, Encoder2: 198.59
+1719544192331,Gyro data ready!Roll: -59.78	Pitch: -2.22,Encoder1: 9.76, Encoder2: 201.14
+1719544192363,Roll	-59.78	Pitch	-2.22,Encoder1: 12.40, Encoder2: 201.93
+1719544192403,Gyro data ready!Roll: -60.01	Pitch: -2.11,Encoder1: 18.81, Encoder2: 184.26
+1719544192435,Roll	-60.01	Pitch	-2.11,Encoder1: 19.08, Encoder2: 186.73
+1719544192478,Gyro data ready!Roll: -60.25	Pitch: -2.00,Encoder1: 18.81, Encoder2: 184.97
+1719544192514,Roll	-60.25	Pitch	-2.00,Encoder1: 22.68, Encoder2: 161.76
+1719544192543,Gyro data ready!Roll: -60.48	Pitch: -1.89,Encoder1: 24.00, Encoder2: 160.62
+1719544192585,Roll	-60.48	Pitch	-1.89,Encoder1: 21.98, Encoder2: 160.44
+1719544192618,Gyro data ready!Roll: -60.71	Pitch: -1.77,Encoder1: 22.33, Encoder2: 139.52
+1719544192659,Roll	-60.71	Pitch	-1.77,Encoder1: 18.99, Encoder2: 138.02
+1719544192694,Gyro data ready!Roll: -60.96	Pitch: -1.64,Encoder1: 17.76, Encoder2: 139.16
+1719544192725,Roll	-60.96	Pitch	-1.64,Encoder1: 22.51, Encoder2: 139.25
+1719544192766,Gyro data ready!Roll: -61.22	Pitch: -1.52,Encoder1: 14.77, Encoder2: 123.16
+1719544192805,Roll	-61.22	Pitch	-1.52,Encoder1: 14.24, Encoder2: 127.74
+1719544192839,Gyro data ready!Roll: -61.49	Pitch: -1.39,Encoder1: 13.45, Encoder2: 123.87
+1719544192873,Roll	-61.49	Pitch	-1.39,Encoder1: 5.89, Encoder2: 115.43
+1719544192906,Gyro data ready!Roll: -61.76	Pitch: -1.24,Encoder1: 5.63, Encoder2: 112.97
+1719544192948,Roll	-61.76	Pitch	-1.24,Encoder1: 2.29, Encoder2: 114.20
+1719544192983,Gyro data ready!Roll: -62.04	Pitch: -1.09,Encoder1: 4.22, Encoder2: 112.88
+1719544193015,Roll	-62.04	Pitch	-1.09,Encoder1: 0.00, Encoder2: 106.81
+1719544193053,Gyro data ready!Roll: -62.32	Pitch: -0.94,Encoder1: 0.00, Encoder2: 105.05
+1719544193085,Roll	-62.32	Pitch	-0.94,Encoder1: 0.00, Encoder2: 106.37
+1719544193126,Gyro data ready!Roll: -62.62	Pitch: -0.77,Encoder1: 360.00, Encoder2: 107.08
+1719544193158,Roll	-62.62	Pitch	-0.77,Encoder1: 360.00, Encoder2: 104.44
+1719544193200,Gyro data ready!Roll: -62.93	Pitch: -0.59,Encoder1: 360.00, Encoder2: 106.90
+1719544193240,Roll	-62.93	Pitch	-0.59,Encoder1: 360.00, Encoder2: 104.35
+1719544193272,Gyro data ready!Roll: -63.24	Pitch: -0.40,Encoder1: 358.42, Encoder2: 107.34
+1719544193314,Roll	-63.24	Pitch	-0.40,Encoder1: 360.00, Encoder2: 106.29
+1719544193347,Gyro data ready!Roll: -63.56	Pitch: -0.21,Encoder1: 360.00, Encoder2: 105.49
+1719544193388,Roll	-63.56	Pitch	-0.21,Encoder1: 351.47, Encoder2: 105.85
+1719544193420,Gyro data ready!Roll: -63.88	Pitch: -0.01,Encoder1: 346.99, Encoder2: 103.91
+1719544193464,Roll	-63.88	Pitch	-0.01,Encoder1: 350.24, Encoder2: 106.73
+1719544193497,Gyro data ready!Roll: -64.19	Pitch: 0.18,Encoder1: 343.82, Encoder2: 112.18
+1719544193537,Roll	-64.19	Pitch	0.18,Encoder1: 347.34, Encoder2: 111.91
+1719544193570,Gyro data ready!Roll: -64.51	Pitch: 0.39,Encoder1: 342.07, Encoder2: 110.51
+1719544193610,Roll	-64.51	Pitch	0.39,Encoder1: 346.81, Encoder2: 119.56
+1719544193652,Gyro data ready!Roll: -64.82	Pitch: 0.59,Encoder1: 336.44, Encoder2: 120.70
+1719544193688,Roll	-64.82	Pitch	0.59,Encoder1: 341.80, Encoder2: 121.58
+1719544193727,Gyro data ready!Roll: -65.09	Pitch: 0.78,Encoder1: 338.73, Encoder2: 119.56
+1719544193760,Roll	-65.09	Pitch	0.78,Encoder1: 336.79, Encoder2: 132.92
+1719544193802,Gyro data ready!Roll: -65.35	Pitch: 0.97,Encoder1: 338.20, Encoder2: 134.15
+1719544193834,Roll	-65.35	Pitch	0.97,Encoder1: 346.20, Encoder2: 132.66
+1719544193877,Gyro data ready!Roll: -65.60	Pitch: 1.14,Encoder1: 343.38, Encoder2: 146.20
+1719544193913,Roll	-65.60	Pitch	1.14,Encoder1: 346.99, Encoder2: 145.14
+1719544193948,Gyro data ready!Roll: -65.84	Pitch: 1.31,Encoder1: 340.40, Encoder2: 144.88
+1719544193988,Roll	-65.84	Pitch	1.31,Encoder1: 339.96, Encoder2: 158.68
+1719544194022,Gyro data ready!Roll: -66.06	Pitch: 1.47,Encoder1: 338.99, Encoder2: 159.38
+1719544194063,Roll	-66.06	Pitch	1.47,Encoder1: 344.53, Encoder2: 160.88
+1719544194096,Gyro data ready!Roll: -66.26	Pitch: 1.62,Encoder1: 358.86, Encoder2: 166.86
+1719544194137,Roll	-66.26	Pitch	1.62,Encoder1: 360.00, Encoder2: 167.38
+1719544194177,Gyro data ready!Roll: -66.45	Pitch: 1.77,Encoder1: 358.68, Encoder2: 169.58
+1719544194213,Roll	-66.45	Pitch	1.77,Encoder1: 357.10, Encoder2: 167.82
+1719544194252,Gyro data ready!Roll: -66.62	Pitch: 1.90,Encoder1: 360.00, Encoder2: 173.10
+1719544194285,Roll	-66.62	Pitch	1.90,Encoder1: 360.00, Encoder2: 172.75
+1719544194326,Gyro data ready!Roll: -66.76	Pitch: 2.00,Encoder1: 360.00, Encoder2: 173.01
+1719544194361,Roll	-66.76	Pitch	2.00,Encoder1: 360.00, Encoder2: 177.23
+1719544194401,Gyro data ready!Roll: -66.88	Pitch: 2.10,Encoder1: 360.00, Encoder2: 177.14
+1719544194435,Roll	-66.88	Pitch	2.10,Encoder1: 360.00, Encoder2: 177.32
+1719544194474,Gyro data ready!Roll: -66.98	Pitch: 2.19,Encoder1: 360.00, Encoder2: 174.95
+1719544194515,Roll	-66.98	Pitch	2.19,Encoder1: 360.00, Encoder2: 179.08
+1719544194548,Gyro data ready!Roll: -67.05	Pitch: 2.27,Encoder1: 360.00, Encoder2: 177.32
+1719544194589,Roll	-67.05	Pitch	2.27,Encoder1: 360.00, Encoder2: 175.56
+1719544194622,Gyro data ready!Roll: -67.12	Pitch: 2.34,Encoder1: 360.00, Encoder2: 171.43
+1719544194663,Roll	-67.12	Pitch	2.34,Encoder1: 360.00, Encoder2: 171.16
+1719544194697,Gyro data ready!Roll: -67.19	Pitch: 2.42,Encoder1: 360.00, Encoder2: 171.16
+1719544194739,Roll	-67.19	Pitch	2.42,Encoder1: 350.15, Encoder2: 157.27
+1719544194772,Gyro data ready!Roll: -67.23	Pitch: 2.47,Encoder1: 349.10, Encoder2: 157.36
+1719544194813,Roll	-67.23	Pitch	2.47,Encoder1: 344.70, Encoder2: 160.00
+1719544194846,Gyro data ready!Roll: -67.25	Pitch: 2.49,Encoder1: 321.85, Encoder2: 144.88
+1719544194886,Roll	-67.25	Pitch	2.49,Encoder1: 330.02, Encoder2: 142.51
+1719544194926,Gyro data ready!Roll: -67.25	Pitch: 2.50,Encoder1: 322.55, Encoder2: 142.07
+1719544194960,Roll	-67.25	Pitch	2.50,Encoder1: 321.58, Encoder2: 128.88
+1719544195000,Gyro data ready!Roll: -67.23	Pitch: 2.50,Encoder1: 322.29, Encoder2: 128.88
+1719544195033,Roll	-67.23	Pitch	2.50,Encoder1: 326.24, Encoder2: 129.41
+1719544195074,Gyro data ready!Roll: -67.21	Pitch: 2.50,Encoder1: 320.26, Encoder2: 129.23
+1719544195108,Roll	-67.21	Pitch	2.50,Encoder1: 329.41, Encoder2: 116.75
+1719544195148,Gyro data ready!Roll: -67.15	Pitch: 2.46,Encoder1: 329.32, Encoder2: 115.16
+1719544195190,Roll	-67.15	Pitch	2.46,Encoder1: 325.01, Encoder2: 116.75
+1719544195223,Gyro data ready!Roll: -67.09	Pitch: 2.41,Encoder1: 342.33, Encoder2: 107.52
+1719544195265,Roll	-67.09	Pitch	2.41,Encoder1: 342.42, Encoder2: 106.99
+1719544195298,Gyro data ready!Roll: -67.02	Pitch: 2.40,Encoder1: 340.66, Encoder2: 107.08
+1719544195338,Roll	-67.02	Pitch	2.40,Encoder1: 360.00, Encoder2: 104.00
+1719544195378,Gyro data ready!Roll: -66.96	Pitch: 2.33,Encoder1: 360.00, Encoder2: 105.76
+1719544195411,Roll	-66.96	Pitch	2.33,Encoder1: 360.00, Encoder2: 106.73
+1719544195452,Gyro data ready!Roll: -66.86	Pitch: 2.24,Encoder1: 360.00, Encoder2: 104.00
+1719544195487,Roll	-66.86	Pitch	2.24,Encoder1: 0.00, Encoder2: 106.29
+1719544195524,Gyro data ready!Roll: -66.75	Pitch: 2.17,Encoder1: 0.00, Encoder2: 104.00
+1719544195552,Roll	-66.75	Pitch	2.17,Encoder1: 0.00, Encoder2: 107.43
+1719544195592,Gyro data ready!Roll: -66.63	Pitch: 2.06,Encoder1: 0.26, Encoder2: 103.82
+1719544195626,Roll	-66.63	Pitch	2.06,Encoder1: 3.43, Encoder2: 105.76
+1719544195659,Gyro data ready!Roll: -66.50	Pitch: 1.95,Encoder1: 0.00, Encoder2: 105.49
+1719544195699,Roll	-66.50	Pitch	1.95,Encoder1: 9.85, Encoder2: 111.30
+1719544195733,Gyro data ready!Roll: -66.35	Pitch: 1.82,Encoder1: 6.86, Encoder2: 112.88
+1719544195765,Roll	-66.35	Pitch	1.82,Encoder1: 7.38, Encoder2: 112.79
+1719544195806,Gyro data ready!Roll: -66.19	Pitch: 1.69,Encoder1: 5.36, Encoder2: 109.63
+1719544195839,Roll	-66.19	Pitch	1.69,Encoder1: 9.93, Encoder2: 121.49
+1719544195871,Gyro data ready!Roll: -66.05	Pitch: 1.54,Encoder1: 12.57, Encoder2: 119.30
+1719544195913,Roll	-66.05	Pitch	1.54,Encoder1: 13.63, Encoder2: 121.14
+1719544195946,Gyro data ready!Roll: -65.95	Pitch: 1.39,Encoder1: 17.85, Encoder2: 130.37
+1719544195986,Roll	-65.95	Pitch	1.39,Encoder1: 14.59, Encoder2: 129.67
+1719544196019,Gyro data ready!Roll: -65.82	Pitch: 1.22,Encoder1: 18.11, Encoder2: 132.22
+1719544196060,Roll	-65.82	Pitch	1.22,Encoder1: 16.44, Encoder2: 131.60
+1719544196092,Gyro data ready!Roll: -65.73	Pitch: 1.09,Encoder1: 17.23, Encoder2: 145.93
+1719544196133,Roll	-65.73	Pitch	1.09,Encoder1: 16.62, Encoder2: 144.44
+1719544196166,Gyro data ready!Roll: -65.70	Pitch: 0.97,Encoder1: 19.25, Encoder2: 145.05
+1719544196207,Roll	-65.70	Pitch	0.97,Encoder1: 18.37, Encoder2: 163.25
+1719544196240,Gyro data ready!Roll: -65.71	Pitch: 0.86,Encoder1: 17.23, Encoder2: 163.78
+1719544196273,Roll	-65.71	Pitch	0.86,Encoder1: 15.74, Encoder2: 162.90
+1719544196315,Gyro data ready!Roll: -65.75	Pitch: 0.79,Encoder1: 19.25, Encoder2: 163.96
+1719544196351,Roll	-65.75	Pitch	0.79,Encoder1: 15.12, Encoder2: 179.78
+1719544196386,Gyro data ready!Roll: -65.81	Pitch: 0.72,Encoder1: 15.56, Encoder2: 181.27
+1719544196419,Roll	-65.81	Pitch	0.72,Encoder1: 16.70, Encoder2: 178.02
+1719544196461,Gyro data ready!Roll: -65.90	Pitch: 0.66,Encoder1: 1.76, Encoder2: 184.88
+1719544196494,Roll	-65.90	Pitch	0.66,Encoder1: 7.56, Encoder2: 186.55
+1719544196525,Gyro data ready!Roll: -66.02	Pitch: 0.59,Encoder1: 6.15, Encoder2: 186.81
+1719544196566,Roll	-66.02	Pitch	0.59,Encoder1: 0.00, Encoder2: 185.14
+1719544196598,Gyro data ready!Roll: -66.17	Pitch: 0.55,Encoder1: 0.00, Encoder2: 187.60
+1719544196631,Roll	-66.17	Pitch	0.55,Encoder1: 0.00, Encoder2: 186.37
+1719544196671,Gyro data ready!Roll: -66.39	Pitch: 0.47,Encoder1: 0.00, Encoder2: 185.58
+1719544196704,Roll	-66.39	Pitch	0.47,Encoder1: 360.00, Encoder2: 171.87
+1719544196745,Gyro data ready!Roll: -66.60	Pitch: 0.39,Encoder1: 360.00, Encoder2: 171.52
+1719544196785,Roll	-66.60	Pitch	0.39,Encoder1: 360.00, Encoder2: 173.01
+1719544196819,Gyro data ready!Roll: -85.20	Pitch: 7.89,Encoder1: 336.97, Encoder2: 161.41
+1719544196859,Roll	-85.20	Pitch	7.89,Encoder1: 340.22, Encoder2: 162.29
+1719544196895,Gyro data ready!Roll: -85.58	Pitch: 8.04,Encoder1: 337.58, Encoder2: 158.07
+1719544196935,Roll	-85.58	Pitch	8.04,Encoder1: 321.41, Encoder2: 147.16
+1719544196968,Gyro data ready!Roll: -85.99	Pitch: 8.14,Encoder1: 320.79, Encoder2: 145.32
+1719544197010,Roll	-85.99	Pitch	8.14,Encoder1: 328.88, Encoder2: 145.67
+1719544197042,Gyro data ready!Roll: -86.41	Pitch: 8.22,Encoder1: 322.11, Encoder2: 147.69
+1719544197082,Roll	-86.41	Pitch	8.22,Encoder1: 318.51, Encoder2: 134.07
+1719544197122,Gyro data ready!Roll: -86.80	Pitch: 8.23,Encoder1: 323.16, Encoder2: 136.97
+1719544197157,Roll	-86.80	Pitch	8.23,Encoder1: 324.84, Encoder2: 133.45
+1719544197198,Gyro data ready!Roll: -87.19	Pitch: 8.25,Encoder1: 327.38, Encoder2: 124.04
+1719544197233,Roll	-87.19	Pitch	8.25,Encoder1: 322.02, Encoder2: 125.63
+1719544197271,Gyro data ready!Roll: -87.56	Pitch: 8.29,Encoder1: 327.12, Encoder2: 122.37
+1719544197303,Roll	-87.56	Pitch	8.29,Encoder1: 331.52, Encoder2: 116.48
+1719544197344,Gyro data ready!Roll: -87.90	Pitch: 8.33,Encoder1: 331.87, Encoder2: 114.20
+1719544197385,Roll	-87.90	Pitch	8.33,Encoder1: 336.26, Encoder2: 113.85
+1719544197421,Gyro data ready!Roll: -88.23	Pitch: 8.34,Encoder1: 331.34, Encoder2: 116.92
+1719544197459,Roll	-88.23	Pitch	8.34,Encoder1: 353.85, Encoder2: 110.07
+1719544197491,Gyro data ready!Roll: -88.58	Pitch: 8.35,Encoder1: 349.98, Encoder2: 110.33
+1719544197532,Roll	-88.58	Pitch	8.35,Encoder1: 355.87, Encoder2: 112.35
+1719544197573,Gyro data ready!Roll: -88.91	Pitch: 8.35,Encoder1: 360.00, Encoder2: 112.00
+1719544197606,Roll	-88.91	Pitch	8.35,Encoder1: 360.00, Encoder2: 107.16
+1719544197646,Gyro data ready!Roll: -89.23	Pitch: 8.36,Encoder1: 360.00, Encoder2: 111.03
+1719544197680,Roll	-89.23	Pitch	8.36,Encoder1: 0.00, Encoder2: 110.95
+1719544197718,Gyro data ready!Roll: -89.50	Pitch: 8.39,Encoder1: 0.00, Encoder2: 114.02
+1719544197752,Roll	-89.50	Pitch	8.39,Encoder1: 0.00, Encoder2: 115.34
+1719544197791,Gyro data ready!Roll: -89.78	Pitch: 8.40,Encoder1: 0.00, Encoder2: 112.53
+1719544197821,Roll	-89.78	Pitch	8.40,Encoder1: 6.86, Encoder2: 120.00
+1719544197860,Gyro data ready!Roll: -90.07	Pitch: 8.38,Encoder1: 6.33, Encoder2: 119.30
+1719544197892,Roll	-90.07	Pitch	8.38,Encoder1: 8.70, Encoder2: 122.20
+1719544197932,Gyro data ready!Roll: -90.35	Pitch: 8.37,Encoder1: 13.01, Encoder2: 132.04
+1719544197965,Roll	-90.35	Pitch	8.37,Encoder1: 10.37, Encoder2: 133.54
+1719544197998,Gyro data ready!Roll: -90.60	Pitch: 8.32,Encoder1: 11.08, Encoder2: 131.87
+1719544198039,Roll	-90.60	Pitch	8.32,Encoder1: 17.93, Encoder2: 150.42
+1719544198073,Gyro data ready!Roll: -90.89	Pitch: 8.27,Encoder1: 16.44, Encoder2: 148.84
+1719544198114,Roll	-90.89	Pitch	8.27,Encoder1: 14.15, Encoder2: 148.84
+1719544198149,Gyro data ready!Roll: -91.17	Pitch: 8.20,Encoder1: 16.70, Encoder2: 151.47
+1719544198183,Roll	-91.17	Pitch	8.20,Encoder1: 18.20, Encoder2: 170.20
+1719544198221,Gyro data ready!Roll: -91.41	Pitch: 8.09,Encoder1: 16.18, Encoder2: 171.16
+1719544198261,Roll	-91.41	Pitch	8.09,Encoder1: 14.68, Encoder2: 173.01
+1719544198296,Gyro data ready!Roll: -91.62	Pitch: 8.07,Encoder1: 14.51, Encoder2: 190.51
+1719544198329,Roll	-91.62	Pitch	8.07,Encoder1: 14.15, Encoder2: 192.70
+1719544198369,Gyro data ready!Roll: -91.82	Pitch: 7.94,Encoder1: 13.89, Encoder2: 191.38
+1719544198402,Roll	-91.82	Pitch	7.94,Encoder1: 12.75, Encoder2: 193.14
+1719544198435,Gyro data ready!Roll: -91.98	Pitch: 7.80,Encoder1: 0.62, Encoder2: 198.33
+1719544198476,Roll	-91.98	Pitch	7.80,Encoder1: 4.57, Encoder2: 200.88
+1719544198510,Gyro data ready!Roll: -92.12	Pitch: 7.66,Encoder1: 0.00, Encoder2: 197.54
+1719544198541,Roll	-92.12	Pitch	7.66,Encoder1: 0.00, Encoder2: 199.47
+1719544198581,Gyro data ready!Roll: -92.23	Pitch: 7.50,Encoder1: 0.00, Encoder2: 197.01
+1719544198613,Roll	-92.23	Pitch	7.50,Encoder1: 0.00, Encoder2: 198.59
+1719544198654,Gyro data ready!Roll: -92.32	Pitch: 7.30,Encoder1: 0.00, Encoder2: 196.92
+1719544198686,Roll	-92.32	Pitch	7.30,Encoder1: 360.00, Encoder2: 184.18
+1719544198727,Gyro data ready!Roll: -92.40	Pitch: 7.11,Encoder1: 360.00, Encoder2: 185.41
+1719544198760,Roll	-92.40	Pitch	7.11,Encoder1: 360.00, Encoder2: 183.82
+1719544198800,Gyro data ready!Roll: -92.47	Pitch: 6.89,Encoder1: 331.87, Encoder2: 168.53
+1719544198840,Roll	-92.47	Pitch	6.89,Encoder1: 338.02, Encoder2: 167.38
+1719544198873,Gyro data ready!Roll: -92.55	Pitch: 6.68,Encoder1: 336.62, Encoder2: 168.18
+1719544198913,Roll	-92.55	Pitch	6.68,Encoder1: 317.54, Encoder2: 152.44
+1719544198954,Gyro data ready!Roll: -92.59	Pitch: 6.45,Encoder1: 313.67, Encoder2: 152.53
+1719544198987,Roll	-92.59	Pitch	6.45,Encoder1: 318.68, Encoder2: 149.10
+1719544199027,Gyro data ready!Roll: -92.63	Pitch: 6.22,Encoder1: 319.03, Encoder2: 134.95
+1719544199060,Roll	-92.63	Pitch	6.22,Encoder1: 313.67, Encoder2: 134.95
+1719544199100,Gyro data ready!Roll: -92.64	Pitch: 5.99,Encoder1: 316.31, Encoder2: 132.66
+1719544199140,Roll	-92.64	Pitch	5.99,Encoder1: 318.33, Encoder2: 134.15
+1719544199173,Gyro data ready!Roll: -92.64	Pitch: 5.75,Encoder1: 320.26, Encoder2: 122.29
+1719544199214,Roll	-92.64	Pitch	5.75,Encoder1: 322.29, Encoder2: 120.18
+1719544199254,Gyro data ready!Roll: -92.63	Pitch: 5.50,Encoder1: 327.21, Encoder2: 122.55
+1719544199287,Roll	-92.63	Pitch	5.50,Encoder1: 335.91, Encoder2: 112.35
+1719544199328,Gyro data ready!Roll: -92.61	Pitch: 5.24,Encoder1: 336.09, Encoder2: 113.05
+1719544199361,Roll	-92.61	Pitch	5.24,Encoder1: 340.66, Encoder2: 112.97
+1719544199403,Gyro data ready!Roll: -92.59	Pitch: 4.97,Encoder1: 353.67, Encoder2: 110.33
+1719544199436,Roll	-92.59	Pitch	4.97,Encoder1: 353.85, Encoder2: 108.48
+1719544199476,Gyro data ready!Roll: -92.52	Pitch: 4.69,Encoder1: 351.91, Encoder2: 107.52
+1719544199509,Roll	-92.52	Pitch	4.69,Encoder1: 354.20, Encoder2: 109.80
+1719544199549,Gyro data ready!Roll: -92.40	Pitch: 4.41,Encoder1: 360.00, Encoder2: 108.48
+1719544199591,Roll	-92.40	Pitch	4.41,Encoder1: 360.00, Encoder2: 109.71
+1719544199623,Gyro data ready!Roll: -92.25	Pitch: 4.12,Encoder1: 360.00, Encoder2: 108.84
+1719544199664,Roll	-92.25	Pitch	4.12,Encoder1: 0.00, Encoder2: 109.10
+1719544199697,Gyro data ready!Roll: -92.08	Pitch: 3.83,Encoder1: 0.00, Encoder2: 111.38
+1719544199730,Roll	-92.08	Pitch	3.83,Encoder1: 0.00, Encoder2: 110.59
+1719544199771,Gyro data ready!Roll: -91.88	Pitch: 3.55,Encoder1: 1.41, Encoder2: 120.79
+1719544199803,Roll	-91.88	Pitch	3.55,Encoder1: 0.00, Encoder2: 122.29
+1719544199836,Gyro data ready!Roll: -91.66	Pitch: 3.25,Encoder1: 0.00, Encoder2: 119.56
+1719544199877,Roll	-91.66	Pitch	3.25,Encoder1: 2.73, Encoder2: 119.65
+1719544199909,Gyro data ready!Roll: -91.41	Pitch: 2.97,Encoder1: 7.65, Encoder2: 130.64
+1719544199942,Roll	-91.41	Pitch	2.97,Encoder1: 6.86, Encoder2: 131.43
+1719544199982,Gyro data ready!Roll: -91.15	Pitch: 2.67,Encoder1: 9.05, Encoder2: 132.31
+1719544200019,Roll	-91.15	Pitch	2.67,Encoder1: 7.91, Encoder2: 147.60
+1719544200048,Gyro data ready!Roll: -90.87	Pitch: 2.37,Encoder1: 6.15, Encoder2: 145.76
+1719544200089,Roll	-90.87	Pitch	2.37,Encoder1: 11.34, Encoder2: 146.11
+1719544200123,Gyro data ready!Roll: -90.56	Pitch: 2.07,Encoder1: 10.46, Encoder2: 147.96
+1719544200163,Roll	-90.56	Pitch	2.07,Encoder1: 9.76, Encoder2: 162.90
+1719544200198,Gyro data ready!Roll: -90.26	Pitch: 1.82,Encoder1: 7.03, Encoder2: 163.25
+1719544200232,Roll	-90.26	Pitch	1.82,Encoder1: 5.89, Encoder2: 162.37
+1719544200263,Gyro data ready!Roll: -89.94	Pitch: 1.59,Encoder1: 5.98, Encoder2: 177.49
+1719544200303,Roll	-89.94	Pitch	1.59,Encoder1: 5.80, Encoder2: 174.59
+1719544200336,Gyro data ready!Roll: -89.63	Pitch: 1.36,Encoder1: 1.49, Encoder2: 178.11
+1719544200375,Roll	-89.63	Pitch	1.36,Encoder1: 4.22, Encoder2: 175.74
+1719544200409,Gyro data ready!Roll: -89.35	Pitch: 1.16,Encoder1: 0.00, Encoder2: 178.46
+1719544200443,Roll	-89.35	Pitch	1.16,Encoder1: 0.00, Encoder2: 177.67
+1719544200474,Gyro data ready!Roll: -89.05	Pitch: 0.93,Encoder1: 0.00, Encoder2: 182.33
+1719544200515,Roll	-89.05	Pitch	0.93,Encoder1: 360.00, Encoder2: 170.20
+1719544200556,Gyro data ready!Roll: -88.76	Pitch: 0.72,Encoder1: 360.00, Encoder2: 169.76
+1719544200589,Roll	-88.76	Pitch	0.72,Encoder1: 360.00, Encoder2: 173.89
+1719544200631,Gyro data ready!Roll: -88.47	Pitch: 0.55,Encoder1: 359.12, Encoder2: 162.20
+1719544200663,Roll	-88.47	Pitch	0.55,Encoder1: 357.01, Encoder2: 162.90
+1719544200707,Gyro data ready!Roll: -88.17	Pitch: 0.38,Encoder1: 351.65, Encoder2: 160.44
+1719544200739,Roll	-88.17	Pitch	0.38,Encoder1: 359.91, Encoder2: 160.97
+1719544200778,Gyro data ready!Roll: -87.88	Pitch: 0.19,Encoder1: 332.22, Encoder2: 150.51
+1719544200818,Roll	-87.88	Pitch	0.19,Encoder1: 325.89, Encoder2: 150.07
+1719544200851,Gyro data ready!Roll: -87.58	Pitch: 0.02,Encoder1: 329.41, Encoder2: 147.08
+1719544200891,Roll	-87.58	Pitch	0.02,Encoder1: 319.30, Encoder2: 134.24
+1719544200931,Gyro data ready!Roll: -87.28	Pitch: -0.12,Encoder1: 320.97, Encoder2: 134.95
+1719544200964,Roll	-87.28	Pitch	-0.12,Encoder1: 319.21, Encoder2: 134.95
+1719544201004,Gyro data ready!Roll: -86.95	Pitch: -0.25,Encoder1: 318.51, Encoder2: 122.73
+1719544201038,Roll	-86.95	Pitch	-0.25,Encoder1: 318.33, Encoder2: 122.46
+1719544201078,Gyro data ready!Roll: -86.63	Pitch: -0.38,Encoder1: 318.24, Encoder2: 126.15
+1719544201119,Roll	-86.63	Pitch	-0.38,Encoder1: 314.46, Encoder2: 123.34
+1719544201152,Gyro data ready!Roll: -86.29	Pitch: -0.46,Encoder1: 321.85, Encoder2: 116.75
+1719544201193,Roll	-86.29	Pitch	-0.46,Encoder1: 322.02, Encoder2: 112.97
+1719544201226,Gyro data ready!Roll: -85.96	Pitch: -0.55,Encoder1: 324.92, Encoder2: 116.13
+1719544201268,Roll	-85.96	Pitch	-0.55,Encoder1: 333.89, Encoder2: 105.49
+1719544201301,Gyro data ready!Roll: -85.58	Pitch: -0.60,Encoder1: 329.05, Encoder2: 107.16
+1719544201341,Roll	-85.58	Pitch	-0.60,Encoder1: 337.14, Encoder2: 108.04
+1719544201375,Gyro data ready!Roll: -85.20	Pitch: -0.62,Encoder1: 343.74, Encoder2: 99.87
+1719544201416,Roll	-85.20	Pitch	-0.62,Encoder1: 342.68, Encoder2: 102.15
+1719544201448,Gyro data ready!Roll: -84.84	Pitch: -0.65,Encoder1: 347.43, Encoder2: 101.36
+1719544201489,Roll	-84.84	Pitch	-0.65,Encoder1: 360.00, Encoder2: 99.78
+1719544201525,Gyro data ready!Roll: -84.53	Pitch: -0.69,Encoder1: 360.00, Encoder2: 98.20
+1719544201563,Roll	-84.53	Pitch	-0.69,Encoder1: 360.00, Encoder2: 101.10
+1719544201604,Gyro data ready!Roll: -84.23	Pitch: -0.76,Encoder1: 360.00, Encoder2: 102.59
+1719544201637,Roll	-84.23	Pitch	-0.76,Encoder1: 0.00, Encoder2: 101.01
+1719544201675,Gyro data ready!Roll: -83.92	Pitch: -0.79,Encoder1: 0.00, Encoder2: 101.80
+1719544201708,Roll	-83.92	Pitch	-0.79,Encoder1: 0.00, Encoder2: 103.30
+1719544201740,Gyro data ready!Roll: -83.65	Pitch: -0.77,Encoder1: 0.00, Encoder2: 107.34
+1719544201780,Roll	-83.65	Pitch	-0.77,Encoder1: 0.62, Encoder2: 105.05
+1719544201813,Gyro data ready!Roll: -83.42	Pitch: -0.73,Encoder1: 0.00, Encoder2: 105.05
+1719544201845,Roll	-83.42	Pitch	-0.73,Encoder1: 0.00, Encoder2: 106.55
+1719544201886,Gyro data ready!Roll: -83.21	Pitch: -0.69,Encoder1: 0.09, Encoder2: 115.08
+1719544201920,Roll	-83.21	Pitch	-0.69,Encoder1: 3.78, Encoder2: 111.91
+1719544201952,Gyro data ready!Roll: -83.03	Pitch: -0.65,Encoder1: 1.05, Encoder2: 115.16
+1719544201994,Roll	-83.03	Pitch	-0.65,Encoder1: 2.73, Encoder2: 118.33
+1719544202026,Gyro data ready!Roll: -82.89	Pitch: -0.59,Encoder1: 4.22, Encoder2: 118.59
+1719544202059,Roll	-82.89	Pitch	-0.59,Encoder1: 1.14, Encoder2: 116.75
+1719544202099,Gyro data ready!Roll: -82.74	Pitch: -0.52,Encoder1: 4.31, Encoder2: 120.18
+1719544202132,Roll	-82.74	Pitch	-0.52,Encoder1: 1.49, Encoder2: 122.55
+1719544202165,Gyro data ready!Roll: -82.59	Pitch: -0.45,Encoder1: 3.96, Encoder2: 124.31
+1719544202205,Roll	-82.59	Pitch	-0.45,Encoder1: 1.05, Encoder2: 123.52
+1719544202239,Gyro data ready!Roll: -82.47	Pitch: -0.34,Encoder1: 2.73, Encoder2: 125.45
+1719544202271,Roll	-82.47	Pitch	-0.34,Encoder1: 3.69, Encoder2: 128.00
+1719544202312,Gyro data ready!Roll: -82.37	Pitch: -0.23,Encoder1: 0.88, Encoder2: 129.85
+1719544202343,Roll	-82.37	Pitch	-0.23,Encoder1: 0.79, Encoder2: 127.56
+1719544202382,Gyro data ready!Roll: -82.25	Pitch: -0.11,Encoder1: 0.44, Encoder2: 130.02
+1719544202414,Roll	-82.25	Pitch	-0.11,Encoder1: 0.00, Encoder2: 134.15
+1719544202447,Gyro data ready!Roll: -82.14	Pitch: 0.01,Encoder1: 0.79, Encoder2: 131.78
+1719544202486,Roll	-82.14	Pitch	0.01,Encoder1: 3.87, Encoder2: 137.49
+1719544202519,Gyro data ready!Roll: -82.04	Pitch: 0.13,Encoder1: 2.02, Encoder2: 139.08
+1719544202559,Roll	-82.04	Pitch	0.13,Encoder1: 4.31, Encoder2: 136.70
+1719544202591,Gyro data ready!Roll: -81.95	Pitch: 0.27,Encoder1: 2.99, Encoder2: 140.66
+1719544202627,Roll	-81.95	Pitch	0.27,Encoder1: 5.98, Encoder2: 143.21
+1719544202665,Gyro data ready!Roll: -81.88	Pitch: 0.43,Encoder1: 1.58, Encoder2: 146.11
+1719544202698,Roll	-81.88	Pitch	0.43,Encoder1: 1.58, Encoder2: 147.08
+1719544202730,Gyro data ready!Roll: -81.81	Pitch: 0.58,Encoder1: 5.45, Encoder2: 153.85
+1719544202770,Roll	-81.81	Pitch	0.58,Encoder1: 2.90, Encoder2: 153.14
+1719544202803,Gyro data ready!Roll: -81.75	Pitch: 0.76,Encoder1: 1.85, Encoder2: 150.42
+1719544202837,Roll	-81.75	Pitch	0.76,Encoder1: 3.69, Encoder2: 152.18
+1719544202877,Gyro data ready!Roll: -81.70	Pitch: 0.94,Encoder1: 0.00, Encoder2: 158.59
+1719544202909,Roll	-81.70	Pitch	0.94,Encoder1: 0.00, Encoder2: 159.03
+1719544202942,Gyro data ready!Roll: -81.67	Pitch: 1.13,Encoder1: 0.79, Encoder2: 160.18
+1719544202982,Roll	-81.67	Pitch	1.13,Encoder1: 0.00, Encoder2: 163.16
+1719544203016,Gyro data ready!Roll: -69.09	Pitch: -14.87,Encoder1: 0.00, Encoder2: 161.49
+1719544203056,Roll	-69.09	Pitch	-14.87,Encoder1: 0.00, Encoder2: 161.67
+1719544203089,Gyro data ready!Roll: -69.06	Pitch: -14.74,Encoder1: 0.00, Encoder2: 160.09
+1719544203128,Roll	-69.06	Pitch	-14.74,Encoder1: 360.00, Encoder2: 158.51
+1719544203162,Gyro data ready!Roll: -69.02	Pitch: -14.61,Encoder1: 360.00, Encoder2: 156.13
+1719544203198,Roll	-69.02	Pitch	-14.61,Encoder1: 360.00, Encoder2: 154.73
+1719544203239,Gyro data ready!Roll: -68.99	Pitch: -14.47,Encoder1: 360.00, Encoder2: 147.96
+1719544203279,Roll	-68.99	Pitch	-14.47,Encoder1: 360.00, Encoder2: 149.63
+1719544203311,Gyro data ready!Roll: -68.96	Pitch: -14.32,Encoder1: 360.00, Encoder2: 147.69
+1719544203353,Roll	-68.96	Pitch	-14.32,Encoder1: 360.00, Encoder2: 149.45
+1719544203384,Gyro data ready!Roll: -68.96	Pitch: -14.14,Encoder1: 360.00, Encoder2: 149.01
+1719544203428,Roll	-68.96	Pitch	-14.14,Encoder1: 360.00, Encoder2: 148.84
+1719544203465,Gyro data ready!Roll: -68.96	Pitch: -13.96,Encoder1: 360.00, Encoder2: 148.66
+1719544203499,Roll	-68.96	Pitch	-13.96,Encoder1: 360.00, Encoder2: 151.03
+1719544203541,Gyro data ready!Roll: -68.95	Pitch: -13.77,Encoder1: 360.00, Encoder2: 153.76
+1719544203572,Roll	-68.95	Pitch	-13.77,Encoder1: 360.00, Encoder2: 154.64
+1719544203613,Gyro data ready!Roll: -68.96	Pitch: -13.59,Encoder1: 360.00, Encoder2: 157.10
+1719544203653,Roll	-68.96	Pitch	-13.59,Encoder1: 360.00, Encoder2: 158.95
+1719544203686,Gyro data ready!Roll: -69.00	Pitch: -13.42,Encoder1: 360.00, Encoder2: 160.35
+1719544203729,Roll	-69.00	Pitch	-13.42,Encoder1: 360.00, Encoder2: 166.59
+1719544203760,Gyro data ready!Roll: -69.07	Pitch: -13.26,Encoder1: 360.00, Encoder2: 167.12
+1719544203799,Roll	-69.07	Pitch	-13.26,Encoder1: 360.00, Encoder2: 164.57
+1719544203839,Gyro data ready!Roll: -69.14	Pitch: -13.11,Encoder1: 360.00, Encoder2: 165.01
+1719544203872,Roll	-69.14	Pitch	-13.11,Encoder1: 360.00, Encoder2: 166.42
+1719544203913,Gyro data ready!Roll: -69.22	Pitch: -12.99,Encoder1: 360.00, Encoder2: 164.04
+1719544203950,Roll	-69.22	Pitch	-12.99,Encoder1: 360.00, Encoder2: 166.15
+1719544203988,Gyro data ready!Roll: -69.32	Pitch: -12.87,Encoder1: 360.00, Encoder2: 158.68
+1719544204021,Roll	-69.32	Pitch	-12.87,Encoder1: 360.00, Encoder2: 161.67
+1719544204064,Gyro data ready!Roll: -69.42	Pitch: -12.75,Encoder1: 360.00, Encoder2: 161.93
+1719544204096,Roll	-69.42	Pitch	-12.75,Encoder1: 360.00, Encoder2: 158.42
+1719544204139,Gyro data ready!Roll: -69.54	Pitch: -12.61,Encoder1: 360.00, Encoder2: 160.44
+1719544204179,Roll	-69.54	Pitch	-12.61,Encoder1: 360.00, Encoder2: 158.95
+1719544204212,Gyro data ready!Roll: -69.68	Pitch: -12.48,Encoder1: 360.00, Encoder2: 158.95
+1719544204252,Roll	-69.68	Pitch	-12.48,Encoder1: 360.00, Encoder2: 161.76
+1719544204285,Gyro data ready!Roll: -69.80	Pitch: -12.36,Encoder1: 360.00, Encoder2: 161.76
+1719544204325,Roll	-69.80	Pitch	-12.36,Encoder1: 360.00, Encoder2: 160.79
+1719544204365,Gyro data ready!Roll: -69.95	Pitch: -12.25,Encoder1: 360.00, Encoder2: 161.76
+1719544204397,Roll	-69.95	Pitch	-12.25,Encoder1: 360.00, Encoder2: 158.68
+1719544204438,Gyro data ready!Roll: -70.09	Pitch: -12.14,Encoder1: 360.00, Encoder2: 160.88
+1719544204472,Roll	-70.09	Pitch	-12.14,Encoder1: 360.00, Encoder2: 160.44
+1719544204512,Gyro data ready!Roll: -70.24	Pitch: -12.03,Encoder1: 360.00, Encoder2: 158.51
+1719544204553,Roll	-70.24	Pitch	-12.03,Encoder1: 360.00, Encoder2: 158.95
+1719544204586,Gyro data ready!Roll: -70.41	Pitch: -11.92,Encoder1: 360.00, Encoder2: 158.33
+1719544204627,Roll	-70.41	Pitch	-11.92,Encoder1: 360.00, Encoder2: 158.95
+1719544204660,Gyro data ready!Roll: -70.56	Pitch: -11.82,Encoder1: 360.00, Encoder2: 158.86
+1719544204699,Roll	-70.56	Pitch	-11.82,Encoder1: 360.00, Encoder2: 159.03
+1719544204740,Gyro data ready!Roll: -70.70	Pitch: -11.72,Encoder1: 360.00, Encoder2: 159.74
+1719544204774,Roll	-70.70	Pitch	-11.72,Encoder1: 360.00, Encoder2: 158.51
+1719544204814,Gyro data ready!Roll: -70.82	Pitch: -11.67,Encoder1: 360.00, Encoder2: 159.56
+1719544204847,Roll	-70.82	Pitch	-11.67,Encoder1: 360.00, Encoder2: 160.35
+1719544204888,Gyro data ready!Roll: -71.00	Pitch: -11.62,Encoder1: 360.00, Encoder2: 159.03
+1719544204928,Roll	-71.00	Pitch	-11.62,Encoder1: 360.00, Encoder2: 162.99
+1719544204960,Gyro data ready!Roll: -71.18	Pitch: -11.56,Encoder1: 360.00, Encoder2: 157.89
+1719544205003,Roll	-71.18	Pitch	-11.56,Encoder1: 360.00, Encoder2: 160.88
+1719544205041,Gyro data ready!Roll: -71.33	Pitch: -11.49,Encoder1: 360.00, Encoder2: 159.38
+1719544205075,Roll	-71.33	Pitch	-11.49,Encoder1: 360.00, Encoder2: 162.02
+1719544205116,Gyro data ready!Roll: -71.50	Pitch: -11.44,Encoder1: 360.00, Encoder2: 158.15
+1719544205150,Roll	-71.50	Pitch	-11.44,Encoder1: 360.00, Encoder2: 160.44
+1719544205191,Gyro data ready!Roll: -71.65	Pitch: -11.41,Encoder1: 360.00, Encoder2: 160.44
+1719544205224,Roll	-71.65	Pitch	-11.41,Encoder1: 360.00, Encoder2: 160.35
+1719544205264,Gyro data ready!Roll: -71.80	Pitch: -11.38,Encoder1: 360.00, Encoder2: 163.08
+1719544205296,Roll	-71.80	Pitch	-11.38,Encoder1: 360.00, Encoder2: 159.30
+1719544205337,Gyro data ready!Roll: -71.93	Pitch: -11.34,Encoder1: 360.00, Encoder2: 158.95
+1719544205378,Roll	-71.93	Pitch	-11.34,Encoder1: 360.00, Encoder2: 160.44
+1719544205410,Gyro data ready!Roll: -72.05	Pitch: -11.32,Encoder1: 360.00, Encoder2: 160.62
+1719544205450,Roll	-72.05	Pitch	-11.32,Encoder1: 360.00, Encoder2: 161.41
+1719544205491,Gyro data ready!Roll: -72.15	Pitch: -11.28,Encoder1: 360.00, Encoder2: 163.16
+1719544205525,Roll	-72.15	Pitch	-11.28,Encoder1: 360.00, Encoder2: 160.88
+1719544205566,Gyro data ready!Roll: -72.24	Pitch: -11.24,Encoder1: 360.00, Encoder2: 158.33
+1719544205602,Roll	-72.24	Pitch	-11.24,Encoder1: 360.00, Encoder2: 158.07
+1719544205641,Gyro data ready!Roll: -72.32	Pitch: -11.21,Encoder1: 360.00, Encoder2: 160.35
+1719544205674,Roll	-72.32	Pitch	-11.21,Encoder1: 360.00, Encoder2: 161.76
+1719544205715,Gyro data ready!Roll: -72.37	Pitch: -11.16,Encoder1: 360.00, Encoder2: 160.88
+1719544205748,Roll	-72.37	Pitch	-11.16,Encoder1: 360.00, Encoder2: 160.00
+1719544205789,Gyro data ready!Roll: -72.39	Pitch: -11.09,Encoder1: 360.00, Encoder2: 162.29
+1719544205825,Roll	-72.39	Pitch	-11.09,Encoder1: 360.00, Encoder2: 161.76
+1719544205863,Gyro data ready!Roll: -72.38	Pitch: -11.02,Encoder1: 360.00, Encoder2: 161.32
+1719544205903,Roll	-72.38	Pitch	-11.02,Encoder1: 360.00, Encoder2: 159.03
+1719544205936,Gyro data ready!Roll: -72.38	Pitch: -10.92,Encoder1: 360.00, Encoder2: 162.11
+1719544205977,Roll	-72.38	Pitch	-10.92,Encoder1: 360.00, Encoder2: 158.68
+1719544206016,Gyro data ready!Roll: -72.32	Pitch: -10.82,Encoder1: 360.00, Encoder2: 161.58
+1719544206051,Roll	-72.32	Pitch	-10.82,Encoder1: 360.00, Encoder2: 159.21
+1719544206085,Gyro data ready!Roll: -72.24	Pitch: -10.73,Encoder1: 360.00, Encoder2: 162.02
+1719544206127,Roll	-72.24	Pitch	-10.73,Encoder1: 360.00, Encoder2: 158.51
+1719544206165,Gyro data ready!Roll: -72.16	Pitch: -10.64,Encoder1: 360.00, Encoder2: 156.92
+1719544206201,Roll	-72.16	Pitch	-10.64,Encoder1: 360.00, Encoder2: 160.35
+1719544206241,Gyro data ready!Roll: -72.05	Pitch: -10.54,Encoder1: 360.00, Encoder2: 160.97
+1719544206275,Roll	-72.05	Pitch	-10.54,Encoder1: 360.00, Encoder2: 161.85
+1719544206316,Gyro data ready!Roll: -71.91	Pitch: -10.44,Encoder1: 360.00, Encoder2: 159.12
+1719544206348,Roll	-71.91	Pitch	-10.44,Encoder1: 360.00, Encoder2: 160.09
+1719544206389,Gyro data ready!Roll: -71.74	Pitch: -10.34,Encoder1: 360.00, Encoder2: 159.74
+1719544206428,Roll	-71.74	Pitch	-10.34,Encoder1: 360.00, Encoder2: 158.15
+1719544206464,Gyro data ready!Roll: -71.54	Pitch: -10.24,Encoder1: 360.00, Encoder2: 161.41
+1719544206504,Roll	-71.54	Pitch	-10.24,Encoder1: 360.00, Encoder2: 160.44
+1719544206538,Gyro data ready!Roll: -71.28	Pitch: -10.16,Encoder1: 360.00, Encoder2: 158.33
+1719544206579,Roll	-71.28	Pitch	-10.16,Encoder1: 360.00, Encoder2: 160.26
+1719544206615,Gyro data ready!Roll: -71.00	Pitch: -10.07,Encoder1: 360.00, Encoder2: 160.00
+1719544206651,Roll	-71.00	Pitch	-10.07,Encoder1: 360.00, Encoder2: 158.95
+1719544206683,Gyro data ready!Roll: -70.72	Pitch: -9.99,Encoder1: 360.00, Encoder2: 161.49
+1719544206725,Roll	-70.72	Pitch	-9.99,Encoder1: 360.00, Encoder2: 158.86
+1719544206765,Gyro data ready!Roll: -70.46	Pitch: -9.91,Encoder1: 360.00, Encoder2: 157.80
+1719544206798,Roll	-70.46	Pitch	-9.91,Encoder1: 360.00, Encoder2: 159.47
+1719544206838,Gyro data ready!Roll: -70.20	Pitch: -9.86,Encoder1: 360.00, Encoder2: 159.91
+1719544206871,Roll	-70.20	Pitch	-9.86,Encoder1: 360.00, Encoder2: 161.14
+1719544206913,Gyro data ready!Roll: -69.93	Pitch: -9.80,Encoder1: 360.00, Encoder2: 160.62
+1719544206952,Roll	-69.93	Pitch	-9.80,Encoder1: 360.00, Encoder2: 161.67
+1719544206985,Gyro data ready!Roll: -69.62	Pitch: -9.77,Encoder1: 360.00, Encoder2: 158.42
+1719544207026,Roll	-69.62	Pitch	-9.77,Encoder1: 360.00, Encoder2: 158.68
+1719544207059,Gyro data ready!Roll: -69.34	Pitch: -9.75,Encoder1: 360.00, Encoder2: 161.58
+1719544207100,Roll	-69.34	Pitch	-9.75,Encoder1: 360.00, Encoder2: 159.56
+1719544207141,Gyro data ready!Roll: -69.07	Pitch: -9.76,Encoder1: 360.00, Encoder2: 158.33
+1719544207174,Roll	-69.07	Pitch	-9.76,Encoder1: 360.00, Encoder2: 162.55
+1719544207216,Gyro data ready!Roll: -68.80	Pitch: -9.77,Encoder1: 360.00, Encoder2: 160.79
+1719544207250,Roll	-68.80	Pitch	-9.77,Encoder1: 360.00, Encoder2: 160.26
+1719544207290,Gyro data ready!Roll: -68.54	Pitch: -9.82,Encoder1: 360.00, Encoder2: 157.10
+1719544207325,Roll	-68.54	Pitch	-9.82,Encoder1: 360.00, Encoder2: 161.49
+1719544207364,Gyro data ready!Roll: -68.27	Pitch: -9.86,Encoder1: 360.00, Encoder2: 162.29
+1719544207397,Roll	-68.27	Pitch	-9.86,Encoder1: 360.00, Encoder2: 162.02
+1719544207438,Gyro data ready!Roll: -67.97	Pitch: -9.92,Encoder1: 360.00, Encoder2: 161.14
+1719544207478,Roll	-67.97	Pitch	-9.92,Encoder1: 360.00, Encoder2: 158.07
+1719544207511,Gyro data ready!Roll: -67.66	Pitch: -9.99,Encoder1: 360.00, Encoder2: 160.62
+1719544207552,Roll	-67.66	Pitch	-9.99,Encoder1: 360.00, Encoder2: 161.23
+1719544207586,Gyro data ready!Roll: -67.34	Pitch: -10.08,Encoder1: 360.00, Encoder2: 157.98
+1719544207626,Roll	-67.34	Pitch	-10.08,Encoder1: 360.00, Encoder2: 163.16
+1719544207666,Gyro data ready!Roll: -67.03	Pitch: -10.20,Encoder1: 360.00, Encoder2: 158.51
+1719544207699,Roll	-67.03	Pitch	-10.20,Encoder1: 360.00, Encoder2: 160.09
+1719544207740,Gyro data ready!Roll: -66.72	Pitch: -10.32,Encoder1: 360.00, Encoder2: 161.49
+1719544207772,Roll	-66.72	Pitch	-10.32,Encoder1: 360.00, Encoder2: 158.95
+1719544207815,Gyro data ready!Roll: -66.41	Pitch: -10.47,Encoder1: 360.00, Encoder2: 157.10
+1719544207849,Roll	-66.41	Pitch	-10.47,Encoder1: 360.00, Encoder2: 158.51
+1719544207888,Gyro data ready!Roll: -66.09	Pitch: -10.60,Encoder1: 360.00, Encoder2: 160.26
+1719544207928,Roll	-66.09	Pitch	-10.60,Encoder1: 360.00, Encoder2: 162.02
+1719544207961,Gyro data ready!Roll: -65.77	Pitch: -10.77,Encoder1: 360.00, Encoder2: 160.44
+1719544208002,Roll	-65.77	Pitch	-10.77,Encoder1: 360.00, Encoder2: 158.95
+1719544208035,Gyro data ready!Roll: -65.45	Pitch: -10.94,Encoder1: 360.00, Encoder2: 158.15
+1719544208076,Roll	-65.45	Pitch	-10.94,Encoder1: 360.00, Encoder2: 161.76
+1719544208109,Gyro data ready!Roll: -65.14	Pitch: -11.09,Encoder1: 360.00, Encoder2: 161.58
+1719544208150,Roll	-65.14	Pitch	-11.09,Encoder1: 360.00, Encoder2: 160.35
+1719544208190,Gyro data ready!Roll: -64.86	Pitch: -11.24,Encoder1: 360.00, Encoder2: 161.93
+1719544208222,Roll	-64.86	Pitch	-11.24,Encoder1: 360.00, Encoder2: 160.53
+1719544208262,Gyro data ready!Roll: -64.58	Pitch: -11.36,Encoder1: 360.00, Encoder2: 157.36
+1719544208303,Roll	-64.58	Pitch	-11.36,Encoder1: 360.00, Encoder2: 160.35
+1719544208336,Gyro data ready!Roll: -64.34	Pitch: -11.51,Encoder1: 360.00, Encoder2: 157.45
+1719544208377,Roll	-64.34	Pitch	-11.51,Encoder1: 360.00, Encoder2: 163.16
+1719544208411,Gyro data ready!Roll: -64.11	Pitch: -11.67,Encoder1: 360.00, Encoder2: 161.76
+1719544208451,Roll	-64.11	Pitch	-11.67,Encoder1: 360.00, Encoder2: 160.09
+1719544208491,Gyro data ready!Roll: -63.88	Pitch: -11.82,Encoder1: 360.00, Encoder2: 158.86
+1719544208524,Roll	-63.88	Pitch	-11.82,Encoder1: 360.00, Encoder2: 161.58
+1719544208565,Gyro data ready!Roll: -63.68	Pitch: -12.01,Encoder1: 360.00, Encoder2: 159.12
+1719544208597,Roll	-63.68	Pitch	-12.01,Encoder1: 360.00, Encoder2: 161.14
+1719544208637,Gyro data ready!Roll: -63.49	Pitch: -12.18,Encoder1: 360.00, Encoder2: 158.95
+1719544208673,Roll	-63.49	Pitch	-12.18,Encoder1: 360.00, Encoder2: 162.11
+1719544208713,Gyro data ready!Roll: -63.33	Pitch: -12.38,Encoder1: 360.00, Encoder2: 158.77
+1719544208747,Roll	-63.33	Pitch	-12.38,Encoder1: 360.00, Encoder2: 158.15
+1719544208790,Gyro data ready!Roll: -63.18	Pitch: -12.63,Encoder1: 360.00, Encoder2: 158.95
+1719544208828,Roll	-63.18	Pitch	-12.63,Encoder1: 360.00, Encoder2: 158.77
+1719544208862,Gyro data ready!Roll: -65.01	Pitch: -24.48,Encoder1: 360.00, Encoder2: 159.91
+1719544208902,Roll	-65.01	Pitch	-24.48,Encoder1: 360.00, Encoder2: 157.63
+1719544208936,Gyro data ready!Roll: -65.21	Pitch: -24.65,Encoder1: 360.00, Encoder2: 160.09
+1719544208977,Roll	-65.21	Pitch	-24.65,Encoder1: 360.00, Encoder2: 160.70
+1719544209016,Gyro data ready!Roll: -65.43	Pitch: -24.82,Encoder1: 360.00, Encoder2: 160.09
+1719544209053,Roll	-65.43	Pitch	-24.82,Encoder1: 360.00, Encoder2: 159.21
+1719544209089,Gyro data ready!Roll: -65.64	Pitch: -24.97,Encoder1: 360.00, Encoder2: 162.37
+1719544209122,Roll	-65.64	Pitch	-24.97,Encoder1: 360.00, Encoder2: 157.63
+1719544209163,Gyro data ready!Roll: -65.86	Pitch: -25.12,Encoder1: 360.00, Encoder2: 160.62
+1719544209203,Roll	-65.86	Pitch	-25.12,Encoder1: 360.00, Encoder2: 160.26
+1719544209236,Gyro data ready!Roll: -66.10	Pitch: -25.24,Encoder1: 360.00, Encoder2: 157.98
+1719544209276,Roll	-66.10	Pitch	-25.24,Encoder1: 360.00, Encoder2: 159.82
+1719544209310,Gyro data ready!Roll: -66.36	Pitch: -25.34,Encoder1: 360.00, Encoder2: 159.21
+1719544209350,Roll	-66.36	Pitch	-25.34,Encoder1: 360.00, Encoder2: 159.91
+1719544209390,Gyro data ready!Roll: -66.60	Pitch: -25.44,Encoder1: 360.00, Encoder2: 159.82
+1719544209423,Roll	-66.60	Pitch	-25.44,Encoder1: 360.00, Encoder2: 160.62
+1719544209464,Gyro data ready!Roll: -66.86	Pitch: -25.53,Encoder1: 360.00, Encoder2: 158.51
+1719544209497,Roll	-66.86	Pitch	-25.53,Encoder1: 360.00, Encoder2: 157.71
+1719544209541,Gyro data ready!Roll: -67.12	Pitch: -25.60,Encoder1: 360.00, Encoder2: 158.15
+1719544209578,Roll	-67.12	Pitch	-25.60,Encoder1: 360.00, Encoder2: 158.95
+1719544209612,Gyro data ready!Roll: -67.40	Pitch: -25.66,Encoder1: 360.00, Encoder2: 158.51
+1719544209651,Roll	-67.40	Pitch	-25.66,Encoder1: 360.00, Encoder2: 159.21
+1719544209685,Gyro data ready!Roll: -67.68	Pitch: -25.71,Encoder1: 360.00, Encoder2: 158.95
+1719544209725,Roll	-67.68	Pitch	-25.71,Encoder1: 360.00, Encoder2: 160.00
+1719544209765,Gyro data ready!Roll: -67.95	Pitch: -25.73,Encoder1: 360.00, Encoder2: 160.18
+1719544209797,Roll	-67.95	Pitch	-25.73,Encoder1: 360.00, Encoder2: 159.82
+1719544209838,Gyro data ready!Roll: -68.21	Pitch: -25.73,Encoder1: 360.00, Encoder2: 161.49
+1719544209879,Roll	-68.21	Pitch	-25.73,Encoder1: 360.00, Encoder2: 162.55
+1719544209912,Gyro data ready!Roll: -68.46	Pitch: -25.71,Encoder1: 360.00, Encoder2: 159.56
+1719544209952,Roll	-68.46	Pitch	-25.71,Encoder1: 360.00, Encoder2: 160.97
