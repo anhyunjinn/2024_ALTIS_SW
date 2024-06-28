@@ -55,15 +55,8 @@ void loop() {
             pitch = kalmanPitch.update(pitch, pitchRate, dt);
 
             // 각도값 출력 (시리얼 플로터용)
-            Serial.print("Roll: ");
             Serial.print(roll);
-            Serial.print("\tPitch: ");
-            Serial.println(pitch);
-
-            // 각각의 각도값 출력 (시리얼 플로터용)
-            Serial.print("Roll\t");
-            Serial.print(roll);
-            Serial.print("\tPitch\t");
+            Serial.print(",");
             Serial.println(pitch);
         }
     }
