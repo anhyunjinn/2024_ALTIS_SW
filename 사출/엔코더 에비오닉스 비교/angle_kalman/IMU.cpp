@@ -118,7 +118,6 @@ int IMU::read(float *ax, float *ay, float *az, float *gx, float *gy, float *gz)
     int type = 0;
     if (interruptStatus & BMI2_GYR_DRDY_INT_MASK)
     {
-      Serial.print("Gyro data ready!");
       _imu.getSensorData();
       *gx = (_imu.data.gyroX - cal_gx);
       *gy = (_imu.data.gyroY - cal_gy);
