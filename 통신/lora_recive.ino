@@ -11,10 +11,6 @@ struct mystruct {
   float ay;
   float az;
 
-  float gx;
-  float gy;
-  float gz; //넣기
-
   float angleX;
   float angleY;
   float angleZ;
@@ -51,12 +47,6 @@ void loop() {
     Serial.print(mydata.ay);
     Serial.print(" az: ");
     Serial.print(mydata.az);
-    Serial.print("gx: ");
-    Serial.print(mydata.gx);
-    Serial.print(" gy: ");
-    Serial.print(mydata.gy);
-    Serial.print(" gz: ");
-    Serial.print(mydata.gz);
     Serial.print("angleX: ");
     Serial.print(mydata.angleX);
     Serial.print(" angleY: ");
@@ -65,10 +55,6 @@ void loop() {
     Serial.print(mydata.angleZ);
     Serial.print(" a: ");
     Serial.print(mydata.a);
-   // Serial.print(" latitude: ");
-    //Serial.print(mydata.lat);
-    //Serial.print(" longitude: ");
-    //Serial.print(mydata.lon);
     Serial.print(" ej: ");
     Serial.println(mydata.ej);
     count++;
