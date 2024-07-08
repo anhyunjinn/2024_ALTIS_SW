@@ -16,18 +16,21 @@ class ejectionbutton():
         self.groupbox.setStyleSheet("QGroupBox::title { subcontrol-origin: margin; subcontrol-position: top center; padding: 0 3px; }")
         self.pushbutton = QPushButton('Eject')
         self.pushbutton.setDisabled(True)
+        self.comstartbutton = QPushButton('Connect')
 
 
-        self.ledlayout = QHBoxLayout()
-        self.ledlayout.addWidget(CircleWidget(64, 15, 7))
-        self.ledlayout.addWidget(CircleWidget(3, 46, 8))
-        self.ledlayout.addStretch()
+
+        # self.ledlayout = QHBoxLayout()
+        # self.ledlayout.addWidget(CircleWidget(64, 15, 7))
+        # self.ledlayout.addWidget(CircleWidget(3, 46, 8))
+        # self.ledlayout.addStretch()
 
 
         vbox = QVBoxLayout()
         vbox.addStretch(1)
-        vbox.addLayout(self.ledlayout)
+        # vbox.addLayout(self.ledlayout)
         vbox.addWidget(self.pushbutton)
+        vbox.addWidget(self.comstartbutton)
         vbox.addStretch(1)
         self.groupbox.setLayout(vbox)
 
@@ -37,48 +40,60 @@ class ejectionbutton():
         self.getComport(com)
         self.pushbutton.setDisabled(True)
         self.sendCommand(self.com)
+        
+    
+    def changecomm (self, com : Communication):
+        self.pushbutton.setText('Connected')
+        self.getComport(com)
+        self.pushbutton.setDisabled(True)
+        self.sendCommandstart(self.com)
 
+    def sendCommandstart (self, com : Communication ) :
+        if com and com.ser and com.ser.is_open:
+            print("command start")
+            com.ser.write(f"r\n".encode()) # 통신 명령 r 
+            print("command finish")
     
     def sendCommand (self, com : Communication ) :
         if com and com.ser and com.ser.is_open:
-            com.ser.write(f"r\n".encode()) # 사출 명령 r 
+            com.ser.write(f"e\n".encode()) # 사출 명령 e 
 
 
     def getComport (self, com : Communication):
         self.com = com
 
 
-    def stateEJ(self, EjectionState):
-        hbox_led = QHBoxLayout()
-        if EjectionState == 0 : 
+    # def stateEJ(self, EjectionState):
+    #     hbox_led = QHBoxLayout()
+    #     if EjectionState == 0 : 
 
-            hbox_led.addWidget(CircleWidget(250, 75, 62))
-            hbox_led.addWidget(CircleWidget(3, 46, 8))
+    #         hbox_led.addWidget(CircleWidget(250, 75, 62))
+    #         hbox_led.addWidget(CircleWidget(3, 46, 8))
 
-        elif EjectionState == 1 :  
+    #     elif EjectionState >= 1 :  
         
-            hbox_led.addWidget(CircleWidget(64, 15, 7))
-            hbox_led.addWidget(CircleWidget(0, 255, 30))
+    #         hbox_led.addWidget(CircleWidget(64, 15, 7))
+    #         hbox_led.addWidget(CircleWidget(0, 255, 30))
 
-        else : 
-            hbox_led.addWidget(CircleWidget(64, 15, 7))
-            hbox_led.addWidget(CircleWidget(3, 46, 8))
+    #     else : 
+    #         hbox_led.addWidget(CircleWidget(64, 15, 7))
+    #         hbox_led.addWidget(CircleWidget(3, 46, 8))
         
-        self.ledlayout =  hbox_led
+    #     self.ledlayout =  hbox_led
         
 
 
 
 
-class CircleWidget(QWidget):
-    def __init__(self, r,g,b, parent=None):
-        super().__init__(parent)
-        self.color = QColor(r,g,b)
-        self.setFixedSize(QSize(40, 40))
+# class CircleWidget(QWidget):
+#     def __init__(self, r,g,b, parent=None):
+#         super().__init__(parent)
+#         self.color = QColor(r,g,b)
+#         self.setFixedSize(QSize(40, 40))
 
-    def paintEvent(self, event):
-        painter = QPainter(self)
-        painter.setRenderHint(QPainter.Antialiasing)
-        painter.setBrush(self.color)
-        painter.setPen(Qt.NoPen)
-        painter.drawEllipse(0, 0, self.width(), self.height())
+#     def paintEvent(self, event):
+#         painter = QPainter(self)
+#         painter.setRenderHint(QPainter.Antialiasing)
+#         painter.setBrush(self.color)
+#         painter.setPen(Qt.NoPen)
+#         painter.drawEllipse(0, 0, self.width(), self.height())

@@ -167,7 +167,7 @@ class guiMain(QMainWindow):
 
         vbox2.addWidget(self.EjectionPushButtonGroup.groupbox,1) # 사출 버튼 
         vbox2.addWidget(self.startsaveGroup.groupbox,1) # Save / Start
-        vbox2.addWidget(self.altitudeInfoGroup.groupbox,1) # 고도 정보
+        vbox2.addWidget(self.altitudeInfoGroup.groupbox,1) # 고도, Time 정보
         vbox2.addStretch(2)
 
         hbox.addLayout(vbox1,1)
@@ -178,7 +178,7 @@ class guiMain(QMainWindow):
         self.comSearchGroup.connect_btn.clicked.connect(lambda: self.startsaveGroup.start_btn.setEnabled(True))
         
         self.EjectionPushButtonGroup.pushbutton.clicked.connect(lambda: self.EjectionPushButtonGroup.changeEjected(self.com))
-
+        self.EjectionPushButtonGroup.comstartbutton.clicked.connect(lambda: self.EjectionPushButtonGroup.changecomm(self.com))
         self.startsaveGroup.start_btn.clicked.connect(self.dataBase.startClicked)
         self.startsaveGroup.start_btn.clicked.connect(lambda: self.EjectionPushButtonGroup.pushbutton.setEnabled(True))
         self.startsaveGroup.start_btn.clicked.connect(lambda: self.connect_btn.setDisabled(True))
@@ -212,7 +212,18 @@ class guiMain(QMainWindow):
     리스트 안에 있는 데이터 타입은 문자열, 실수형으로 바꿀려면 float로 바꿔주어야한다. 
     
     '''
-
+    def drawGraphic(self):
+        if self.com.isOpen():
+            try:
+                data_table = self.com.getData()
+                
+                if len(data_table) == 10:
+                    angletable = [float(data_table[4]),float(data_table[5]),float(data_table[6])]
+                    self.visual3D.updateAngles(angletable)
+                    self.AngleInfoGroup.update_angleinfo(angletable)
+            except ValueError  :
+                pass
+                    
     
 
     def drawGraphs(self):
@@ -220,29 +231,32 @@ class guiMain(QMainWindow):
         if self.com.isOpen():
             try:
                 data_table = self.com.getData()
-                float_data_table = self.convert_to_float(data_table)
-
-                if len(data_table) == 10: # 테이블 길이 
-                    #print(data_table) # 오류 찾는 테스트 코드: 값이 잘 나오는 지 확인 
+                #print(float_data_table)
+                #print(data_table)
+                
+                if len(data_table) == 10:
+                    print(data_table)# 테이블 길이 
+                     # 오류 찾는 테스트 코드: 값이 잘 나오는 지 확인 
                     #print(float_data_table)
 
                     # 그래프 / 로켓 ( 시각화에 필요한 정보 )
-                    angletable = float_data_table[4:7]
+                    # angletable = [float(data_table[4]),float(data_table[5]),float(data_table[6])]
 
                     self.accX.update(data_table[1])
                     self.accY.update(data_table[2])
                     self.accZ.update(data_table[3])
-                    self.visual3D.updateAngles(angletable)
+                    # self.visual3D.updateAngles(angletable)
                     self.rocketAltitude.updateAltitude(data_table[7])
                     
                     # Group Area 데이터 ( 수치값 )
-                    self.AngleInfoGroup.update_angleinfo(angletable) # angle 
-                    self.AccelGroup.update_accX(float_data_table[1]) # x Acc
-                    self.AccelGroup.update_accY(float_data_table[2]) # y Acc
-                    self.AccelGroup.update_accZ(float_data_table[3]) # z Acc
-                    self.altitudeInfoGroup.update_altitude(float_data_table[7]) # altitude
-                    self.EjectionPushButtonGroup.ledlayout(float_data_table[8])
-                    self.dataBase.saveStart(float_data_table) # Start / Save 
+                    # self.AngleInfoGroup.update_angleinfo(angletable) # angle 
+                    self.AccelGroup.update_accX(float(data_table[1])) # x Acc
+                    self.AccelGroup.update_accY(float(data_table[2])) # y Acc
+                    self.AccelGroup.update_accZ(float(data_table[3])) # z Acc
+                    self.altitudeInfoGroup.update_time(float(data_table[0])/(1000 * 60)) # time 
+                    self.altitudeInfoGroup.update_altitude(float(data_table[7])) # altitude
+                    #self.EjectionPushButtonGroup.ledlayout(float(data_table[8]))
+                    self.dataBase.saveStart(data_table) # Start / Save 
 
                     
 
@@ -250,18 +264,8 @@ class guiMain(QMainWindow):
                 pass
 
 
-    # 날짜 빼고 실수형 리스트 만들기
-    def convert_to_float(self,table):
 
-        converted_table = []
-    
-        for item in table :
-            if ( table.index(item) == 0 ) :
-                converted_table.append(item)
-            else :
-                converted_table.append(float(item))
-        
-        return converted_table
+
 
 
 
@@ -276,15 +280,14 @@ app.setFont(QFont('arial'))
 
 
 ex = guiMain()
-timer = pg.QtCore.QTimer()
-timer.start(20)
-timer.timeout.connect(ex.drawGraphs)
-
+timer1 = pg.QtCore.QTimer()
+timer2 = pg.QtCore.QTimer()
+timer1.start(26)
+timer2.start(26)
+timer1.timeout.connect(ex.drawGraphs)
+timer2.timeout.connect(ex.drawGraphic)
 
 if __name__ == '__main__':
     if (sys.flags.interactive != 1) or not hasattr(QtCore, 'PYQT_VERSION'):
         QtWidgets.QApplication.instance().exec_()
         ex.com.close()
-
-
-

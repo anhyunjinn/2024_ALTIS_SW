@@ -14,7 +14,7 @@ class Visual3D(QOpenGLWidget):
         self.xangle, self.yangle, self.zangle = 0, 0, 0
         # self.timer = QTimer(self)
         # self.timer.timeout.connect(self.updateAngles)
-        # self.timer.start(33)  # 약 30fps로 업데이트
+        # self.timer.start(50)  # 약 30fps로 업데이트
 
     def initializeGL(self):
         glEnable(GL_DEPTH_TEST)
@@ -48,11 +48,13 @@ class Visual3D(QOpenGLWidget):
         cone_height = 0.6
         cone_radius = 0.2
 
+        # Quadric 객체를 한 번만 생성
+        quadric = gluNewQuadric()
+
         # 로켓 몸체 (원기둥)
         glPushMatrix()
         glTranslatef(0, 0, -body_length / 2)
         glColor3f(0.8, 0.8, 0.8)  # Light gray
-        quadric = gluNewQuadric()
         gluCylinder(quadric, body_radius, body_radius, body_length, 32, 32)
         glPopMatrix()
 
@@ -60,7 +62,6 @@ class Visual3D(QOpenGLWidget):
         glPushMatrix()
         glTranslatef(0, 0, body_length / 2)
         glColor3f(1.0, 0.0, 0.0)  # Red
-        quadric = gluNewQuadric()
         gluCylinder(quadric, cone_radius, 0.0, cone_height, 32, 32)
         glPopMatrix()
 

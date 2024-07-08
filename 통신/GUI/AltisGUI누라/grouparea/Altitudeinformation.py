@@ -38,6 +38,6 @@ class Altitudeinformation(QWidget):
         self.altitude.setText(f"{value:.2f}")
 
     def update_time(self,value):
-        self.altitude.setText(f"{value}")
+        self.time.setText(f"{value:.3f}")
 
 

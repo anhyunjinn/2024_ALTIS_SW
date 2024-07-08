@@ -63,8 +63,7 @@ class Communication:
 
     # 3434,54,565,565 이런식으로 받아오는 방식
     def getData(self):
-    
-
+        
         if (self.ser.inWaiting() > 0):
             
             value = self.ser.readline()
@@ -72,10 +71,11 @@ class Communication:
     
             decoded = str(value[0:len(value) - 2].decode("utf-8"))
             value_table = decoded.split(",")
-            value_table.insert(-1, self.getDate())
+            value_table.insert(9, self.getDate())
         else:
             value_table = []
-            
+        
+
         return value_table
 
     # 구조체 받아오는 거 

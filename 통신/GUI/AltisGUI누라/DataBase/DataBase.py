@@ -15,7 +15,7 @@ from datetime import datetime
 """
 
 class DataBase():
-    columns = ["Time", "xAcc", "yAcc", "zAcc","xAngle", "yAngle", "zAngle","Altitude","Date","EjectionState"  ]
+    columns = ["Time", "xAcc", "yAcc", "zAcc","xAngle", "yAngle", "zAngle","Altitude","EjectionState" ,"Date" ]
     def __init__(self):
         self.df = pd.DataFrame(columns=self.columns)
         self.isSaving = False
@@ -26,7 +26,7 @@ class DataBase():
 
     def stopClicked(self):
         self.isSaving = False
-        exceldataName = "Data/Rocket_Data" + self.dateTime + ".xlsx" 
+        exceldataName = "C:\\Users\\jully\\Downloads\\2024_ALTIS_SW\\통신\\GUI\\AltisGUI누라\\Data\\Rocket_Data" + self.dateTime
         self.df.to_excel(exceldataName)
 
     def saveStart(self, data_table:list):
@@ -42,5 +42,3 @@ class DataBase():
 
         else:
             return np.NaN
-
-    
