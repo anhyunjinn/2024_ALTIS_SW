@@ -54,10 +54,10 @@ class ejectionbutton():
             com.ser.write(f"r\n".encode()) # 통신 명령 r 
             print("command finish")
     
-    def sendCommand (self, com : Communication ) :
+    def sendCommand (self, com : Communication) :
         if com and com.ser and com.ser.is_open:
-            com.ser.write(f"e\n".encode()) # 사출 명령 e 
-
+            com.ser.write(f"e\n".encode()) # 사출 명령 e
+            
 
     def getComport (self, com : Communication):
         self.com = com

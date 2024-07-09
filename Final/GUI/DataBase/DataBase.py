@@ -26,18 +26,21 @@ class DataBase():
 
     def stopClicked(self):
         self.isSaving = False
-        exceldataName = "C:\\Users\\jully\\Downloads\\2024_ALTIS_SW\\통신\\GUI\\AltisGUI누라\\Data\\Rocket_Data" + self.dateTime
-        self.df.to_excel(exceldataName)
+        exceldataName = "C:\\Users\\jully\\Downloads\\2024_ALTIS_SW\\통신\\GUI\\AltisGUI누라\\Data\\Rocket_Data_" + self.dateTime + ".xlsx"
+        try:
+            self.df.to_excel(exceldataName)
+        except Exception as e:
+            print(f"파일 저장 실패: {e}")
 
     def saveStart(self, data_table:list):
-        if (self.isSaving):
-            data_table[8] = self.isEjectYN(data_table[8])
-            self.dateTime = datetime.now().strftime("%Y%m%d_%H%M%S")
-            self.df.loc[len(self.df)] = data_table
+        # if (self.isSaving):
+        data_table[8] = self.isEjectYN(data_table[8])
+        self.dateTime = datetime.now().strftime("%Y%m%d_%H%M%S")
+        self.df.loc[len(self.df)] = data_table
 
 
     def isEjectYN(self, isEject):
-        if (isEject == 1):
+        if (isEject == '1'):   # OKD 코드 보고 값 고쳐야함
             return "Ejected"
 
         else:

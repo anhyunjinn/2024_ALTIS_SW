@@ -205,8 +205,8 @@ class guiMain(QMainWindow):
     '''
     data table 
 
-    [   0        1        2        3         4        5       6         7                8  ,       9 ]
-        time ,  Accx,    Accy,    Accz,    Anglex,  Angley,  Anglez,  Altitude,     EjectionState  Date]
+    [    0      1      2     3     4       5       6        7            8         9 ]
+    [   time , Accx, Accy, Accz, Anglex, Angley, Anglez, Altitude, EjectionState, Date]
     
           
     리스트 안에 있는 데이터 타입은 문자열, 실수형으로 바꿀려면 float로 바꿔주어야한다. 
@@ -255,7 +255,7 @@ class guiMain(QMainWindow):
                     self.AccelGroup.update_accZ(float(data_table[3])) # z Acc
                     self.altitudeInfoGroup.update_time(float(data_table[0])/(1000 * 60)) # time 
                     self.altitudeInfoGroup.update_altitude(float(data_table[7])) # altitude
-                    #self.EjectionPushButtonGroup.ledlayout(float(data_table[8]))
+                    # self.EjectionPushButtonGroup.ledlayout(float(data_table[8]))
                     self.dataBase.saveStart(data_table) # Start / Save 
 
                     
@@ -282,8 +282,8 @@ app.setFont(QFont('arial'))
 ex = guiMain()
 timer1 = pg.QtCore.QTimer()
 timer2 = pg.QtCore.QTimer()
-timer1.start(26)
-timer2.start(26)
+timer1.start(60)
+timer2.start(60)
 timer1.timeout.connect(ex.drawGraphs)
 timer2.timeout.connect(ex.drawGraphic)
 
