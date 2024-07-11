@@ -17,7 +17,7 @@ class Visual3D(QWidget):
         pygame.init()
         self.display = (800, 600)
         self.screen = pygame.display.set_mode(self.display, pygame.DOUBLEBUF | pygame.OPENGL)
-        pygame.display.set_caption("Pygame in PyQt5")
+     #   pygame.display.set_caption("Pygame in PyQt5")
         self.setup_opengl()
 
     def setup_opengl(self):
