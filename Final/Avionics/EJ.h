@@ -43,10 +43,18 @@ public:
     void set();
     void servomotor();
     unsigned long flight_start_time; 
+
     double altitude;
+
     float angleX;
     float angleY;
     float angleZ;
+
+    float ini_angleY;
+    float ini_angleZ;
+    float ini_angleX;
+
+    void ini_angle(float _ax, float _ay, float _az,float* _angleY,float* _angleZ);
 
     void Altitude(double* alt, double pressure);
     void GyrotoQuaternion(float _gx, float _gy, float _gz);
@@ -55,6 +63,7 @@ public:
     void AcctoAngle(float _ax,float _ay,float _az);
     void GyrotoAngleRate(float _gx,float _gy,float _gz);
     void Complementary();
+    
     //Ejection check
     byte ej = 0; //8비트중 뒤에 4개 사출조건(각도,고도,타이머,강제) ex)00001000 이면 각도 조건 참
     byte check();

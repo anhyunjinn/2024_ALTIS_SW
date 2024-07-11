@@ -21,7 +21,7 @@
 
 // EJ
 //EJ ej(21, 5 * 1000, 1007.8); // pwm핀,타이머,해면기압
-#define EJ_motorpin 9 //시범발사핀
+#define EJ_motorpin 21 //시범발사핀
 #define EJ_timer 11//(s)
 #define EJ_SeaPreasure 1004.2
 #define Alt_Alpha 0.9
@@ -29,7 +29,7 @@
 // data
 //DATA data(Serial2, 9, 115200, SPI, 10); // DATA(HardwareSerial& serial,int aux, int baudrate,SPIClass& spi,int cs)
 #define DATA_Serial Serial2
-#define DATA_Aux 21
+#define DATA_Aux 9
 #define DATA_Baudrate 115200
 #define DATA_SPI SPI
 #define DATA_CS 10

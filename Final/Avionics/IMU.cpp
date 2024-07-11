@@ -119,16 +119,17 @@ int IMU::read(float *ax, float *ay, float *az, float *gx, float *gy, float *gz)
     if (interruptStatus & BMI2_GYR_DRDY_INT_MASK)
     {
       _imu.getSensorData();
-      *gx = (_imu.data.gyroX - cal_gx);
-      *gy = (_imu.data.gyroY - cal_gy);
+      *gy = -(_imu.data.gyroX - cal_gx);
+      *gx = -(_imu.data.gyroY - cal_gy);
       *gz = (_imu.data.gyroZ - cal_gz);
       type += 1;
     }
+
     if (interruptStatus & BMI2_ACC_DRDY_INT_MASK)
     {
       _imu.getSensorData();
-      *ax = (_imu.data.accelX - cal_ax+1);
-      *ay = (_imu.data.accelY - cal_ay);
+      *ay = -(_imu.data.accelX - cal_ax);
+      *ax = -(_imu.data.accelY - cal_ay)+1;
       *az = (_imu.data.accelZ - cal_az);
       type += 2;
     }
@@ -138,22 +139,18 @@ int IMU::read(float *ax, float *ay, float *az, float *gx, float *gy, float *gz)
 }
 void IMU::calibrate()
 {
-  float sum_ax, sum_ay, sum_az, sum_gx, sum_gy, sum_gz;
-  int c;
-  while (c < 1000)
+  for (int i = 0; i < 1000; i++)
   {
-    int type = read(&sum_ax, &sum_ay, &sum_az, &sum_gx, &sum_gy, &sum_gz);
-    cal_gx += sum_gx / 1000;
-    cal_gy += sum_gy / 1000;
-    cal_gz += sum_gz / 1000;
-    cal_ax += sum_ax / 1000;
-    cal_ay += sum_ay / 1000;
-    cal_az += sum_az / 1000;
-    c++;
-    delay(1);
+    _imu.getSensorData();
+    cal_ax += _imu.data.accelX / 1000;
+    cal_ay += _imu.data.accelY / 1000;
+    cal_az += _imu.data.accelZ / 1000;
+    cal_gx += _imu.data.gyroX / 1000;
+    cal_gy += _imu.data.gyroY / 1000;
+    cal_gz += _imu.data.gyroZ / 1000;
+    delay(5);
   }
 }
-
 void IMU::handler()
 {
   _interruptOccurred = true;

@@ -22,7 +22,7 @@ byte EJ::check(){//조건들 넣어야함
     {
         ej = ej | 0B00001000;
     }
-    if (altitudeRate < -2)
+    if (altitudeRate < -2 && altitude > 250)
     {
         ej = ej | 0B00000100;
     }
@@ -44,19 +44,23 @@ void EJ::Altitude(double *alt, double pressure)
     altitude = _Alt_Alpha * altitude + (1 - _Alt_Alpha) * previousAltitude;
     altitudeRate = (altitude - previousAltitude) / dt;
     previousAltitude = altitude;
+    before = micros();
     *alt = altitude;
 }
 
-//각도
-void EJ::angle(float* _angleX ,float* _angleY,float* _angleZ){
-    angleX = anglemapping(angleX);
-    angleY = anglemapping(angleY);
-    angleZ = anglemapping(angleZ);
+// 각도
+void EJ::angle(float *_angleX, float *_angleY, float *_angleZ)
+{
+    // angleX = anglemapping(angleX);
+    // angleY = anglemapping(angleY+ini_angleY);
+    // angleZ = anglemapping(angleZ+ini_angleZ);
+    angleX = angleX;
+    angleY = angleY + ini_angleY;
+    angleZ = angleZ + ini_angleZ;
     *_angleX = angleX;
     *_angleY = angleY;
     *_angleZ = angleZ;
 }
-
 
 float EJ:: anglemapping(float angle)
 {
@@ -92,11 +96,17 @@ void EJ:: GyrotoEuler(float p, float q, float r)
     angleZ = (angleZ + angle[2]);
 }
 
-//파이/180 = 0.01745329251
-//180/파이 = 57.2957795131
-//1deg = 0.0174533rad
-void EJ::GyrotoQuaternion(float _gx, float _gy, float _gz)
+// 파이/180 = 0.01745329251
+// 180/파이 = 57.2957795131
+// 1deg = 0.0174533rad
+void EJ::GyrotoQuaternion(float raw_gx, float raw_gy, float raw_gz)
 {
+    static float alpha = 0.2;
+    static float _gx, _gy, _gz;
+    _gx = alpha * raw_gx + (1 - alpha) * _gx;
+    _gy = alpha * raw_gy + (1 - alpha) * _gy;
+    _gz = alpha * raw_gz + (1 - alpha) * _gz;
+
     float q0_dot, q1_dot, q2_dot, q3_dot;
     float q_norm;
 
@@ -128,17 +138,23 @@ void EJ::GyrotoQuaternion(float _gx, float _gy, float _gz)
     q2 /= q_norm;
     q3 /= q_norm;
 
-    //쿼터니언 to euler
+    // 쿼터니언 to euler
     angleX = atan2(2 * (q0 * q1 + q2 * q3), 1 - 2 * (q1 * q1 + q2 * q2)) * 57.2957795131;
     angleY = asin(2 * (q0 * q2 - q3 * q1)) * 57.2957795131;
     angleZ = atan2(2 * (q0 * q3 + q1 * q2), 1 - 2 * (q2 * q2 + q3 * q3)) * 57.2957795131;
 }
 
+void EJ:: ini_angle(float _ax, float _ay, float _az ,float* _angleY,float* _angleZ){
+    AcctoAngle(_ax,_ay,_az);
+    *_angleY = A_angleY;
+    *_angleZ = A_angleZ;
+}
+
 
 void EJ:: AcctoAngle(float _ax, float _ay, float _az){
      // 중력 가속도 벡터를 단위 벡터로 정규화
-  A_angleY = atan(-_az / sqrt(pow(_ay, 2) + pow(_ax, 2)))* 57.2957795131;
-  A_angleZ = atan(_ay / sqrt(pow(_az, 2) + pow(_ax, 2)))* 57.2957795131;
+  A_angleZ = atan2(_ay, sqrt(_ax * _ax + _az * _az)) * 180 / PI;
+  A_angleY = atan2(-_az, sqrt(_ay * _ay + _ax * _ax)) * 180 / PI;
 }
 
 void EJ:: GyrotoAngleRate(float _gx, float _gy, float _gz){

@@ -70,6 +70,9 @@ public:
     char read();
     Packet packet;
     void write();
+    String dataString;
+    String gather();
+    String gui();
 };
 
 #endif

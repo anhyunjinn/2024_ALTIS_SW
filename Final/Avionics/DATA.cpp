@@ -13,10 +13,6 @@ bool DATA::set()
 
 void DATA::send() {
     if (digitalRead(_aux) == HIGH) {
-        static unsigned long before = 0;
-        unsigned long now = millis();
-        unsigned long dt = now - before;
-        if (dt > 5) {
             struct_lora();
             char tDataBuf[40] = {0};
             int bufIndex = 0;
@@ -33,8 +29,6 @@ void DATA::send() {
 
             // 데이터 전송
             _serial.write(tDataBuf, bufIndex);
-            before = now;
-        }
     }
 }
 
@@ -44,67 +38,97 @@ char DATA::read()
     {
         return (char)_serial.read();
     }
-    else
+    if (Serial.available() > 0)
     {
-        return '0';
+        return (char)Serial.read();
     }
+    return 0;
 }
 
 void DATA::struct_lora(){
-    lora.t = packet.t;
-    lora.ax =packet.ax;
-    lora.ay = packet.ay;
-    lora.az =packet.az;
-    lora.angleX = packet.angleX;
-    lora.angleY = packet.angleY;
-    lora.angleZ= packet.angleZ;
-    lora.a = packet.a;
-    lora.ej = packet.ej;
+lora.t = packet.t;
+lora.ax = packet.ax;
+lora.ay = packet.ay;
+lora.az = packet.az;
+lora.angleX = packet.angleX;
+lora.angleY = packet.angleY;
+lora.angleZ = packet.angleZ;
+lora.a = packet.a;
+lora.ej = packet.ej;
+}
+String DATA::gui(){
+    dataString = "";
+    dataString += String(packet.t);
+    dataString += ",";
+
+    dataString += String(packet.ax);
+    dataString += ",";
+    dataString += String(packet.ay);
+    dataString += ",";
+    dataString += String(packet.az);
+    dataString += ",";
+
+    dataString += String(packet.angleX);
+    dataString += ",";
+    dataString += String(packet.angleY);
+    dataString += ",";
+    dataString += String(packet.angleZ);
+    dataString += ",";
+
+    dataString += String(packet.a);
+    dataString += ",";
+
+    dataString += String(packet.ej, BIN);
+    return dataString;
 }
 
+String DATA::gather(){
+    dataString = "";
+    dataString += String(packet.t);
+    dataString += ",";
+
+    dataString += String(packet.ax);
+    dataString += ",";
+    dataString += String(packet.ay);
+    dataString += ",";
+    dataString += String(packet.az);
+    dataString += ",";
+
+    dataString += String(packet.gx);
+    dataString += ",";
+    dataString += String(packet.gy);
+    dataString += ",";
+    dataString += String(packet.gz);
+    dataString += ",";
+
+    dataString += String(packet.angleX);
+    dataString += ",";
+    dataString += String(packet.angleY);
+    dataString += ",";
+    dataString += String(packet.angleZ);
+    dataString += ",";
+
+    dataString += String(packet.p);
+    dataString += ",";
+    dataString += String(packet.a);
+    dataString += ",";
+
+    dataString += String(packet.lat);
+    dataString += ",";
+    dataString += String(packet.lon);
+    dataString += ",";
+
+    dataString += String(packet.ej, BIN);
+    return dataString;
+}
 
 void DATA::write()
 {
-    file = SD.open("Flight_Data.txt", FILE_WRITE);
+    File file = SD.open("Flight_Data.txt", FILE_WRITE);
+    // if the file is available, write to it:
     if (file)
     {
-        file.print(packet.t);
-        file.print(",");
-
-        file.print(packet.ax);
-        file.print(",");
-        file.print(packet.ay);
-        file.print(",");
-        file.print(packet.az);
-        file.print(",");
-
-        file.print(packet.gx);
-        file.print(",");
-        file.print(packet.gy);
-        file.print(",");
-        file.print(packet.gz);
-        file.print(",");
-
-        file.print(packet.angleX);
-        file.print(",");
-        file.print(packet.angleY);
-        file.print(",");
-        file.print(packet.angleZ);
-        file.print(",");
-
-        file.print(packet.p);
-        file.print(",");
-        file.print(packet.a);
-        file.print(",");
-
-        file.print(packet.lat);
-        file.print(",");
-        file.print(packet.lon);
-        file.print(",");
-        
-        file.println(packet.ej);
-        // close the file:
-
+        file.println(gather());
         file.close();
     }
 }
