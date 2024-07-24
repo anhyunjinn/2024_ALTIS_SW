@@ -62,21 +62,21 @@ void loop() {
     LORA data;
     if (parseDataPacket(tDataBuf, bufIndex, data)) {
       // 수신된 데이터를 처리 (예: 출력)
-      Serial.println(data.t);
+      Serial.print(data.t);
       Serial.print(",");
-      Serial.println(data.ax);
+      Serial.print(data.ax);
       Serial.print(",");
-      Serial.println(data.ay);
+      Serial.print(data.ay);
       Serial.print(",");
-      Serial.println(data.az);
+      Serial.print(data.az);
       Serial.print(", ");
-      Serial.println(data.angleX);
+      Serial.print(data.angleX);
       Serial.print(",");
-      Serial.println(data.angleY);
+      Serial.print(data.angleY);
       Serial.print(",");
-      Serial.println(data.angleZ);
+      Serial.print(data.angleZ);
       Serial.print(",");
-      Serial.println(data.a);
+      Serial.print(data.a);
       Serial.print(",");
       Serial.println(data.ej);
     } else {
