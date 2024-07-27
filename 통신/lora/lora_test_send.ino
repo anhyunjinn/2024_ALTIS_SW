@@ -12,8 +12,8 @@ struct LORA {
 LORA data;
 
 void setup() {
-  Serial.begin(9600);
-  Serial2.begin(9600, SERIAL_8N1, RXD2, TXD2);
+  Serial.begin(115200);
+  Serial2.begin(115200, SERIAL_8N1, RXD2, TXD2);
 }
 
 void loop() {
@@ -52,5 +52,5 @@ void loop() {
   Serial.print(data.a); Serial.print(",");
   Serial.println(data.ej);
 
-  delay(1000); // 1초마다 데이터 전송
+  delay(100); // 1초마다 데이터 전송
 }
