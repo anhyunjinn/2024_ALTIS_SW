@@ -2,7 +2,7 @@
 #define TXD2 17
 
 struct mystruct {
-  unsigned long t;
+  int t;
   float ax, ay, az;
   float angleX, angleY, angleZ;
   int a;
