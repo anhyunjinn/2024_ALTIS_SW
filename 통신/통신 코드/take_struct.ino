@@ -1,17 +1,12 @@
-#include <SoftwareSerial.h>
-
-SoftwareSerial lora(2, 3); // RX, TX
+#define RXD2 16
+#define TXD2 17
 
 struct mystruct {
-  float ax;
-  float ay;
-  float az;
-  float z;
-  float alt;
-  float lat;
-  float lon;
-  int h;
+  unsigned long t;
+  float ax, ay, az;
+  float angleX, angleY, angleZ;
   int a;
+  byte ej;
 };
 
 mystruct mydata;
@@ -26,14 +21,11 @@ void loop() {
     lora.readBytes((byte*)&mydata, sizeof(mydata)); // 수신된 데이터를 구조체로 변환
 
     Serial.print("Received data: ");
-    Serial.print("ax: "); Serial.print(mydata.ax);
+    Serial.print(" t: "); Serial.print(mydata.t);
+    Serial.print(" ax: "); Serial.print(mydata.ax);
     Serial.print(" ay: "); Serial.print(mydata.ay);
     Serial.print(" az: "); Serial.print(mydata.az);
-    Serial.print(" z: "); Serial.print(mydata.z);
-    Serial.print(" alt: "); Serial.print(mydata.alt);
-    Serial.print(" lat: "); Serial.print(mydata.lat);
-    Serial.print(" lon: "); Serial.println(mydata.lon);
-    Serial.print(" h: "); Serial.print(mydata.h);
-    Serial.print(" a: "); Serial.println(mydata.a);
+    Serial.print(" a: "); Serial.print(mydata.a);
+    Serial.print(" ej: "); Serial.println(mydata.ej);
   }
 }
