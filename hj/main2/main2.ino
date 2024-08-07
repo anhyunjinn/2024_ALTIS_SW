@@ -142,14 +142,14 @@ void setup() {
   char c;
   // 캘리브레이션 완료 대기
   while (c != 'r') {
-    Serial.println("l:장전,c:체크,r:비행준비완료");
+    Serial.println("l: 장전, c: 체크, r: 비행 준비 완료");
     c = data.read();
 
     if (c == 'l') {  // 사출 장치 장전
       ej.load();
     }
 
-    if (c == 'c') {  // 사출 장치 장전
+    if (c == 'c') {  // 사출 장치 연결 확인
       ej.connection_check();
     }
   }
@@ -165,10 +165,6 @@ void setup() {
 void loop() {
   float ax, ay, az, gx, gy, gz;
   char c = data.read();
-
-  if (c == 'c') { // 사출 핀 연결 확인
-    ej.connection_check();
-  }
 
   if (c == 'e') {  // 강제 사출
     interface(2);
